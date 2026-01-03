@@ -1,0 +1,425 @@
+{
+  "filename": "dec19p1.pdf",
+  "booklet_no": "39097",
+  "booklet_type": "A",
+  "paper": "PAPER-I",
+  "exam_date": "DEC-19",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text_en": "Which set of the following differentiate the offline with that of online testing method ? The statements are: (1) Offline is local centered, online is centralized (2) Offline is non-digital, online is digital (3) Offline is subjective, online is objective (4) Internet is must for online, and not a necessity for offline (5) Online usually provides instant evaluation, offline need not",
+      "question_text_gu": "નીચેના સમૂહોમાં કયાં ઓફ લાઈનથી ઓનલાઈન પરીક્ષણ પદ્ધતિને જૂદા પાડે છે ? વિધાનો નીચે મુજબ છે. (1) ઓફ લાઈન એ સ્થાનીય છે, ઓનલાઈન એ કેન્દ્રીય છે. (2) ઓફ લાઈન એ નોન-ડીજીટલ છે, ઓનલાઈન ડીજીટલ છે. (3) ઓફ લાઈન એ સબ્જેકટીવ છે, ઓનલાઈન ઓબ્જેકટીવ છે. (4) ઓનલાઈન માટે ઈન્ટરનેટ જરૂરી છે, જયારે ઓફલાઈન માટે જરૂરી નથી. (5) ઓનલાઈન એ સામાન્યતયા તાત્કાલિક મૂલ્યાંકન પુરૂ પાડે છે, જયારે ઓફલાઈનમાં થતું નથી.",
+      "options_en": {
+        "A": "1, 4 and 5",
+        "B": "1, 2 and 5",
+        "C": "1, 3 and 5",
+        "D": "2, 3 and 4"
+      },
+      "options_gu": {
+        "A": "1, 4 अने 5",
+        "B": "1, 2 अने 5",
+        "C": "1, 3 अने 5",
+        "D": "2, 3 અને 4"
+      }
+    },
+    {
+      "question_number": 2,
+      "question_text_en": "The strength of project method lies in:",
+      "question_text_gu": "પ્રોજેકટ મેથડની તાકાત નીચે આપેલ છે :",
+      "options_en": {
+        "A": "Social participation",
+        "B": "Collection of information",
+        "C": "Role of teacher as instructor",
+        "D": "Individualised engagement"
+      },
+      "options_gu": {
+        "A": "સામાજિક ભાગીદારી",
+        "B": "માહિતી એકત્રીકરણ",
+        "C": "માર્ગદર્શક તરીકે શિક્ષકની ભૂમિકા",
+        "D": "વ્યક્તિગત શામિલગિરી"
+      }
+    },
+    {
+      "question_number": 3,
+      "question_text_en": "Computer based testing is essential to:",
+      "question_text_gu": "કમ્પ્યુટર આધારિત પરીક્ષણ માટે કયું જરૂરી છે ?",
+      "options_en": {
+        "A": "Make testing transparent, objective and efficient",
+        "B": "Ease teacher from burden of evaluation",
+        "C": "Prepare digitised evaluation sheets for speedy results",
+        "D": "Minimise human bias in testing"
+      },
+      "options_gu": {
+        "A": "પરીક્ષણ પારદર્શિતા, વસ્તુ લક્ષ્યગત અને ક્ષમતા",
+        "B": "શિક્ષકનું કામ મૂલ્યાંકનમાં ઓછું કરવું",
+        "C": "ઝડપથી પરિણામ માટે ડીજીટલ મૂલ્યાંકન બનાવું",
+        "D": "માનવીય પૂર્વાગ્રહને પરીક્ષણમાં ઓછું કરવું"
+      }
+    },
+    {
+      "question_number": 4,
+      "question_text_en": "Open book examination is to:",
+      "question_text_gu": "ખુલ્લાપુસ્તક પરીક્ષણ પદ્ધતિ આ છે :",
+      "options_en": {
+        "A": "do away from malpractice of copying",
+        "B": "test ability of candidates to refer books and learn",
+        "C": "to test candidates ability on application based knowledge",
+        "D": "to increase the quality of question paper"
+      },
+      "options_gu": {
+        "A": "નકલ કરવાની અનૈતિક પદ્ધતિ રોકવા",
+        "B": "વિદ્યાર્થીઓમાં પુસ્તકવાંચન અને શીખવાની ક્ષમતાનું પરીક્ષણ",
+        "C": "જ્ઞાનનું ઉપયોગ કરવાની વિદ્યાર્થીઓમાં ક્ષમતા આપવાની",
+        "D": "પ્રશ્નપત્રની ગુણવત્તા વધારવી"
+      }
+    },
+    {
+      "question_number": 5,
+      "question_text_en": "By reflective teaching learner :",
+      "question_text_gu": "ચિંતનાત્મક શિક્ષણથી વિદ્યાર્થીઓને :",
+      "options_en": {
+        "A": "updates skills to be competent",
+        "B": "will be a good achiever in his examination",
+        "C": "will internalise knowledge and be judgemental",
+        "D": "will get content mastery"
+      },
+      "options_gu": {
+        "A": "નવીનીકરણ કરીને ક્ષમતાપૂર્ણ બનાવવા",
+        "B": "પરીક્ષામાં સારી સિદ્ધિ પ્રાપ્ત કરવી",
+        "C": "આંતરિક જ્ઞાનવર્ધન અને નિર્ણય લેવાની ક્ષમતા પ્રાપ્ત કરાવવા",
+        "D": "વિષયવસ્તુમાં તજજ્ઞતા પ્રાપ્ત કરાવવી"
+      }
+    },
+    {
+      "question_number": 6,
+      "question_text_en": "The data derived through experimental method:",
+      "question_text_gu": "પ્રયોગિક પદ્ધતિથી મળેલી માહિતી :",
+      "options_en": {
+        "A": "is not from a natural setting",
+        "B": "lacks specific measurement",
+        "C": "is unrealistic",
+        "D": "is artificial"
+      },
+      "options_gu": {
+        "A": "કુદરતી ગોઠવણીથી નહીં મળે",
+        "B": "વિશિષ્ટ માપનો અભાવ",
+        "C": "અવાસ્તવિક",
+        "D": "કૃત્રિમ"
+      }
+    },
+    {
+      "question_number": 7,
+      "question_text_en": "Which one of the following is a constraint for adopting historical method of research ?",
+      "question_text_gu": "ઐતિહાસિક સંશોધનમાં નીચે આપેલ કયો વિકલ્પ અવરોધ પેદા કરે છે ?",
+      "options_en": {
+        "A": "Lack of technical advancement",
+        "B": "Non-availability of primary data",
+        "C": "Ambiguity of concepts",
+        "D": "Subjective information"
+      },
+      "options_gu": {
+        "A": "તકનીકી પ્રગતિનો અભાવ",
+        "B": "પ્રાથમિક માહિતીની અપ્રાપ્યતા",
+        "C": "સંકલ્પનાની અસ્પષ્ટતા",
+        "D": "વસ્તુલક્ષી માહિતી"
+      }
+    },
+    {
+      "question_number": 8,
+      "question_text_en": "After completion of work, on a research problem, the report was discussed in a scholar's meet, and researcher was suggested to change title of problem and hypothesis, based on the data analysis. This is:",
+      "question_text_gu": "એક શોધસમસ્યા પૂર્ણ કર્યા બાદ, અહેવાલ પ્રમાણે શોધકર્તાઓની મીટિંગમાં, આ નિર્ણય લેવાયો કે માહિતી પૃથકકરણના આધારે એનું શીર્ષક અને ઉત્કલ્પના બદલવામાં આવે",
+      "options_en": {
+        "A": "Logical and appropriate",
+        "B": "Processes systematisation of report",
+        "C": "Illogical and not desirable",
+        "D": "Improving the validity of report"
+      },
+      "options_gu": {
+        "A": "તાર્કિક અને યોગ્ય",
+        "B": "અહેવાલને પદ્ધતિસર કરવાની પ્રક્રિયા",
+        "C": "અતાર્કિક અને અઈચ્છનીય",
+        "D": "અહેવાલની પ્રમાણભૂતતા સુધારવાનું"
+      }
+    },
+    {
+      "question_number": 9,
+      "question_text_en": "Title of the thesis is :",
+      "question_text_gu": "શોધ નિબંધનું શીર્ષક :",
+      "options_en": {
+        "A": "An assertion",
+        "B": "An observation",
+        "C": "A fact",
+        "D": "An elaboration"
+      },
+      "options_gu": {
+        "A": "નિધાન",
+        "B": "અવલોકન",
+        "C": "તથ્ય (સત્ય)",
+        "D": "વિસ્તાર"
+      }
+    },
+    {
+      "question_number": 10,
+      "question_text_en": "Given below are the steps of a scientific research. Arrange them in order: (1) Formulation of hypothesis (2) Development of research tool (3) Identification of research problem (4) Selection of sample (5) Data analysis and interpretation",
+      "question_text_gu": "નીચે આપેલ વૈજ્ઞાનિક સંશોધનના સોપાનોને ક્રમમાં ગોઠવો ? (1) ઉત્કલ્પના રચવી (2) સંશોધન ઉપકરણોનો વિકાસ (3) સંશોધન સમસ્યાની ઓળખ (4) નમૂના પસંદગી (5) માહિતી પૃથકકરણ અને અર્થઘટન",
+      "options_en": {
+        "A": "1, 2, 3, 5, 4",
+        "B": "1, 4, 3, 2, 5",
+        "C": "3, 4, 1, 2, 5",
+        "D": "3, 1, 2, 4, 5"
+      },
+      "options_gu": {
+        "A": "1, 2, 3, 5, 4",
+        "B": "1, 4, 3, 2, 5",
+        "C": "3, 4, 1, 2, 5",
+        "D": "3, 1, 2, 4, 5"
+      }
+    },
+    {
+      "context_en": "If the world is different today, we need to think, talk and engage accordingly. Falling back is unlikely to help, he said adding \"purposeful pursuit of national interest is shifting global dynamics\". Highlighting India's new approach in dealing with terrorism he compared \"lack of response to the terror attack of Mumbai in comparison to the way the country responded to the Uri and Pulwama strikes. On India walking away from the Regional Comprehensive Economic Partnership, the external affair minister said no agreement was better than having a bad agreement. Giving a historical perspective to geopolitical issues, Jai-Shankar said \"For years India's position on the world state seemed assured but the 1962 conflict with China significantly damaged India's standing.",
+      "context_gu": "જો આજ આપણે માનીએ છીએ કે દુનિયા જુદી થઈ ગઈ છે. સંપૂર્ણ વિશ્વ પોતાનું હિત જુએ છે ત્યારે આપણે આ બાબતમાં વાત કરવાની. વિચાર કરવાની અને એમાં સમાવેશ થઈ સંલગ્ન થવાની જરૂરત છે. ભૂતકાળમાં જે કર્યુ એને જોવાથી દેશને મદદ નહીં થાય. વિશેષમાં એમણે ઉમેર્યું કે વિશ્વહિતના પૂર્વ આપણને પોતાના દેશના હિતનું વિચાર કરવું પડશે. ભારતના નવા અભિગમ વિષે વાત કરતા એમણે આતંકવાદ તરફ ધ્યાન દોરતા કહ્યું કે આતંકવાદ સામે પ્રતિકારનો દેખાવો ઉરી અને પુલવામામાં જેટલો જેવા મળ્યો હતો, એટલો મુંબઈના આતંકવાદી હુમલામાં જોવા નહોતો મળ્યો. ભારતની રીજનલ કોમ્પ્રેહેનસિવ ઈકોનોમિક ભાગીદારીમાંથી દૂર થવાની પ્રક્રિયામાં એમણે કહ્યું કે, ખરાબ કરાર કરતા કોઈ પણ કરાર ન કરવો સારો. ઐતિહાસિક પરિપ્રેક્ષ્યમાં ભૂરાજકીય દૃષ્ટિકોણ આપતા શ્રી જયશંકરે કહ્યું “વર્ષો સુધી ભારતની સ્થિતિ વૈશ્વિક સ્તરે આશ્વસ્તના રૂપમાં દેખાતી હતી પણ 1962 માં ચીનની સાથે થયા કરાર પછી દેખીતુ નુકશાન જોવા મળ્યુ હતું.",
+      "question_number": 11,
+      "question_text_en": "RCEP stands for:",
+      "question_text_gu": "આર.સી.ઈ.પી (RCEP) નો મૂળ શબ્દસ્વરૂપ :",
+      "options_en": {
+        "A": "Regional Common Economic Party",
+        "B": "Regional Common Election Party",
+        "C": "Regional Comprehensive Election Partnership",
+        "D": "Regional Comprehensive Economic Partnership"
+      },
+      "options_gu": {
+        "A": "રીજનલ કોમન ઈકોનોમિક પાર્ટી",
+        "B": "રીજનલ કોમન ઈલેકશન પાર્ટી",
+        "C": "રીજનલ કોમ્પ્રીહેનસિવ ઈલેકશન પાર્ટનરશીપ",
+        "D": "રીજનલ કોમ્પ્રીહેનશિપ ઈકોનોમિક પાર્ટનરશીપ"
+      }
+    },
+    {
+      "question_number": 12,
+      "question_text_en": "What was country's idea about Economic Partnership?",
+      "question_text_gu": "આર્થિક ભાગીદારીમાં ભારત દેશ શું વિચારે છે ?",
+      "options_en": {
+        "A": "All Agreements are good",
+        "B": "Agreements are superior than country",
+        "C": "Nothing wrong in saying no to unfavourable agreement than having an awful agreement",
+        "D": "Say yes to all agreement"
+      },
+      "options_gu": {
+        "A": "બધાય કરારો સારા જ હોય",
+        "B": "કરારો દેશથી પણ શ્રેષ્ઠ હોય છે",
+        "C": "વાંધાજનક કરાર કરતા, કરાર બાબતે 'ના' પાડવું વધુ સારૂ છે",
+        "D": "બધાય કરારમાં 'હા' જ પાડવાનું"
+      }
+    },
+    {
+      "question_number": 13,
+      "question_text_en": "The above statement was given by:",
+      "question_text_gu": "ઉપર આપેલ વિધાન કોણે આપ્યુ :",
+      "options_en": {
+        "A": "Subhramanyam Swami",
+        "B": "Subhramanyam Jayshankar",
+        "C": "Ravi Shankar",
+        "D": "K. Subhramanyam"
+      },
+      "options_gu": {
+        "A": "સુબ્રમન્યમ સ્વામી",
+        "B": "સુબ્રમન્યમ જયશંકર",
+        "C": "રવિ શંકર",
+        "D": "કે. શુબ્રમન્યમ"
+      }
+    },
+    {
+      "question_number": 14,
+      "question_text_en": "India's New Approach on Terrorism is:",
+      "question_text_gu": "આતંકવાદ સામે ભારતનો નુતન અભિગમ :",
+      "options_en": {
+        "A": "Wait till any action takes place",
+        "B": "Deny for any type of Action",
+        "C": "Earliest it was reactive, at present it is proactive",
+        "D": "Ready to loose for Peace"
+      },
+      "options_gu": {
+        "A": "સામેની ક્રિયા પછીની પ્રતિક્રિયા",
+        "B": "કોઈપણ ક્રિયાની પ્રતિક્રિયાનો ઈન્કાર",
+        "C": "પહેલા ભારત પ્રતિક્રિયાશીલ હતો હવે સક્રિય છે",
+        "D": "શાંતિ માટે ગુમાવવાની તૈયારી"
+      }
+    },
+    {
+      "question_number": 15,
+      "question_text_en": "Year's back conflict of India with China was:",
+      "question_text_gu": "વર્ષો પહેલા ભારત અને ચીન વચ્ચેનો યુદ્ધ કયા મુદ્દાને લઈને હતું ?",
+      "options_en": {
+        "A": "National Issue",
+        "B": "International Issue",
+        "C": "Political Issue",
+        "D": "Geopolitical Issue"
+      },
+      "options_gu": {
+        "A": "રાષ્ટ્રીય મુદ્દો",
+        "B": "આંતરરાષ્ટ્રીય મુદ્દો",
+        "C": "રાજનૈતિક મુદ્દો",
+        "D": "ભૂરાજકીય મુદ્દો"
+      }
+    },
+    {
+      "question_number": 16,
+      "question_text_en": "During the process of communication :",
+      "question_text_gu": "પ્રત્યાયનની પ્રક્રિયા હોય ત્યારે :",
+      "options_en": {
+        "A": "Sender encodes for the media and receiver decodes the message",
+        "B": "Sender decodes for the media and receiver encodes the message",
+        "C": "Medium encodes and decodes the message from sender",
+        "D": "Medium encodes and decodes the message from receiver"
+      },
+      "options_gu": {
+        "A": "મોકલનાર મીડિયામાં સંકેતમાં લખે અને મેળવનાર સાંકેતિક લિપિમાં ઉકેલે",
+        "B": "મોકલનાર મીડિયામાં સાંકેતિક લિપિમાં ઉકેલે અને મેળવનાર સંકેતમાં લખે",
+        "C": "મીડિયા સાંકેતિક લિપીમાં લખે અને ઉકેલીને મોકલનારને આપે",
+        "D": "મીડિયા સાંકેતિક લિપીમાં લખે અને ઉકેલીને મેળવનારને આપે"
+      }
+    },
+    {
+      "question_number": 17,
+      "question_text_en": "Proxemics is the type of non-verbal communication which deals with:",
+      "question_text_gu": "દૂર અંતરથી કરાતુ (પ્રોકસીમીકસ) અશાબ્દિક પ્રત્યાયન કયું છે ?",
+      "options_en": {
+        "A": "Appearance",
+        "B": "Touch",
+        "C": "Body organs",
+        "D": "Space"
+      },
+      "options_gu": {
+        "A": "દેખાવ",
+        "B": "સ્પર્શ",
+        "C": "શરીરના અંગો",
+        "D": "અવકાશ"
+      }
+    },
+    {
+      "question_number": 18,
+      "question_text_en": "Language barriers in communication exist due to :",
+      "question_text_gu": "પ્રત્યાયનમાં ભાષાનો અવરોધ કયા કારણથી છે ?",
+      "options_en": {
+        "A": "the difference in the sender's recognition vocabulary and the receiver's user vocabulary",
+        "B": "the difference in sender's user vocabulary and the receiver's recognition vocabulary",
+        "C": "the sender's user vocabulary and the receiver's recognition vocabulary being alike",
+        "D": "the sender's recognition vocabulary and the receiver's user vocabulary being the same"
+      },
+      "options_gu": {
+        "A": "મોકલનારના ઓળખશબ્દભંડોળ અને મેળવનારના યૂસર્સ શબ્દભંડોળનું તફાવત",
+        "B": "મોકલનારના યૂસર્સ શબ્દભંડોળ અને મેળવનારના ઓળખશબ્દભંડોળનું તફાવત",
+        "C": "મોકલનારના યૂસર્સ શબ્દભંડોળ અને મેળવનારના ઓળખશબ્દભંડોળ એકજ હશે",
+        "D": "મેળવનારના ઓળખશબ્દભંડોળ અને મોકલનારના યૂસર્સ શબ્દભંડોળ એકજ હશે"
+      }
+    },
+    {
+      "question_number": 19,
+      "question_text_en": "In intra-personal communication :",
+      "question_text_gu": "આંતર વ્યક્તિગત પ્રત્યાયનમાં :",
+      "options_en": {
+        "A": "sender sends and receives the message",
+        "B": "sender sends and another receiver receives the message",
+        "C": "sender sends and two receivers receive the message",
+        "D": "sender sends and the group receives the message"
+      },
+      "options_gu": {
+        "A": "મોકલનાર સંદેશો આપે અને મેળવે પણ",
+        "B": "મોકલનાર સંદેશો આપે અને મેળવનાર સંદેશો મેળવે",
+        "C": "મોકલનાર સંદેશો આપે અને બે મેળવનાર સંદેશો મેળવે",
+        "D": "મોકલનાર સંદેશો આપે અને એક ગ્રુપ સંદેશો મેળવે"
+      }
+    },
+    {
+      "question_number": 20,
+      "question_text_en": "The mass media impacts our society in different ways except:",
+      "question_text_gu": "સમૂહમાઘ્યમની અસર આપણા સમાજમાં છે, નીચે આપેલ એક વિકલ્પ સિવાય :",
+      "options_en": {
+        "A": "for influencing public opinion",
+        "B": "for modification of behaviour",
+        "C": "for changing values and belief system",
+        "D": "for judicial decisions"
+      },
+      "options_gu": {
+        "A": "લોકોના અભિપ્રાયમાં પ્રભાવ",
+        "B": "લોકોના વર્તનમાં સુધાર થાય",
+        "C": "મૂલ્ય અને સમજમાં બદલાવ",
+        "D": "ન્યાયાલયને લાગતું નિર્ણય"
+      }
+    },
+    {
+      "question_number": 21,
+      "question_text_en": "Find out the missing number: 4, 9, 20, 43, .....",
+      "question_text_gu": "ખૂટતા અંકની પૂર્તિ કરો : 4, 9, 20, 43, .....",
+      "options_en": {
+        "A": "84",
+        "B": "96",
+        "C": "108",
+        "D": "133"
+      },
+      "options_gu": {
+        "A": "84",
+        "B": "96",
+        "C": "108",
+        "D": "133"
+      }
+    },
+    {
+      "question_number": 22,
+      "question_text_en": "From Vadodara station, if we buy two tickets to station P and three tickets to station Q, the total cost is Rs. 77, but if we buy 3 tickets to station P and 5 tickets to station Q, the total cost is Rs. 124. The fare from Vadodara to P is:",
+      "question_text_gu": "વડોદરા સ્ટેશનથી સ્ટેશન P ની બે ટિકિટ અને સ્ટેશન Q ની ત્રણ ટિકિટ ખરીદતા કુલ ખર્ચ રૂ. 77 થાય છે, પરંતુ જો સ્ટેશન P ની ત્રણ ટિકિટ અને સ્ટેશન Q ની 5 ટિકિટ ખરીદવામાં આવે તો કુલ ખર્ચ રૂ. 124 થાય છે. તો વડોદરાથી સ્ટેશન P નું ભાડુ જણાવો :",
+      "options_en": {
+        "A": "Rs. 13",
+        "B": "Rs. 14",
+        "C": "Rs. 18",
+        "D": "Rs. 20"
+      },
+      "options_gu": {
+        "A": "३८. 13",
+        "B": "३८. 14",
+        "C": "३८. 18",
+        "D": "३८. 20"
+      }
+    },
+    {
+      "question_number": 23,
+      "question_text_en": "300 gm of sugar solution has 40% sugar in it. How much sugar should be added to make it 50% in the solution ?",
+      "question_text_gu": "ખાંડના 40% દ્રાવણમાં 300 ગ્રામ ખાંડ છે. દ્રાવણને 50% બનાવવા માટે તેમાં કેટલી ખાંડ ઉમેરવી પડશે ?",
+      "options_en": {
+        "A": "30 gm",
+        "B": "40 gm",
+        "C": "50 gm",
+        "D": "60 gm"
+      },
+      "options_gu": {
+        "A": "30 ગ્રામ",
+        "B": "40 ગ્રામ",
+        "C": "50 ગ્રામ",
+        "D": "60 ગ્રામ"
+      }
+    },
+    {
+      "question_number": 24,
+      "question_text_en": "Numbers in boxes given below follow the same arrangement. Find the missing numbers in the third box.",
+      "question_text_gu": "નીચે આપેલા ખાનાઓમાં અંકોની ગોઠવણી એકસમાન છે. ત્રીજા ખાનામાં ખૂટતા અંકો શોધો :",
+      "options_en": {
+        "A": "65, 36, 63",
+        "B": "53, 24, 63",
+        "C": "49, 32, 53",
+        "D": "51, 25, 61"
+      },
+      "options_gu": {
+        "A": "65, 36, 63",
+        "B": "53, 24, 63",
+        "C": "49, 32, 53",
+        "D": "51, 25, 61"
+      }
+    },
+    {
+      "question_number": 25,
+      "question_text_en": "By selling a mobile for Rs. 1,536, Amit lost 20%. What percent shall he gain or loose by selling it for Rs. 2,000 ?",
+      "question_text_gu": "મોબાઈલને રૂા. 1536 માં વેચતા અમિતને 20% ની ખોટ ગઈ. મોબાઈલને રૂા. 2000 માં વેચતા તેને કેટલા ટકા નફો કે ખોટ થશે ?",
+      "options_en": {
+        "A": "A loss of 8.25%",
+        "
