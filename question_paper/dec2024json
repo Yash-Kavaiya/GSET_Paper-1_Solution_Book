@@ -1,0 +1,862 @@
+{
+  "filename": "dec24p1.pdf",
+  "booklet_no": "421853",
+  "booklet_type": "A",
+  "paper": "PAPER - I",
+  "exam_date": "DEC-24",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text_en": "Semantic barrier in communication is",
+      "question_text_gu": "પ્રત્યાયનના સંદર્ભે, સિમેન્ટિક અવરોધ એટલે",
+      "options_en": {
+        "A": "Use of technical/difficult language",
+        "B": "Use of technology",
+        "C": "Lack of attention",
+        "D": "Lack of co-ordination"
+      },
+      "options_gu": {
+        "A": "યાંત્રિક/અઘરી ભાષાનો ઉપયોગ",
+        "B": "પ્રાદ્યોગિકનો ઉપયોગ",
+        "C": "ધ્યાનનો અભાવ",
+        "D": "સંકલનનો અભાવ"
+      }
+    },
+    {
+      "question_number": 2,
+      "question_text_en": "The key purpose of effective communication is",
+      "question_text_gu": "અસરકારક પ્રત્યાયનનો મુખ્ય હેતુ",
+      "options_en": {
+        "A": "Create barriers",
+        "B": "Promote misunderstanding",
+        "C": "Effect change",
+        "D": "Confuse audience"
+      },
+      "options_gu": {
+        "A": "અવરોધ ઉભો કરવો",
+        "B": "ગેરસમજને પ્રોત્સાહન આપવું",
+        "C": "અસર ફેરફાર",
+        "D": "પ્રેક્ષકોને મૂંઝવણમાં મૂકવા"
+      }
+    },
+    {
+      "question_number": 3,
+      "question_text_en": "Identify the correct sequence of the elements in the communication system.\na. Speech\nb. Speaker\nc. Receiver\nd. Effect\nThe correct choice is :",
+      "question_text_gu": "પ્રત્યાયન પ્રણાલીમાં તત્વોનો સાચો ક્રમ ઓળખો.\na. ભાષણ\nb. વક્તા\nc. રીસીવર\nd. અસર\nયોગ્ય પસંદગી છે :",
+      "options_en": {
+        "A": "b, a, c, d",
+        "B": "a, b, d, c",
+        "C": "b, a, d, c",
+        "D": "c, d, b, a"
+      },
+      "options_gu": {
+        "A": "b, a, c, d",
+        "B": "a, b, d, c",
+        "C": "b, a, d, c",
+        "D": "c, d, b, a"
+      }
+    },
+    {
+      "question_number": 4,
+      "question_text_en": "Which of the following is an example of non-verbal communication ?",
+      "question_text_gu": "નીચેનામાંથી કયું અશાબ્દિક પ્રત્યાયનનું ઉદાહરણ છે ?",
+      "options_en": {
+        "A": "Writing on the blackboard",
+        "B": "Speaking on microphone",
+        "C": "Sending a voice message",
+        "D": "Nodding head to indicate disagreement"
+      },
+      "options_gu": {
+        "A": "કાળા પાટિયા પર લખવું",
+        "B": "માઇક્રોફોન પર બોલવું",
+        "C": "વોઇસ (શાબ્દિક) મેસેજ મોકલવો",
+        "D": "મતભેદ દર્શાવવા માથું હલાવવું"
+      }
+    },
+    {
+      "question_number": 5,
+      "question_text_en": "'Encoding' in the communication system means",
+      "question_text_gu": "કમ્યુનિકેશન સિસ્ટમ (સંચાર પ્રણાલી)માં ‘એન્કોડિંગ'નો અર્થ થાય છે",
+      "options_en": {
+        "A": "Converting thoughts or ideas into a message",
+        "B": "Translating messages into ideas or thoughts",
+        "C": "Providing opinions on the sender",
+        "D": "Avoiding difficult words in the message"
+      },
+      "options_gu": {
+        "A": "વિચારોને સંદેશમાં રૂપાંતરિત કરવા",
+        "B": "સંદેશનું વિચારોમાં ભાષાંતર કરવું",
+        "C": "મોકલનાર પર અભિપ્રાય પૂરો પાડવો",
+        "D": "સંદેશમાં મુશ્કેલ શબ્દ ટાળવા"
+      }
+    },
+    {
+      "question_number": 6,
+      "question_text_en": "Which one among the following is the common language for AI ?",
+      "question_text_gu": "નીચેનામાંથી કઈ AI માટે સામાન્ય ભાષા છે ?",
+      "options_en": {
+        "A": "Lisp",
+        "B": "Python",
+        "C": "PHP",
+        "D": "JAVA"
+      },
+      "options_gu": {
+        "A": "Lisp (લિસ્પ)",
+        "B": "Python (પાઈથન)",
+        "C": "PHP (પી.એચ.પી.)",
+        "D": "JAVA (જાવા)"
+      }
+    },
+    {
+      "question_number": 7,
+      "question_text_en": "Regarding ICT based governance, which of the following statements is/are correct?\ni. Increasing transparency is an advantage of ICT based governance.\nii. e-governance is related to automation of administrative processes.\niii. Due to ICT based governance, workforce gets reduced.\nChoose the correct option:",
+      "question_text_gu": "આઈ.સી.ટી. શાસનના સંદર્ભે, નીચેનામાંથી કયા વિધાન/નો સાચાં છે ?\ni. વધતી પારદર્શકતા એ આઈ.સી.ટી. શાસનનો ફાયદો છે.\nii. ઈ-શાસન એ શાસકીય પ્રક્રિયાનું સ્વયંસંચાલનને લગતું છે.\niii. આઈ. સી. ટી. શાસનને કારણે કર્મચારીઓની સંખ્યામાં ઘટાડો થાય છે.\nયોગ્ય વિકલ્પ પસંદ કરો:",
+      "options_en": {
+        "A": "i, ii and iii",
+        "B": "i and ii only",
+        "C": "i and iii only",
+        "D": "ii and iii only"
+      },
+      "options_gu": {
+        "A": "i, ii અને iii",
+        "B": "i અને ii માત્ર",
+        "C": "i અને iii માત્ર",
+        "D": "ii અને iii માત્ર"
+      }
+    },
+    {
+      "question_number": 8,
+      "question_text_en": "Which among the following are the National Co-ordinators for SWAYAM?\n1. Indian Institute of Technology Kanpur (IITK)\n2. University Grants Commission (UGC)\n3. Consortium for Educational Communication (CEC)\n4. Indian Institute of Management Bangalore (IIMB)\n5. National Institute of Open Schooling (NIOS)\nChoose the correct answer from the options given below :",
+      "question_text_gu": "નીચેનામાંથી કયા સ્વયં (SWAYAM) માટે રાષ્ટ્રીય સંયોજકો છે ?\n1. ભારતીય પ્રોદ્યોગિક સંસ્થાન કાનપુર (IITK)\n2. વિશ્વવિદ્યાલય અનુદાન આયોગ (UGC)\n3. શૈક્ષણિક સંચાર માટે સંઘ (CEC)\n4. ભારતીય સંચાલન સંસ્થા બેંગ્લોર (IIMB)\n5. રાષ્ટ્રીય મુક્ત વિદ્યાલયી શિક્ષા સંસ્થા (NIOS)\nનીચે આપેલા વિકલ્પોમાંથી યોગ્ય ઉત્તર પસંદ કરો:",
+      "options_en": {
+        "A": "1, 2, 3 and 4",
+        "B": "2, 3, 4 and 5",
+        "C": "1, 2, 3 and 5",
+        "D": "2, 3 and 4"
+      },
+      "options_gu": {
+        "A": "1, 2, 3 ને 4",
+        "B": "2, 3, 4 ને 5",
+        "C": "1, 2, 3 ને 5",
+        "D": "2, 3 ને 4"
+      }
+    },
+    {
+      "question_number": 9,
+      "question_text_en": "Given below are two statements:\nStatement I: SWAYAM is India's own MOOC platform, which offers free online courses in almost all the discipline to students/learners.\nStatement - II: Coursera, Udemy, Udacity, Iversity are other MOOC platforms.\nIn light of the above statements, choose the correct answer from the options given below",
+      "question_text_gu": "નીચે બે વિધાનો આપેલા છે:\nવિધાન - 1 : સ્વયમ્ (SWAYAM) એ ભારતનું પોતાનું મૂક (MOOC) પ્લેટફોર્મ છે, જે દરેક વિદ્યા શાખાઓમાં વિદ્યાર્થીઓ/શીખનારને મફત ઓનલાઈન અભ્યાસક્રમો પૂરા પાડે છે.\nવિધાન - II : કોર્સએરા, યુડેમી, યુડાસીટી, આઈવર્સીટી એ અન્ય મૂક (MOOC) પ્લેટફોર્મો છે.\nઉપરોક્ત વિધાનોના સંદર્ભે નીચે આપેલા વિકલ્પોમાંથી યોગ્ય ઉત્તર પસંદ કરો:",
+      "options_en": {
+        "A": "Both statement I and statement II are true",
+        "B": "Both statement I and statement II are false",
+        "C": "Statement I is true but statement II is false",
+        "D": "Statement I is false but statement II is true"
+      },
+      "options_gu": {
+        "A": "બંને વિધાન I અને વિધાન II સાચા છે",
+        "B": "બંને વિધાન I અને વિધાન II ખોટા છે",
+        "C": "વિધાન I સાચું છે પરંતુ વિધાન II ખોટું છે",
+        "D": "વિધાન I ખોટું છે પરંતુ વિધાન II સાચું છે"
+      }
+    },
+    {
+      "question_number": 10,
+      "question_text_en": "Given below are two statements, one is labeled as Assertion (A) and the other is labeled as Reason (R).\nAssertion (A): 'Touch screen' is considered as both input and output device.\nReason (R): 'Touch screen' can send data and receive data at the same time.\nIn light of the above statements, choose the correct answer from the options given below :",
+      "question_text_gu": "નીચે બે વિધાનો આપેલા છે, એકને વિધાન(A) અને બીજાને કારણ (R) તરીકે નામાભિધાન કરેલું છે.\nવિધાન (A): 'ટચ સ્ક્રીન'ને ઇનપુટ અને આઉટપુટ ઉપકરણ કહી શકાય.\nકારણ (R) : 'ટચ સ્ક્રીન' એ એક જ સમયે માહિતી મોકલી શકે છે અને માહિતી પ્રાપ્ત કરી શકે છે.\nઉપરોક્ત વિધાનોના સંદર્ભે નીચે આપેલા વિકલ્પોમાંથી યોગ્ય ઉત્તર પસંદ કરો:",
+      "options_en": {
+        "A": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+        "B": "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+        "C": "(A) is true but (R) is false",
+        "D": "(A) is false but (R) is true"
+      },
+      "options_gu": {
+        "A": "બંને (A) અને (R) સાચા છે અને (R) એ (A) નું યોગ્ય સ્પષ્ટીકરણ છે",
+        "B": "બંને (A) અને (R) સાચા છે અને (R) એ (A) નું યોગ્ય સ્પષ્ટીકરણ નથી",
+        "C": "(A) સાચું છે પરંતુ (R) ખોટું છે",
+        "D": "(A) ખોટું છે પરંતુ (R) સાચું છે"
+      }
+    },
+    {
+      "question_number": 11,
+      "question_text_en": "Which of the following components fall under presage stage of presage processor-product model of teaching-learning process ?\n1. Content analysis\n2. Learning testing\n3. Classroom interaction\n4. Learning outcome plan\n5. Learning supervision\n6. Learner's motivation\nThe correct choice is :",
+      "question_text_gu": "નીચેનામાંથી ક્યાં ઘટકો શિક્ષણ પ્રક્રિયાના પ્રોસેજ-પ્રોસેસર-પ્રોડક્ટ મોડલના પ્રોસેજ તબક્કામાં આવે છે ?\n1. સામગ્રી વિશ્લેષણ\n2. શિખવાની કસોટી\n3. વર્ગખંડની ક્રિયા-પ્રતિક્રિયા\n4. શિખવાની પરિણામ યોજના\n5. શિખવાની દેખરેખ\n6. શિખનારની પ્રેરણા\nયોગ્ય પસંદગી છે :",
+      "options_en": {
+        "A": "1, 4, 6",
+        "B": "2, 3, 5",
+        "C": "1, 5, 6",
+        "D": "1, 4, 5"
+      },
+      "options_gu": {
+        "A": "1, 4, 6",
+        "B": "2, 3, 5",
+        "C": "1, 5, 6",
+        "D": "1, 4, 5"
+      }
+    },
+    {
+      "question_number": 12,
+      "question_text_en": "Discussion method of teaching does NOT have the advantage of developing",
+      "question_text_gu": "શિક્ષણની ચર્ચા પદ્ધતિનો વિકાસ કરવાનો ફાયદો નથી",
+      "options_en": {
+        "A": "Understanding and experiencing",
+        "B": "Reflective level of experiencing",
+        "C": "Active learning",
+        "D": "Organisation of content flow in a structured sequence"
+      },
+      "options_gu": {
+        "A": "સમજણ અને અનુભવ",
+        "B": "અનુભવનું પ્રતિબિંબિત સ્તર",
+        "C": "સક્રિય શિક્ષણ",
+        "D": "સંરચિત ક્રમમાં સામગ્રી પ્રવાહનું સંગઠન"
+      }
+    },
+    {
+      "question_number": 13,
+      "question_text_en": "A teacher through experience found that learners were able to memorise and recall content, if given in brief summarised form. Of the given below which one is NOT the implication ?",
+      "question_text_gu": "શિક્ષકને અનુભવ દ્વારા જાણવા મળ્યું કે શીખનારાઓ સંક્ષિપ્ત સારાંશ સ્વરૂપમાં આવેલી સામગ્રીને યાદ રાખવા અને યાદ કરવામાં સક્ષમ હતા. નીચે આપેલપૈકી કયો સૂચિતાર્થ નથી ?",
+      "options_en": {
+        "A": "Brief summarisation will motivate learner for active participation",
+        "B": "Brief summarisation will improve understanding and conceptualisation",
+        "C": "Brief summarisation will focus on memorisation irrespective of understanding",
+        "D": "Brief summarisation is key for cognitive learning"
+      },
+      "options_gu": {
+        "A": "સંક્ષિપ્ત સારાંશ શીખનારને સક્રિય ભાગીદારી માટે પ્રોત્સાહિત કરશે",
+        "B": "સંક્ષિપ્ત સારાંશ સમજણ અને વિભાવનામાં સુધારો કરશે",
+        "C": "સંક્ષિપ્ત સારાંશ સમજણને ધ્યાનમાં લીધા વગર યાદ રાખવા પર ધ્યાન કેન્દ્રિત કરશે",
+        "D": "સંક્ષિપ્ત સારાંશ જ્ઞાનાત્મક શિક્ષણ માટે ચાવીરૂપ છે"
+      }
+    },
+    {
+      "question_number": 14,
+      "question_text_en": "The online teaching has advantage with reference to",
+      "question_text_gu": "ઓનલાઈન શિક્ષણનો કયા સંદર્ભમાં ફાયદો છે ?",
+      "options_en": {
+        "A": "use of multimedia system",
+        "B": "well structuring of teaching",
+        "C": "objective based teaching",
+        "D": "all of the above"
+      },
+      "options_gu": {
+        "A": "મલ્ટીમીડિયા (બહુમાધ્યમ) પદ્ધતિનો ઉપયોગ",
+        "B": "અધ્યાપન(શિક્ષણ)નું સારું માળખું",
+        "C": "ધ્યેય આધારિત અધ્યાપન",
+        "D": "ઉપરના બધા જ"
+      }
+    },
+    {
+      "question_number": 15,
+      "question_text_en": "Which of the following learner characteristics disturb classroom teaching?\n1. Self confidence\n2. Absence of teacher clarification\n3. Logical arguments for clarification\n4. Classroom noise by learners\n5. Peer attention seeking argument\n6. Access to large amount of digital material on net\nChoose the correct option:",
+      "question_text_gu": "નીચેનામાંથી કઈ શીખનારની લાક્ષણિકતાઓ વર્ગખંડના શિક્ષણને ખલેલ પહોંચાડે છે ?\n1. આત્મવિશ્વાસ\n2. શિક્ષકની સ્પષ્ટતાની ગેરહાજરી\n3. સ્પષ્ટતા માટે તાર્કિક દલીલો\n4. વિદ્યાર્થીઓ દ્વારા વર્ગખંડમાં અવાજ\n5. સહપાઠીનું ધ્યાન ખેંચતી દલીલ\n6. નેટ પર મોટી માત્રામાં ડિજિટલ સામગ્રીની એક્સેસ\nયોગ્ય વિકલ્પ પસંદ કરો:",
+      "options_en": {
+        "A": "1, 2, 5",
+        "B": "2, 4, 6",
+        "C": "3, 4, 6",
+        "D": "2, 4, 5"
+      },
+      "options_gu": {
+        "A": "1, 2, 5",
+        "B": "2, 4, 6",
+        "C": "3, 4, 6",
+        "D": "2, 4, 5"
+      }
+    },
+    {
+      "question_number": 16,
+      "question_text_en": "In the following series of numbers, one number is wrong in the series :\n864, 420, 200, 96, 40, 16, 6\nWhich is the wrong number?",
+      "question_text_gu": "નીચેના અંકોની શ્રેણીમાં એક અંક ખોટો છે\n864, 420, 200, 96, 40, 16, 6\nકયો અંક ખોટો છે ?",
+      "options_en": {
+        "A": "40",
+        "B": "96",
+        "C": "200",
+        "D": "420"
+      },
+      "options_gu": {
+        "A": "40",
+        "B": "96",
+        "C": "200",
+        "D": "420"
+      }
+    },
+    {
+      "question_number": 17,
+      "question_text_en": "The difference between compound and simple interest on a certain sum of money at the interest rate of 10% per annum for 1.5 years is 183, when the interest is compounded semi annually. What is the sum of money?",
+      "question_text_gu": "1.5 વર્ષ માટે વાર્ષિક 10% ના વ્યાજ દરે ચોક્કસ રકમ પર ચક્રવૃદ્ધિ અને સાદા વ્યાજ વચ્ચેનો તફાવત ₹ 183 છે, જ્યારે વ્યાજ અર્ધવાર્ષિક રીતે ચક્રવૃદ્ધિ કરવામાં આવે છે. તો રકમ શું છે ?",
+      "options_en": {
+        "A": "19,200",
+        "B": "24,000",
+        "C": "35,000",
+        "D": "38,060"
+      },
+      "options_gu": {
+        "A": "19,200",
+        "B": "24,000",
+        "C": "35,000",
+        "D": "38,060"
+      }
+    },
+    {
+      "question_number": 18,
+      "question_text_en": "The following table gives the percentage distribution of population of five States A, B, C, D and E on the basis of poverty line and also on the basis of gender :\n[Table with State A-E, % Below Poverty Line, Below Poverty Line M:F, Above Poverty Line M:F]\nWhat will be the number of females above poverty line in the State D if it is known that the population of State D is 7 million ?",
+      "question_text_gu": "નીચેનું કોષ્ટક ગરીબીરેખાના આધારે અને લિંગના આધારે પાંચ રાજ્યો A, B, C, D અને E ની વસ્તીની ટકાવારીનું વિતરણ આપે છે :\n[કોષ્ટક]\nરાજ્ય Dમાં ગરીબી રેખા ઉપરની મહિલાઓની સંખ્યા કેટલી હશે જો તે જ્ઞાત હોય કે D રાજ્યની વસ્તી 7 મિલિયન છે ?",
+      "options_en": {
+        "A": "2.87 million",
+        "B": "2.43 million",
+        "C": "2.17 million",
+        "D": "1.98 million"
+      },
+      "options_gu": {
+        "A": "2.87 મિલિયન",
+        "B": "2.43 મિલિયન",
+        "C": "2.17 મિલિયન",
+        "D": "1.98 મિલિયન"
+      }
+    },
+    {
+      "question_number": 19,
+      "question_text_en": "The information about the students of a college is given below :\nMembers of Cricket Club only: 5%\nMembers of Football Club only: 15%\nMembers of both the Club: 75%\nNon members: 40\nWhat is the number of students who are members of both the Clubs ?",
+      "question_text_gu": "કોલેજના વિદ્યાર્થીઓ વિશે નીચેની માહિતી આપેલી છે :\nમાત્ર ક્રિકેટ ક્લબના સભ્યો : 5%\nમાત્ર ફૂટબોલ ક્લબના સભ્યો : 15%\nબંને ક્લબના સભ્યો : 75%\nબિન સભ્યો : 40\nબંને ક્લબના સભ્ય એવા વિદ્યાર્થીઓની સંખ્યા કેટલી છે ?",
+      "options_en": {
+        "A": "450",
+        "B": "500",
+        "C": "550",
+        "D": "600"
+      },
+      "options_gu": {
+        "A": "450",
+        "B": "500",
+        "C": "550",
+        "D": "600"
+      }
+    },
+    {
+      "question_number": 20,
+      "question_text_en": "The number of auto-parts manufactured by 5 identical machines during 5 days is given below :\n[Table with Machines A-E, Days Monday-Friday]\nThe number of auto-parts manufactured by Machine E on Monday is what percent more than the number of parts manufactured by Machine C on Thursday?",
+      "question_text_gu": "5 દિવસ દરમિયાન 5 સમાન મશીનો દ્વારા ઉત્પાદિત ઓટો-પાર્ટ્સની સંખ્યા નીચે આપેલ છે:\n[કોષ્ટક]\nસોમવારે મશીન E દ્વારા ઉત્પાદિત ઓટો-પાર્ટ્સની સંખ્યા ગુરુવારે મશીન C દ્વારા ઉત્પાદિત ભાગોની સંખ્યા કરતા કેટલા ટકા વધુ છે ?",
+      "options_en": {
+        "A": "47.66%",
+        "B": "53.33%",
+        "C": "59.66%",
+        "D": "62.33%"
+      },
+      "options_gu": {
+        "A": "47.66%",
+        "B": "53.33%",
+        "C": "59.66%",
+        "D": "62.33%"
+      }
+    },
+    {
+      "question_number": 21,
+      "question_text_en": "Which agency in India conducts NEET Examination for admission into medical colleges ?",
+      "question_text_gu": "ભારતમાં કઈ સંસ્થા દ્વારા, મેડિકલ કોલેજમાં પ્રવેશ મેળવવા માટેની NEET પરીક્ષા લેવામાં આવે છે ?",
+      "options_en": {
+        "A": "National Testing Agency",
+        "B": "National Board of Assessment",
+        "C": "Medical Council of India",
+        "D": "All India Institute of Medical Science"
+      },
+      "options_gu": {
+        "A": "નેશનલ ટેસ્ટિંગ એજન્સી",
+        "B": "નેશનલ બોર્ડ ઓફ એસેસમેન્ટ",
+        "C": "મેડિકલ કાઉન્સિલ ઓફ ઇન્ડિયા",
+        "D": "ઓલ ઇન્ડિયા ઇન્સ્ટિટ્યૂટ ઓફ મેડિકલ સાયન્સ"
+      }
+    },
+    {
+      "question_number": 22,
+      "question_text_en": "'ICSSR' stands for",
+      "question_text_gu": "'ICSSR' નું પૂરું નામ છે",
+      "options_en": {
+        "A": "International Council for Social Science Research",
+        "B": "Indian Council of Social Science Research",
+        "C": "Indian Council of Scientific Sustainable Research",
+        "D": "International Conference on Solid Science Research"
+      },
+      "options_gu": {
+        "A": "ઇન્ટરનેશનલ કાઉન્સિલ ફોર સોશિયલ સાયન્સ રિસર્ચ",
+        "B": "ઇન્ડિયન કાઉન્સિલ ઓફ સોશિયલ સાયન્સ રિસર્ચ",
+        "C": "ઇન્ડિયન કાઉન્સિલ ઓફ સાયન્ટિફિક સસ્ટેનેબલ રિસર્ચ",
+        "D": "ઇન્ટરનેશનલ કોન્ફરન્સ ઓન સોલીડ સાયન્સ રિસર્ચ"
+      }
+    },
+    {
+      "question_number": 23,
+      "question_text_en": "Which Institution is scored rank one (1), according to India Overall Rankings-2024 of NIRF, Govt. of India ?",
+      "question_text_gu": "એન.આઇ.આર.એફ.(NIRF),ભારત સરકારના ભારત એકંદર રેન્કિંગ-2024 અનુસાર, કઈ સંસ્થાને પ્રથમ ક્રમ આપવામાં આવ્યો છે ?",
+      "options_en": {
+        "A": "IISC, Bangalore",
+        "B": "IIT, Madras",
+        "C": "IIT, Delhi",
+        "D": "JNU, Delhi"
+      },
+      "options_gu": {
+        "A": "IISC, બેંગ્લોર",
+        "B": "IIT, મદ્રાસ",
+        "C": "IIT, દિલ્હી",
+        "D": "JNU, દિલ્હી"
+      }
+    },
+    {
+      "question_number": 24,
+      "question_text_en": "'NIRF' stands for",
+      "question_text_gu": "'NIRF' નું પૂરું નામ છે",
+      "options_en": {
+        "A": "National Industrial Ranking Framework",
+        "B": "National Institutional Ranking Framework",
+        "C": "National Individual Ranking Framework",
+        "D": "National Innovative Research Framework"
+      },
+      "options_gu": {
+        "A": "નેશનલ ઇન્ડસ્ટ્રીયલ રેન્કિંગ ફ્રેમવર્ક",
+        "B": "નેશનલ ઇન્સ્ટિટ્યૂશનલ રેન્કિંગ ફ્રેમવર્ક",
+        "C": "નેશનલ ઈન્ડીવિડ્યુલ રેન્કિંગ ફ્રેમવર્ક",
+        "D": "નેશનલ ઇનોવેટિવ રિસર્ચ ફ્રેમવર્ક"
+      }
+    },
+    {
+      "question_number": 25,
+      "question_text_en": "Name of the centres established to develop competencies among faculty members in Higher Education for better teaching, learning, research and academic leadership for effective implementation of NEP-2020",
+      "question_text_gu": "NEP-2020ના અસરકારક અમલીકરણ માટે બહેતર શિક્ષણ, અધ્યયન, સંશોધન અને શૈક્ષણિક નેતૃત્વ માટે ઉચ્ચ શિક્ષણમાં ફેકલ્ટી સભ્યોમાં યોગ્યતા વિકસાવવા માટે સ્થાપિત કેન્દ્રોના નામ",
+      "options_en": {
+        "A": "Malaviya Mission Teacher Training Centres",
+        "B": "Pandit Madan Mohan Malaviya Training Centres",
+        "C": "National Centre for Professional Development of Teacher",
+        "D": "Human Development and Research Centre"
+      },
+      "options_gu": {
+        "A": "માલવિયા મિશન ટીચર ટ્રેઈનિંગ સેન્ટર્સ",
+        "B": "પંડિત મદન મોહન માલવિયા ટ્રેઈનિંગ સેન્ટર્સ",
+        "C": "નેશનલ સેન્ટર ફોર પ્રોફેશનલ ડેવલપમેન્ટ ઓફ ટીચર",
+        "D": "હ્યુમન ડેવલોપમેન્ટ એન્ડ રિસર્ચ સેન્ટર"
+      }
+    },
+    {
+      "question_number": 26,
+      "question_text_en": "Which of the following is NOT a characteristic of basic research ?",
+      "question_text_gu": "નીચેનામાંથી કયું પાયાના સંશોધનનું લક્ષણ નથી ?",
+      "options_en": {
+        "A": "Knowledge findings are replicable",
+        "B": "Generalisation of knowledge claims",
+        "C": "Concept and procedure of knowledge creation are publicly accessible",
+        "D": "Research knowledge is human centric"
+      },
+      "options_gu": {
+        "A": "શોધેલું જ્ઞાન પુનરાવર્તિત છે",
+        "B": "જ્ઞાનના દાવાઓનું સામાન્યીકરણ",
+        "C": "જ્ઞાન સર્જનની સંકલ્પના અને પ્રક્રિયા સાર્વજનિક સુલભ છે",
+        "D": "સંશોધનનું જ્ઞાન માનવકેન્દ્રિત છે"
+      }
+    },
+    {
+      "question_number": 27,
+      "question_text_en": "Which one of the following is NOT a tool for quantitative data analysis in educational research?",
+      "question_text_gu": "નીચેનામાંથી કયું શૈક્ષણિક સંશોધનમાં માત્રાત્મક ડેટા વિશ્લેષણ માટેનું સાધન નથી ?",
+      "options_en": {
+        "A": "MS Word",
+        "B": "MS Excel",
+        "C": "SPSS",
+        "D": "Math Lab"
+      },
+      "options_gu": {
+        "A": "એમ.એસ. વર્ડ (MS Word)",
+        "B": "એમ.એસ. એક્સેલ",
+        "C": "એસ.પી.એસ.એસ.",
+        "D": "મેથ લેબ"
+      }
+    },
+    {
+      "question_number": 28,
+      "question_text_en": "A researcher intends to explore the results of possible factors for the organisation of 'Girl student support system development in the college campus'. Which research method will be most appropriate for the study ?",
+      "question_text_gu": "એક સંશોધક 'કોલેજ કેમ્પસમાં વિદ્યાર્થીની સપોર્ટ સિસ્ટમ ડેવલપમેન્ટ' ના સંગઠન માટે સંભવિત પરિબળોના પરિણામોની શોધો કરવાનો ઈરાદો ધરાવે છે. અભ્યાસ માટે કઈ સંશોધન પદ્ધતિ સૌથી યોગ્ય રહેશે ?",
+      "options_en": {
+        "A": "Descriptive survey method",
+        "B": "Historical method",
+        "C": "Philosophical method",
+        "D": "Experimental method"
+      },
+      "options_gu": {
+        "A": "વર્ણનાત્મક સર્વેક્ષણ પદ્ધતિ",
+        "B": "ઐતિહાસિક પદ્ધતિ",
+        "C": "ફિલોસોફિકલ પદ્ધતિ",
+        "D": "પ્રાયોગિક પદ્ધતિ"
+      }
+    },
+    {
+      "question_number": 29,
+      "question_text_en": "What percentage of observation are broadly covered in $\\pm2$ standard deviation (2$\\sigma$) of a normal probability distribution ?",
+      "question_text_gu": "સમધારણ સંભાવના વિસ્તરણમાં $\\pm2$ પ્રમાણવિચલન (2$\\sigma$)માં કેટલી ટકાવારી આવરી લેવામાં આવી છે ?",
+      "options_en": {
+        "A": "60%",
+        "B": "68%",
+        "C": "90%",
+        "D": "95%"
+      },
+      "options_gu": {
+        "A": "60%",
+        "B": "68%",
+        "C": "90%",
+        "D": "95%"
+      }
+    },
+    {
+      "question_number": 30,
+      "question_text_en": "Which one of the following is called non-probabilistic sampling?",
+      "question_text_gu": "નીચેનામાંથી કોને નોન-પ્રોબેબિલીસ્ટીક સેમ્પલિંગ કહેવામાં આવે છે ?",
+      "options_en": {
+        "A": "Quota sampling",
+        "B": "Cluster sampling",
+        "C": "Systematic sampling",
+        "D": "Random sampling"
+      },
+      "options_gu": {
+        "A": "ક્વોટા સેમ્પલિંગ",
+        "B": "ક્લસ્ટર સેમ્પલિંગ",
+        "C": "સિસ્ટમેટીક સેમ્પલિંગ",
+        "D": "રેન્ડમ સેમ્પલિંગ"
+      }
+    },
+    {
+      "question_number": 31,
+      "question_text_en": "Given : $U=-2$, $V=\\frac{1}{2}$, $W=3$, $X=-4$, $Y=9$ and $Z=\\frac{1}{6}$ . What is the value of $\\sqrt{\\frac{(W-2)^{2}}{V}+\\frac{(Y-5)^{2}}{Z}+U-X}$ ?",
+      "question_text_gu": "જો $U=-2$, $V=\\frac{1}{2}$, $W=3$, $X=-4$, $Y=9$ અને $Z=\\frac{1}{6}$ હોય, તો $\\sqrt{\\frac{(W-2)^{2}}{V}+\\frac{(Y-5)^{2}}{Z}+U-X}$ નું મુલ્ય શું હશે ?",
+      "options_en": {
+        "A": "8",
+        "B": "9",
+        "C": "10",
+        "D": "11"
+      },
+      "options_gu": {
+        "A": "8",
+        "B": "9",
+        "C": "10",
+        "D": "11"
+      }
+    },
+    {
+      "question_number": 32,
+      "question_text_en": "If the compound interest on a certain sum at $16\\frac{2}{3}\\%$ for 3 years is 1,270, what is the simple interest on the same sum at the same rate and for the same period ?",
+      "question_text_gu": "જો કોઈ ચોક્કસ રકમ પર 3 વર્ષ માટે વાર્ષિક $16\\frac{2}{3}\\%$ ના દરે ચક્રવૃદ્ધિ વ્યાજ ₹ 1,270 છે, તો તે જ દરે અને તે જ સમયગાળા માટે સમાન રકમ પર સાદુ વ્યાજ શું છે ?",
+      "options_en": {
+        "A": "1,080",
+        "B": "2,010",
+        "C": "2,410",
+        "D": "2,560"
+      },
+      "options_gu": {
+        "A": "1,080",
+        "B": "2,010",
+        "C": "2,410",
+        "D": "2,560"
+      }
+    },
+    {
+      "question_number": 33,
+      "question_text_en": "Complete the letter series:\nab_a_b_aab_aabb_",
+      "question_text_gu": "અક્ષર શ્રેણી પૂર્ણ કરો:\nab_a_b_aab_aabb_",
+      "options_en": {
+        "A": "aabba",
+        "B": "babba",
+        "C": "babab",
+        "D": "ababa"
+      },
+      "options_gu": {
+        "A": "aabba",
+        "B": "babba",
+        "C": "babab",
+        "D": "ababa"
+      }
+    },
+    {
+      "question_number": 34,
+      "question_text_en": "The average of three numbers is given as 44. If the second number is twice the first and is also thrice the third, what is the largest number ?",
+      "question_text_gu": "ત્રણ સંખ્યાની સરેરાશ 44 તરીકે આવે છે. જો બીજી સંખ્યા પ્રથમની બે ગણી હોય અને ત્રીજી સંખ્યાની પણ ત્રણ ગણી હોય, તો સૌથી મોટી સંખ્યા કઈ છે ?",
+      "options_en": {
+        "A": "72",
+        "B": "68",
+        "C": "64",
+        "D": "58"
+      },
+      "options_gu": {
+        "A": "72",
+        "B": "68",
+        "C": "64",
+        "D": "58"
+      }
+    },
+    {
+      "question_number": 35,
+      "question_text_en": "10% of the inhabitants of a village having died of cholera, during which 20% remaining inhabitants left the village. The population is then reduced to 5040. What is the original inhabitants ?",
+      "question_text_gu": "ગામડાના 10% રહેવાસીઓ કોલેરામાં મૃત્યુ પામ્યા હતા. જે દરમિયાન 20% બાકીના રહેવાસીઓએ ગામ છોડી દીધું હતું. પછી વસ્તી ઘટીને 5040 થઈ ગઈ છે. મૂળ રહેવાસીઓ શું છે ?",
+      "options_en": {
+        "A": "6000",
+        "B": "7000",
+        "C": "8000",
+        "D": "9000"
+      },
+      "options_gu": {
+        "A": "6000",
+        "B": "7000",
+        "C": "8000",
+        "D": "9000"
+      }
+    },
+    {
+      "question_number": 36,
+      "question_text_en": "Match the following and choose the correct option from given below:\nSDG Number:\nI. 4\nII. 6\nIII. 7\nIV. 13\nGoal:\na. Clean water and sanitation\nb. Climate action\nc. Quality education\nd. Affordable and clean energy",
+      "question_text_gu": "નીચે આપેલા વિકલ્પોને મેળવીને સાચો વિકલ્પ પસંદ કરો:\nએસ.ડી.જી. ક્રમાંક:\nI. 4\nII. 6\nIII. 7\nIV. 13\nધ્યેય:\na. સ્વચ્છ જળ અને આરોગ્ય વિદ્યા\nb. પર્યાવરણીય કાર્યો\nc. ગુણવત્તાયુક્ત શિક્ષણ\nd. પરવડે તેવી અને સ્વચ્છ ઊર્જા",
+      "options_en": {
+        "A": "I-c, II-a, III-d, IV-b",
+        "B": "I-c, II-d, III-a, IV-b",
+        "C": "I-a, II-b, III-c, IV-d",
+        "D": "I-b, II-c, III-a, IV-d"
+      },
+      "options_gu": {
+        "A": "I-c, II-a, III-d, IV-b",
+        "B": "I-c, II-d, III-a, IV-b",
+        "C": "I-a, II-b, III-c, IV-d",
+        "D": "I-b, II-c, III-a, IV-d"
+      }
+    },
+    {
+      "question_number": 37,
+      "question_text_en": "Given below are two statements:\nStatement I: The environmental disasters are natural and hence these are also termed as natural hazardous processes.\nStatement -II: Earthquake, Tsunamis, Flood and Avalanche are examples of natural hazards.\nIn light of the above statements, choose the correct answer from the options given below :",
+      "question_text_gu": "નીચે બે વિધાનો આપેલા છે:\nવિધાન – I : પર્યાવરણીય આપત્તિઓ કુદરતી છે અને તેથી તેને કુદરતી જોખમી પ્રક્રિયાઓ તરીકે પણ ઓળખવામાં આવે છે.\nવિધાન - II : ભૂકંપ, સુનામી, પૂર અને હિમપ્રપાત એક કુદરતી જોખમના ઉદાહરણો છે.\nઉપરોક્ત વિધાનોના સંદર્ભે નીચે આપેલા વિકલ્પોમાંથી યોગ્ય ઉત્તર પસંદ કરો :",
+      "options_en": {
+        "A": "Both statement I and statement II are true",
+        "B": "Both statement I and statement II are false",
+        "C": "Statement I is true but statement II is false",
+        "D": "Statement I is false but statement II is true"
+      },
+      "options_gu": {
+        "A": "બંને વિધાન I અને વિધાન II સાચા છે",
+        "B": "બંને વિધાન I અને વિધાન II ખોટા છે",
+        "C": "વિધાન I સાચું છે પરંતુ વિધાન II ખોટું છે",
+        "D": "વિધાન I ખોટું છે પરંતુ વિધાન II સાચું છે"
+      }
+    },
+    {
+      "question_number": 38,
+      "question_text_en": "Which of the following are effect of global warming?\n1. Change in the rainfall pattern.\n2. Rise in the sea level.\n3. Loss of biodiversity.\n4. Shrinking of forest cover.\nChoose the correct answer from the options given below :",
+      "question_text_gu": "નીચેનામાંથી કઈ ગ્લોબલ વોમિંગની અસરો છે ?\n1. વરસાદની તરાહમાં બદલાવ.\n2. સમુદ્રની સપાટી ઊંચી આવવી.\n3. જૈવ વિવિધતાનો નાશ.\n4. વનવિસ્તારનું સંકોચન.\nઆપેલા વિકલ્પોમાંથી યોગ્ય ઉત્તર પસંદ કરો:",
+      "options_en": {
+        "A": "1, 2 and 3",
+        "B": "1, 3 and 4",
+        "C": "1, 2, 3 and 4",
+        "D": "1, 2 and 4"
+      },
+      "options_gu": {
+        "A": "1, 2 ને 3",
+        "B": "1, 3 ને 4",
+        "C": "1, 2, 3 ને 4",
+        "D": "1, 2 ને 4"
+      }
+    },
+    {
+      "question_number": 39,
+      "question_text_en": "Which of the following cyclone has affected the West Coast of India in last few years ?\n1. Cyclone Biparjoy\n2. Cyclone Fani\n3. Cyclone Tauktae\n4. Cyclone Amphan\nChoose the correct answer from the options given below :",
+      "question_text_gu": "નીચેના પૈકી કયા વાવાઝોડાએ છેલ્લા વર્ષોમાં ભારતના પશ્ચિમી તટને પ્રભાવિત કર્યો છે ?\n1. વાવાઝોડું બિપરજોય\n2. વાવાઝોડું ફાની\n3. વાવાઝોડું તાઉત્તે\n4. વાવાઝોડું અંમફન\nઆપેલા વિકલ્પોમાંથી યોગ્ય ઉત્તર પસંદ કરો :",
+      "options_en": {
+        "A": "1, 2 and 3",
+        "B": "1 and 3",
+        "C": "2 and 4",
+        "D": "1, 3 and 4"
+      },
+      "options_gu": {
+        "A": "1, 2 ને 3",
+        "B": "1 અને 3",
+        "C": "2 અને 4",
+        "D": "1, 3 અને 4"
+      }
+    },
+    {
+      "question_number": 40,
+      "question_text_en": "The soil pollutant among the following are:\n1. Pesticides\n2. Radioactive wastes\n3. Municipal wastes\n4. Mining wastes\n5. Electronic wastes\nChoose the correct answer from the options given below :",
+      "question_text_gu": "નીચેના પૈકી કયા ભૂમિ પ્રદૂષકો છે:\n1. જંતુનાશકો\n2. કિરણોત્સર્ગી કચરો\n3. નગર નિગમનો કચરો\n4. ખાણકામનો કચરો\n5. ઇલેક્ટ્રોનિક કચરો\nઆપેલા વિકલ્પોમાંથી યોગ્ય ઉત્તર પસંદ કરો:",
+      "options_en": {
+        "A": "1, 2, 3 and 5",
+        "B": "1, 2, 4 and 5",
+        "C": "1, 3, 4 and 5",
+        "D": "1, 2, 3, 4 and 5"
+      },
+      "options_gu": {
+        "A": "1, 2, 3 ને 5",
+        "B": "1, 2, 4 ને 5",
+        "C": "1, 3, 4 ને 5",
+        "D": "1, 2, 3, 4 ને 5"
+      }
+    },
+    {
+      "context_en": "There are several other fields in which it is desirable that a clear policy should be laid down on an all-India basis. One of the fundamental rights guaranteed by the Constitution is the right of every citizen of the Union to free and compulsory education up to the age of 14. For the proper functioning of democracy, the Centre must see that every individual is equipped with the necessary knowledge, skill and aptitudes to discharge his duties as a responsible and co-operative citizen. What James Madison said about his country, the United States, many years ago, holds good today in our country also. \"A popular Government without popular information or the means of acquiring it is but a prologue to a farce of tragedy or perhaps both. Knowledge will forever govern ignorance, and the people who mean to be their own governors must arm themselves with the power which knowledge gives.\" We should, however like to add that it is not only knowledge that is required, but also the right kind of social training and the inculcation of right ideals without which knowledge by itself may be sterile or worse. Training for democracy postulates a balanced education in which social virtues, intellectual development and practical skill all receive due consideration and the pattern of such an education must be envisaged on an all-India basis.",
+      "context_gu": "અન્ય ઘણા ક્ષેત્રો છે જેમાં અખિલ ભારતીય ધોરણે સ્પષ્ટ નીતિ ઘડવામાં આવે તે ઇચ્છનીય છે. બંધારણ દ્વારા બાંયધરી આપવામાં આવેલ મૂળભૂત અધિકારોમાંનો એક સંઘના દરેક નાગરિકને 14 વર્ષની વય સુધી મફત અને ફરજિયાત શિક્ષણ મેળવવાનો અધિકાર છે. લોકશાહીના યોગ્ય કાર્ય માટે, કેન્દ્રએ જોવું જોઈએ કે દરેક વ્યક્તિ જરૂરી જ્ઞાનથી સજ્જ, કૌશલ્ય અને એક જવાબદાર અને સહકારી નાગરિક તરીકે પોતાની ફરજો નિભાવવાની ક્ષમતા ધરાવે છે. જેમ્સ મેડિસને તેમના દેશ, યુનાઇટેડ સ્ટેટ્સ વિશે ઘણા વર્ષો પહેલા જે કહ્યું હતું તે આજે આપણા દેશ માટે પણ પ્રસ્તુત છે. \"લોકપ્રિય માહિતી વિનાની લોકપ્રિય સરકાર અથવા તેને પ્રાપ્ત કરવાના માધ્યમો એ દુર્ઘટનાના પ્રહસન અથવા કદાચ બંનેની પ્રસ્તાવના છે. જ્ઞાન કાયમ અજ્ઞાન પર શાસન કરશે, અને જે લોકો પોતાના ગવર્નર બનવાનો અર્થ કરે છે તેઓએ પોતાને આવી શક્તિથી સજ્જ કરવી જોઈએ જે જ્ઞાન આપે છે.” જોકે, આપણે ઉમેરવું જોઈએ કે માત્ર જ્ઞાન જ જરૂરી નથી, પરંતુ યોગ્ય પ્રકારની સામાજિક તાલીમ અને યોગ્ય આદર્શો કેળવવાની પણ જરૂર છે, જેના વિના જ્ઞાન પોતે જ નકામું અથવા ખરાબ હોઈ શકે છે. લોકશાહી માટેની તાલીમ એ સંતુલિત શિક્ષણની ધારણા કરે છે, જેમાં સામાજિક ગુણો, બૌદ્ધિક વિકાસ અને વ્યવહારિક કૌશલ્ય બધાને યોગ્ય રીતે ધ્યાનમાં લેવામાં આવે છે અને આવા શિક્ષણની પેટર્ન અખિલ ભારતીય ધોરણે પરિકલ્પના કરવી જોઈએ.",
+      "question_number": 41,
+      "question_text_en": "Which fundamental right is guaranteed by the Constitution of India as mentioned in the paragraph ?",
+      "question_text_gu": "ફકરામાં દર્શાવ્યા મુજબ, ભારતના બંધારણ દ્વારા કયા મૂળભૂત અધિકારની ખાતરી આપવામાં આવી છે ?",
+      "options_en": {
+        "A": "The right to vote",
+        "B": "The right to free and compulsory education",
+        "C": "The right to freedom of speech",
+        "D": "The right to work and employment"
+      },
+      "options_gu": {
+        "A": "મત આપવાનો અધિકાર",
+        "B": "મફત અને ફરજિયાત શિક્ષણનો અધિકાર",
+        "C": "વાણી સ્વાતંત્રનો અધિકાર",
+        "D": "કામ અને રોજગારનો અધિકાર"
+      }
+    },
+    {
+      "question_number": 42,
+      "question_text_en": "According to the paragraph, why is it important for every individual to acquire knowledge, skills and aptitudes ?",
+      "question_text_gu": "ફકરા મુજબ, દરેક વ્યક્તિ માટે જ્ઞાન, કૌશલ્ય અને યોગ્યતા પ્રાપ્ત કરવી શા માટે મહત્વપૂર્ણ છે ?",
+      "options_en": {
+        "A": "To become successful in life",
+        "B": "To participate in the global economy",
+        "C": "To discharge duties as a responsible and co-operative citizen",
+        "D": "To obtain government jobs"
+      },
+      "options_gu": {
+        "A": "જીવનમાં સફળ થવા માટે",
+        "B": "વૈશ્વિક અર્થતંત્રમાં ભાગ લેવા માટે",
+        "C": "જવાબદાર અને સહકારી નાગરિક તરીકે ફરજો બજાવવી",
+        "D": "સરકારી નોકરી મેળવવા માટે"
+      }
+    },
+    {
+      "question_number": 43,
+      "question_text_en": "What did James Madison say about popular government ?",
+      "question_text_gu": "જેમ્સ મેડિસને લોકપ્રિય સરકાર વિશે શું કહ્યું ?",
+      "options_en": {
+        "A": "It cannot function without wealth.",
+        "B": "It must be led by knowledgeable people.",
+        "C": "Popular government without popular information is like a farce of tragedy.",
+        "D": "Democracy is the best form of government."
+      },
+      "options_gu": {
+        "A": "તે સંપત્તિ વિના કામ કરી શકતું નથી.",
+        "B": "તેનું નેતૃત્વ જાણકાર લોકો દ્વારા થવું જોઈએ.",
+        "C": "લોકપ્રિય માહિતી વિનાની લોકપ્રિય સરકાર દુર્ઘટનાના પ્રહસન જેવી છે.",
+        "D": "લોકશાહી એ સરકારનું શ્રેષ્ઠ સ્વરૂપ છે."
+      }
+    },
+    {
+      "question_number": 44,
+      "question_text_en": "What does 'training for democracy' postulate according to the paragraph ?",
+      "question_text_gu": "ફકરા અનુસાર 'લોકશાહી માટેની તાલીમ' શું ધારે છે ?",
+      "options_en": {
+        "A": "Training focused purely on intellectual development",
+        "B": "A balanced education that includes social virtues, intellectual development and practical skills",
+        "C": "A technical education system",
+        "D": "Education focused on leadership and politics"
+      },
+      "options_gu": {
+        "A": "તાલીમ બૌદ્ધિક વિકાસ પર ધ્યાન કેન્દ્રિત કરે છે",
+        "B": "એક સંતુલિત શિક્ષણ જેમાં સામાજિક ગુણો, બૌદ્ધિક વિકાસ અને વ્યવહારિક કૌશલ્યોનો સમાવેશ થાય છે",
+        "C": "ટેકનિકલ શિક્ષણ પ્રણાલી",
+        "D": "શિક્ષણ નેતૃત્વ અને રાજકારણ પર કેન્દ્રિત છે"
+      }
+    },
+    {
+      "question_number": 45,
+      "question_text_en": "Why does the author believe that educational policies should be established as an all-India basis ?",
+      "question_text_gu": "લેખક શા માટે માને છે કે શૈક્ષણિક નીતિઓ અખિલ ભારતીય ધોરણે સ્થાપિત થવી જોઈએ ?",
+      "options_en": {
+        "A": "To promote political unity in India",
+        "B": "To ensure uniformity and balanced education across the country",
+        "C": "To provide higher education over primary education",
+        "D": "To ensure more students join government services"
+      },
+      "options_gu": {
+        "A": "ભારતમાં રાજકીય એકતાને પ્રોત્સાહન આપવું",
+        "B": "સમગ્ર દેશમાં એકરૂપતા અને સંતુલિત શિક્ષણની ખાતરી કરવી",
+        "C": "પ્રાથમિક શિક્ષણ કરતાં ઉચ્ચ શિક્ષણને પ્રાધાન્ય આપવું",
+        "D": "વધુ વિદ્યાર્થીઓ સરકારી સેવાઓમાં જોડાય તેની ખાતરી કરવા માટે"
+      }
+    },
+    {
+      "question_number": 46,
+      "question_text_en": "'X' is East of 'Y' which is in the North of 'Z'. If 'P' is to the East of 'Z', then in which direction of 'X' is 'P'?",
+      "question_text_gu": "'X' એ 'Y' ની પૂર્વમાં છે જે 'Z' ની ઉત્તરે છે. જો ‘P’ એ ‘Z’ની પૂર્વમાં છે, તો ‘X' ની કઈ દિશામાં ‘P” છે ?",
+      "options_en": {
+        "A": "South-West",
+        "B": "South-East",
+        "C": "South",
+        "D": "West"
+      },
+      "options_gu": {
+        "A": "દક્ષિણ-પશ્ચિમ",
+        "B": "દક્ષિણ-પૂર્વ",
+        "C": "દક્ષિણ",
+        "D": "પશ્ચિમ"
+      }
+    },
+    {
+      "question_number": 47,
+      "question_text_en": "Match the following four terms of Column A with that of Column B, correctly as per Pramana's reasoning.\nColumn A:\n1. Pramana\n2. Pramata\n3. Prameya\n4. Prama\nColumn B:\na. The subject who knows\nb. The means of validity\nc. The resultant valid knowledge\nd. The object of knowledge\nThe correct match is",
+      "question_text_gu": "કોલમ-A ના નીચેના ચાર શબ્દો કોલમ-B સાથે યોગ્ય રીતે મેળવો.\nકોલમ-A:\n1. પ્રમાણા\n2. પ્રમાતા\n3. પ્રમેયા\n4. પ્રમા\nકોલમ-B:\na. વિષય જે જાણે છે\nb. માન્યતાના માધ્યમ\nc. પરિણામી માન્ય જ્ઞાન\nd. જ્ઞાનનો પદાર્થ\nયોગ્ય જોડકું છે :",
+      "options_en": {
+        "A": "1-d, 2-a, 3-b, 4-c",
+        "B": "1-b, 2-a, 3-d, 4-c",
+        "C": "1-c, 2-a, 3-b, 4-d",
+        "D": "1-d, 2-c, 3-b, 4-a"
+      },
+      "options_gu": {
+        "A": "1-d, 2-a, 3-b, 4-c",
+        "B": "1-b, 2-a, 3-d, 4-c",
+        "C": "1-c, 2-a, 3-b, 4-d",
+        "D": "1-d, 2-c, 3-b, 4-a"
+      }
+    },
+    {
+      "question_number": 48,
+      "question_text_en": "The ratio of the number of students studying in schools A, B and C is 6:8:7 respectively. If the number of students studying in each of the schools is increased by 20%, 15% and 20% respectively, what will be the new ratio of the number of students in schools A, B and C ?",
+      "question_text_gu": "A, B અને C શાળામાં અભ્યાસ કરતા વિદ્યાર્થીઓની સંખ્યાનો ગુણોત્તર અનુક્રમે 6 : 8 : 7 છે. જો દરેક શાળામાં અભ્યાસ કરતા વિદ્યાર્થીઓની સંખ્યામાં અનુક્રમે 20%, 15% અને 20% નો વધારો કરવામાં આવે, તો શાળા A, B અને Cમાં વિદ્યાર્થીઓની સંખ્યાનો નવો ગુણોત્તર કેટલો હશે ?",
+      "options_en": {
+        "A": "20:19:18",
+        "B": "20:22:24",
+        "C": "21:22:23",
+        "D": "18:23:21"
+      },
+      "options_gu": {
+        "A": "20:19:18",
+        "B": "20:22:24",
+        "C": "21:22:23",
+        "D": "18:23:21"
+      }
+    },
+    {
+      "question_number": 49,
+      "question_text_en": "The average of $1^{2}$, $2^{2}$, $3^{2}$, $4^{2}$, $5^{2}$, $6^{2}$ is",
+      "question_text_gu": "$1^{2}$, $2^{2}$, $3^{2}$, $4^{2}$, $5^{2}$, $6^{2}$ ની સરેરાશ ___ છે",
+      "options_en": {
+        "A": "14.69",
+        "B": "15.17",
+        "C": "16.21",
+        "D": "17.48"
+      },
+      "options_gu": {
+        "A": "14.69",
+        "B": "15.17",
+        "C": "16.21",
+        "D": "17.48"
+      }
+    },
+    {
+      "question_number": 50,
+      "question_text_en": "The bacterial count in a certain culture (colony) increased from 1000 to 4000 in 3 days. What was the average percentage increase per day?",
+      "question_text_gu": "એક જીવાણુના કલ્ચર (કોલોની)માં જીવાણુની સંખ્યા 3 દિવસમાં 1000 થી વધીને 4000 થાય છે, તો પ્રતિ દિવસ સરેરાશ કેટલા ટકા વધારો થાય છે ?",
+      "options_en": {
+        "A": "49.2%",
+        "B": "54.3%",
+        "C": "58.7%",
+        "D": "62.9%"
+      },
+      "options_gu": {
+        "A": "49.2%",
+        "B": "54.3%",
+        "C": "58.7%",
+        "D": "62.9%"
+      }
+    }
+  ]
+}
