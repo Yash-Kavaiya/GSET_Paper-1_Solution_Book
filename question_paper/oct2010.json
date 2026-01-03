@@ -1,0 +1,602 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "Which of the following statements defines education best ?",
+    "options": [
+      "(A) Education is a means of social change",
+      "(B) Education imparts useful knowledge",
+      "(C) It prepares autonomous human beings",
+      "(D) It generates a lot of employment"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question_text": "Semester system is recommended as it is considered to:",
+    "options": [
+      "(A) help students learn more efficiently and be regular",
+      "(B) reduce examination orientedness and increase emphasis on learning",
+      "(C) provide scope for continual appraisal and on course correction in teaching-learning process",
+      "(D) allow for more creative ways of teaching"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question_text": "It is said that teachers must enable students to own the responsibility for learning. This means teachers",
+    "options": [
+      "(A) have reduced responsibility of learning",
+      "(B) assign learning tasks to students",
+      "(C) ask students to study on their own",
+      "(D) must help students to evolve one's own ways of learning"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question_text": "At higher education stage emphasis needs to be on, not only 'what' and 'how much' is learned by students but 'how' and 'how well' they learn. This idea is expressed at present as:",
+    "options": [
+      "(A) Learning to know",
+      "(B) Learning to live",
+      "(C) Learning to do",
+      "(D) Learning to learn"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question_text": "The current thinking of assessing students only at the end of the term is less relevant as it :",
+    "options": [
+      "(A) reveals student's learning in respect of subject matter",
+      "(B) concerns with how accurately one recollects the subject matter",
+      "(C) may reveal 'temporary learning' and not beyond",
+      "(D) assesses student learning on 'what is asked' rather than 'what is learned' even beyond subject matter"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question_text": "Arrange the following from the least difficult to most difficult: (1) Teaching of processes (2) Teaching of values (3) Teaching of concepts (4) Teaching of thinking skills",
+    "options": [
+      "(A) (1), (3), (4), (2)",
+      "(B) (2), (4), (3), (1)",
+      "(C) (1), (3), (2), (4)",
+      "(D) (1), (2), (3), (4)"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question_text": "Recently a separate Board has been established to monitor all ... education institutions in Gujarat.",
+    "options": [
+      "(A) legal",
+      "(B) technical",
+      "(C) medical",
+      "(D) professional"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question_text": "The increasing number of entrants into higher education has necessitated changes in our views of teaching learning. Some progressive institutions have faced this through the adoption of multimedia for teaching-learning. This means, the use of ... for teaching learning.",
+    "options": [
+      "(A) lecture-cum-discussion, practical work",
+      "(B) face to face, distance and open learning (ODL) systems",
+      "(C) ODL, face to face, satellite and web based modes",
+      "(D) self-learning, ICT based, ODL"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question_text": "Apart from specialisation in one's subject areas, products of higher education are also expected to be ... in the context of national development.",
+    "options": [
+      "(A) sensitive and proactive towards emerging concerns and issues",
+      "(B) responsible workers in one's institution",
+      "(C) aware of the economic changes especially the job market",
+      "(D) tolerant to the negative forces"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question_text": "To ensure quality maintenance in universities and colleges guidelines and regulations are periodically prepared by the ... at the national level.",
+    "options": [
+      "(A) National Assessment and Accreditation Council (NAAC)",
+      "(B) National Council for Educational Research and Training (NCERT)",
+      "(C) University Grants Commission (UGC)",
+      "(D) National Institute of Advanced Study (NIAS)"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question_text": "The open university at the national level in India is known as:",
+    "options": [
+      "(A) Indian General National Open University",
+      "(B) Integrated Governmental National Open University",
+      "(C) Indira Gandhi National Open University",
+      "(D) Iswarbhai Gordhanbhai National Open University"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question_text": "Three kinds of universities in India are:",
+    "options": [
+      "(A) State Universities, Central Universities, Affiliating Universities",
+      "(B) Unitary Universities, Technical Universities, General Education Universities",
+      "(C) State Universities, Central Universities, Private Universities",
+      "(D) Central Universities, State Universities, Deemed Universities"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question_text": "A condition or characteristic that can take on different values or categories is called:",
+    "options": [
+      "(A) a constant",
+      "(B) a variable",
+      "(C) a cause and effect relationship",
+      "(D) a descriptive relationship"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question_text": "A researcher wants to find out the relationship between gender and intelligence among high school students. This would be :",
+    "options": [
+      "(A) a Case Study",
+      "(B) a Developmental Study",
+      "(C) a Survey Study",
+      "(D) an Experimental Study"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question_text": "The best graphical way to present data related to different levels of a certain variable is:",
+    "options": [
+      "(A) pictogram",
+      "(B) pie chart",
+      "(C) histogram",
+      "(D) frequency polygon"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question_text": "In simple terms 'reliability' is the:",
+    "options": [
+      "(A) consistency of scores on tests",
+      "(B) appropriateness of interpretation based on test scores",
+      "(C) ways in which people are the same",
+      "(D) rank order of participants on some measure"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question_text": "A researcher was interested in studying why learning of new maths was not effective in schools during 1990s. For this, he interviewed several teachers who had taught new maths at that time. These teachers were ... for his study.",
+    "options": [
+      "(A) primary sources",
+      "(B) secondary sources",
+      "(C) external critics",
+      "(D) internal critics"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question_text": "A positive correlation is present when:",
+    "options": [
+      "(A) two variables move in opposite directions",
+      "(B) two variables move in the same direction",
+      "(C) both variables have negative values",
+      "(D) several variables rarely change"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question_text": "What is the % of increase in number of candidates choosing chemistry from 1993 to 1994?",
+    "options": [
+      "(A) 25",
+      "(B) 50",
+      "(C) 100",
+      "(D) 75"
+    ]
+  },
+  {
+    "question_number": 20,
+    "question_text": "What is the % of fall of number of candidates in Biology from 1992 to 1993?",
+    "options": [
+      "(A) 25",
+      "(B) 50",
+      "(C) 100",
+      "(D) 75"
+    ]
+  },
+  {
+    "question_number": 21,
+    "question_text": "In which subject the strength (in %) was least in the year 1993 ?",
+    "options": [
+      "(A) Biology",
+      "(B) Geology",
+      "(C) Chemistry",
+      "(D) Mathematics"
+    ]
+  },
+  {
+    "question_number": 22,
+    "question_text": "What is the largest number of students employed through campus recruitment ?",
+    "options": [
+      "(A) 396",
+      "(B) 418",
+      "(C) 490",
+      "(D) 430"
+    ]
+  },
+  {
+    "question_number": 23,
+    "question_text": "What is decrease in number of students going for further studies during 2003-05?",
+    "options": [
+      "(A) 110",
+      "(B) 100",
+      "(C) 30",
+      "(D) 10"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question_text": "How many students choose other activities in 2004?",
+    "options": [
+      "(A) 300",
+      "(B) 275",
+      "(C) 220",
+      "(D) 200"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question_text": "How has new technology contributed to enrich the competencies of Indian students in the field of IT?",
+    "options": [
+      "(A) Indian students go to foreign universities in large number to study IT",
+      "(B) The new technology has enabled them to study IT in India",
+      "(C) Indian government is promoting the new technology",
+      "(D) Our students have established good contacts with developed countries."
+    ]
+  },
+  {
+    "question_number": 26,
+    "question_text": "In the globalized India human resource development is accelerated by:",
+    "options": [
+      "(A) Rapid flows of information",
+      "(B) Privatization of higher education",
+      "(C) Opportunities for higher education are limited to rural areas",
+      "(D) Commitment of Indian Policy makers"
+    ]
+  },
+  {
+    "question_number": 27,
+    "question_text": "In a fast changing society, firm political commitment is essential to:",
+    "options": [
+      "(A) spread prosperity equitably",
+      "(B) reduce widespread destitution",
+      "(C) enhance quality of human resource",
+      "(D) all of the above"
+    ]
+  },
+  {
+    "question_number": 28,
+    "question_text": "Of the following ... is not a factor affecting the speed of globalization.",
+    "options": [
+      "(A) Generation of new technologies",
+      "(B) Freedom for investment",
+      "(C) Marriage of information with technology",
+      "(D) A high speed growth in knowledge"
+    ]
+  },
+  {
+    "question_number": 29,
+    "question_text": "What might happen if we fail to create a just and humane society?",
+    "options": [
+      "(A) The programmes for human resource development would fail",
+      "(B) Human skills cannot be upgraded",
+      "(C) The process of globalization would break down",
+      "(D) Globalization and liberalization would create economic imbalance"
+    ]
+  },
+  {
+    "question_number": 30,
+    "question_text": "Find out the results of privatization of education in India, from the following: (1) Higher education has become accessible to rural students. (2) The pace of human resource development has increased. (3) Many low quality colleges have come up. (4) The quality of medical and engineering education has improved a lot.",
+    "options": [
+      "(A) (2) and (3)",
+      "(B) (1) and (4)",
+      "(C) (1), (2) and (3)",
+      "(D) All of the above"
+    ]
+  },
+  {
+    "question_number": 31,
+    "question_text": "EDUSAT refers to:",
+    "options": [
+      "(A) Satellite based transmission channel meant for educational purposes",
+      "(B) A television channel providing education and entertainment",
+      "(C) A non-commercial television channel operated by cables",
+      "(D) An educational channel operated through universities"
+    ]
+  },
+  {
+    "question_number": 32,
+    "question_text": "Teachers must not only be effective communicators but they should also:",
+    "options": [
+      "(A) use various media for communication",
+      "(B) take care to remain effective",
+      "(C) get regular feedback from students",
+      "(D) develop the same (effective communication) in students"
+    ]
+  },
+  {
+    "question_number": 33,
+    "question_text": "The most preferable type of communication in the classroom is:",
+    "options": [
+      "(A) One to many",
+      "(B) Many to one",
+      "(C) One to one",
+      "(D) Many to many"
+    ]
+  },
+  {
+    "question_number": 34,
+    "question_text": "'Nodding' is a cue for ... communication.",
+    "options": [
+      "(A) initiating",
+      "(B) terminating",
+      "(C) encouraging",
+      "(D) distracting"
+    ]
+  },
+  {
+    "question_number": 35,
+    "question_text": "Which of the following is not a communicative situation in the classroom?",
+    "options": [
+      "(A) copying down the points written on the blackboard",
+      "(B) standing up when teacher enters the classroom",
+      "(C) looking down when teacher asks a question",
+      "(D) looking at the teacher silently"
+    ]
+  },
+  {
+    "question_number": 36,
+    "question_text": "The major barrier in communication process is:",
+    "options": [
+      "(A) sender's poor knowledge of the topic of communication",
+      "(B) receiver's negative attitude towards the sender",
+      "(C) disturbance in the surrounding",
+      "(D) lack of perceptible feedback from the receiver"
+    ]
+  },
+  {
+    "question_number": 37,
+    "question_text": "An address of a website on internet is called:",
+    "options": [
+      "(A) URL",
+      "(B) Client",
+      "(C) Protocol",
+      "(D) WAN"
+    ]
+  },
+  {
+    "question_number": 38,
+    "question_text": "In order to disconnect Internet, one has to:",
+    "options": [
+      "(A) Log in",
+      "(B) Exit",
+      "(C) Log out",
+      "(D) Quit"
+    ]
+  },
+  {
+    "question_number": 39,
+    "question_text": "In which of the following file format the editing is not possible?",
+    "options": [
+      "(A) .doc",
+      "(B) .pdf",
+      "(C) .ppt",
+      "(D) .txt"
+    ]
+  },
+  {
+    "question_number": 40,
+    "question_text": "A result of a computer virus cannot lead to:",
+    "options": [
+      "(A) Deletion of file",
+      "(B) Corruption of program",
+      "(C) Disk crash",
+      "(D) Motherboard Crash"
+    ]
+  },
+  {
+    "question_number": 41,
+    "question_text": "The word 'Internet' is a composition of:",
+    "options": [
+      "(A) Inter-communication and Network",
+      "(B) International and Network",
+      "(C) Inter-connection and Network",
+      "(D) Interactive and Network"
+    ]
+  },
+  {
+    "question_number": 42,
+    "question_text": "The full form of HTML is:",
+    "options": [
+      "(A) Hypertext Machine Language",
+      "(B) Hypertext Markup Language",
+      "(C) Higher Text Machine Language",
+      "(D) Hidden Text Markup Language"
+    ]
+  },
+  {
+    "question_number": 43,
+    "question_text": "If HOW = 23, and HAI = 9, then SEX = ?",
+    "options": [
+      "(A) 18",
+      "(B) 36",
+      "(C) 47",
+      "(D) 24"
+    ]
+  },
+  {
+    "question_number": 44,
+    "question_text": "The correct number for question-mark in the sequence: 3, 4, 7, 12, ?, 28, is:",
+    "options": [
+      "(A) 20",
+      "(B) 18",
+      "(C) 19",
+      "(D) 17"
+    ]
+  },
+  {
+    "question_number": 45,
+    "question_text": "Given the set A = {Sparrow, Parrot, Peacock, Swan, Owl, Duck}. Then the total number of its subsets will be:",
+    "options": [
+      "(A) 56",
+      "(B) 36",
+      "(C) 64",
+      "(D) 32"
+    ]
+  },
+  {
+    "question_number": 46,
+    "question_text": "Choose the correct answer to complete the sequence : 1.5, 2.5, 4, ?",
+    "options": [
+      "(A) 4.8",
+      "(B) 6",
+      "(C) 25",
+      "(D) 9"
+    ]
+  },
+  {
+    "question_number": 47,
+    "question_text": "If '+' stands for multiplication, '-' stands for division and '*' stands for the power, then the value of [{(4+3)-2}*2]-(6*0) is:",
+    "options": [
+      "(A) 30",
+      "(B) 25",
+      "(C) 35",
+      "(D) 20"
+    ]
+  },
+  {
+    "question_number": 48,
+    "question_text": "Given the correspondence 0 -> -4, 1 -> -3, 2 -> 4, 3 -> 23. Then 3/4 -> ?",
+    "options": [
+      "(A) 520/81",
+      "(B) -341/37",
+      "(C) 421/88",
+      "(D) -229/64"
+    ]
+  },
+  {
+    "question_number": 49,
+    "question_text": "A person X is taller than Y but shorter than Z. The person V is taller than X but shorter than Z, and W is taller than Y but shorter than X. Then the tallest person will be :",
+    "options": [
+      "(A) Y",
+      "(B) Z",
+      "(C) V",
+      "(D) X"
+    ]
+  },
+  {
+    "question_number": 50,
+    "question_text": "Make the sequence x, ?, p, l, h. Complete by filling correct answer from the given alternatives.",
+    "options": [
+      "(A) y",
+      "(B) t",
+      "(C) z",
+      "(D) n"
+    ]
+  },
+  {
+    "question_number": 51,
+    "question_text": "A teacher is teaching in a classroom. The Venn diagram related to school, teacher, classroom and blackboard will be:",
+    "options": [
+      "(A) [Diagram of concentric circles]",
+      "(B) [Diagram]",
+      "(C) [Diagram]",
+      "(D) None of (A), (B), (C)"
+    ]
+  },
+  {
+    "question_number": 52,
+    "question_text": "Fill the correct letter from the given alternatives, in place of question-mark: [Diagrams showing letters around a center letter. E.g. (C,H,R,M -> E), (A,G,S,M -> F), (H,J,N,L -> ?)]",
+    "options": [
+      "(A) C",
+      "(B) K",
+      "(C) B",
+      "(D) O"
+    ]
+  },
+  {
+    "question_number": 53,
+    "question_text": "Put the correct letter in the diagram, from the given alternatives, to replace '?'. [Pyramid structure with Z at top, S G, M D I, F E H ?]",
+    "options": [
+      "(A) J",
+      "(B) K",
+      "(C) L",
+      "(D) G"
+    ]
+  },
+  {
+    "question_number": 54,
+    "question_text": "Complete the sequence of squares by choosing the correct figure from the given alternatives:",
+    "options": [
+      "(A) [Figure]",
+      "(B) [Figure]",
+      "(C) [Figure]",
+      "(D) [Figure]"
+    ]
+  },
+  {
+    "question_number": 55,
+    "question_text": "Which of the following pollutant gas present in atmosphere is more toxic to human beings ?",
+    "options": [
+      "(A) Carbon dioxide (CO2)",
+      "(B) Methane (CH4)",
+      "(C) Carbon monoxide (CO)",
+      "(D) Sulphur dioxide (SO2)"
+    ]
+  },
+  {
+    "question_number": 56,
+    "question_text": "Although use of nuclear energy is thought to be pollution free, yet it can pose severe health hazards due to:",
+    "options": [
+      "(A) Nuclear explosion",
+      "(B) Any disaster in nuclear plant",
+      "(C) Unavailability of nuclear waste disposal methods",
+      "(D) Exposure of radiation during normal running of a nuclear plant"
+    ]
+  },
+  {
+    "question_number": 57,
+    "question_text": "Green-house effect is increasing due to:",
+    "options": [
+      "(A) Change in atmospheric pressure",
+      "(B) Change in number of green-house gases",
+      "(C) Change in concentration of green-house gases",
+      "(D) Melting of glaciers and dry atmospheric conditions"
+    ]
+  },
+  {
+    "question_number": 58,
+    "question_text": "Arrange the following gases in decreasing order of their concentration in atmosphere: (1) Oxygen (2) Nitrogen (3) Carbon dioxide (4) Argon",
+    "options": [
+      "(A) (2)-(1)-(4)-(3)",
+      "(B) (1)-(2)-(4)-(3)",
+      "(C) (2)-(1)-(3)-(4)",
+      "(D) (2)-(3)-(4)-(1)"
+    ]
+  },
+  {
+    "question_number": 59,
+    "question_text": "Reduction in global warming is possible with:",
+    "options": [
+      "(A) increased plantation",
+      "(B) conservation of wildlife",
+      "(C) reduction in use of fossil fuel",
+      "(D) (A) and (C)"
+    ]
+  },
+  {
+    "question_number": 60,
+    "question_text": "Which is the second most important green-house gas besides CO2 responsible for global warming?",
+    "options": [
+      "(A) Methane",
+      "(B) Chlorofluoro carbon (CFC)",
+      "(C) Nitrous oxide",
+      "(D) Ozone"
+    ]
+  }
+]
