@@ -1,0 +1,862 @@
+{
+  "filename": "nov23p1.pdf",
+  "booklet_no": "334253",
+  "booklet_type": "A",
+  "paper": "PAPER-1",
+  "exam_date": "NOV-23",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text_en": "Match X with Y.\nX: 1. Proximics, 2. Kinesics, 3. Haptics\nY: a. Use of touch, b. Use of body language, c. Use of space",
+      "question_text_gu": "X ને Y સાથે જોડો.\nX: 1. પ્રોક્સીમીક્સ, 2. કાઈનેસીક્સ, 3. હેપટીક્સ\nY: a. સ્પર્શનો વિયોગ, b. શારીરીક હાવભાવ ઉપયોગ, c. અંતરના ઉપયોગ",
+      "options_en": {
+        "A": "1-c, 2-b, 3-a",
+        "B": "1-a, 2-b, 3-c",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-c, 2-a, 3-b"
+      },
+      "options_gu": {
+        "A": "1-c, 2-b, 3-a",
+        "B": "1-a, 2-b, 3-c",
+        "C": "1-b, 2-a, 3-c",
+        "D": "1-c, 2-a, 3-b"
+      }
+    },
+    {
+      "question_number": 2,
+      "question_text_en": "Use of 'space' in communication is called",
+      "question_text_gu": "પ્રત્યાયનમાં 'અંતર'ના ઉપયોગને ______ કહેવાય છે.",
+      "options_en": {
+        "A": "Proximics",
+        "B": "Chronomics",
+        "C": "Para language",
+        "D": "Haptics"
+      },
+      "options_gu": {
+        "A": "પ્રોક્સીમીક્સ",
+        "B": "ક્રોનોમિક્સ",
+        "C": "પરાલેંગવેજ",
+        "D": "હેપ્ટીક્સ"
+      }
+    },
+    {
+      "question_number": 3,
+      "question_text_en": "The connotative meaning of a word is",
+      "question_text_gu": "શબ્દનો અર્થાત્મ્ય અર્થમાં",
+      "options_en": {
+        "A": "Subjective meaning",
+        "B": "Oppositive meaning",
+        "C": "Donotative meaning",
+        "D": "Real meaning"
+      },
+      "options_gu": {
+        "A": "વ્યક્તિગત અર્થ",
+        "B": "વિરૂધાર્થ",
+        "C": "સૂચિત અર્થ",
+        "D": "ખરા અર્થમાં"
+      }
+    },
+    {
+      "question_number": 4,
+      "question_text_en": "In the process of communication, the receiver",
+      "question_text_gu": "પ્રત્યાયન પ્રક્રિયામાં, ગ્રહણકરનાર (રીસીવર)",
+      "options_en": {
+        "A": "Encodes the message",
+        "B": "Decodes the message",
+        "C": "Is a channel",
+        "D": "Has no role"
+      },
+      "options_gu": {
+        "A": "સંદેશાનું સાંકેતિક રૂપાંતરણ",
+        "B": "સંદેશાનું રૂપાંતરણ",
+        "C": "ચેનલમાં",
+        "D": "ફાળો નથી"
+      }
+    },
+    {
+      "question_number": 5,
+      "question_text_en": "'Demophobia' refers to",
+      "question_text_gu": "'ડેમોફોબીયા' સૂચિત કરે છે કે",
+      "options_en": {
+        "A": "Fear of death",
+        "B": "Fear of crowd",
+        "C": "Fear of speaking",
+        "D": "Fear of failure"
+      },
+      "options_gu": {
+        "A": "મૃત્યુનો ભય",
+        "B": "ભીડનો ભય",
+        "C": "બોલવાનો ભય",
+        "D": "નિષ્ફળ થવાનો ભય"
+      }
+    },
+    {
+      "question_number": 6,
+      "question_text_en": "Which of the following institutions responsible for quality technical and Management Higher Education in India?",
+      "question_text_gu": "નીચેનામાંથી કઈ સંસ્થા ભારતમાં ગુણવત્તાયુક્ત તાંત્રિક અને મેનેજમેન્ટ ઉચ્ચ શિક્ષણ માટે જવાબદાર છે ?",
+      "options_en": {
+        "A": "NCERT",
+        "B": "AICTE",
+        "C": "NCTE",
+        "D": "NIEPA"
+      },
+      "options_gu": {
+        "A": "NCERT",
+        "B": "AICTE",
+        "C": "NCTE",
+        "D": "NIEPA"
+      }
+    },
+    {
+      "question_number": 7,
+      "question_text_en": "'NAAC' assessment cycle is for",
+      "question_text_gu": "'(નેક) NAAC' મૂલ્યાંકન ચક્રની અવધિ ______ છે.",
+      "options_en": {
+        "A": "3 years",
+        "B": "5 years",
+        "C": "10 years",
+        "D": "7 years"
+      },
+      "options_gu": {
+        "A": "3 વર્ષ",
+        "B": "5 વર્ષ",
+        "C": "10 વર્ષ",
+        "D": "7 વર્ષ"
+      }
+    },
+    {
+      "question_number": 8,
+      "question_text_en": "The National Education Day in India is celebrated every year on",
+      "question_text_gu": "ભારતમાં દરવર્ષે 'રાષ્ટ્રીય શિક્ષણ દિવસ' ની ઉજવણી કયા દિવસે થાય છે ?",
+      "options_en": {
+        "A": "14th November",
+        "B": "5th September",
+        "C": "11th November",
+        "D": "2nd October"
+      },
+      "options_gu": {
+        "A": "14મી નવેમ્બર",
+        "B": "5મી સપ્ટેમ્બર",
+        "C": "11મી નવેમ્બર",
+        "D": "2જી ઓક્ટોબર"
+      }
+    },
+    {
+      "question_number": 9,
+      "question_text_en": "What is the full form of ABC, according to NEP (2020) ?",
+      "question_text_gu": "NEP (2020) ના સંદર્ભે ABC નું પુરૂ નામ શું છે ?",
+      "options_en": {
+        "A": "Academic Bank of Credits",
+        "B": "Academic Bank of Certification",
+        "C": "Annual Book of Credits",
+        "D": "Academic Basic Certification"
+      },
+      "options_gu": {
+        "A": "એકેડમિક બેંક ઓફ ક્રેડીટ્સ",
+        "B": "એકેડમિક બેંક ઓફ સર્ટીફિકેશન",
+        "C": "વાર્ષિક બુક ઓફ ક્રેડીટ્સ",
+        "D": "એકેડમિક બેઝિક સર્ટીફીકેશન"
+      }
+    },
+    {
+      "question_number": 10,
+      "question_text_en": "According to NIRF overall ranking 2023, which institution ranked one in India?",
+      "question_text_gu": "NIRF ના 2023ના સમગ્રતયા મૂલ્યાંકન મુજબ, ભારતમાં કઈ સંસ્થા પ્રથમ ક્રમે છે ?",
+      "options_en": {
+        "A": "IISc, Bangalore",
+        "B": "IISER, Pune",
+        "C": "IIT, Madras",
+        "D": "IIM, Ahmedabad"
+      },
+      "options_gu": {
+        "A": "IISc, બેંગલોર",
+        "B": "IISER, પુના",
+        "C": "IIT, મદ્રાસ",
+        "D": "IIM, અમદાવાદ"
+      }
+    },
+    {
+      "question_number": 11,
+      "question_text_en": "Which of the following diagrams correctly represents the relationship among tennis fans, cricket players and students?",
+      "question_text_gu": "નીચેના પૈકી કયો ડાયાગ્રામ ટેનીસના ચાહકો, ક્રિકેટ પ્લેયર્સ અને વિદ્યાર્થીઓના સંબંધો સાચા રજુ કરે છે ?",
+      "options_en": {
+        "A": "(Figure A)",
+        "B": "(Figure B)",
+        "C": "(Figure C)",
+        "D": "(Figure D)"
+      },
+      "options_gu": {
+        "A": "(આકૃતિ A)",
+        "B": "(આકૃતિ B)",
+        "C": "(આકૃતિ C)",
+        "D": "(આકૃતિ D)"
+      }
+    },
+    {
+      "question_number": 12,
+      "question_text_en": "'Umpire' is related to 'Match' in the same way as 'Judge' is related to",
+      "question_text_gu": "‘એમ્પાયર' (નિર્ણયકર્તા) જે રીતે મેચ (ક્રિકેટમેચ) સાથે સંકળાયેલ છે તેજ રીતે 'જજ' (ન્યાયાધિશ)' કઈ રીતે સંકળાયેલ છે.",
+      "options_en": {
+        "A": "Court",
+        "B": "Lawyer",
+        "C": "Judgement",
+        "D": "Law suit"
+      },
+      "options_gu": {
+        "A": "કોર્ટ",
+        "B": "વકીલ",
+        "C": "ચૂકાદો",
+        "D": "કાયદાકીય બાબત"
+      }
+    },
+    {
+      "question_number": 13,
+      "question_text_en": "In question below is given a statement followed by assumptions numbered I and II. Consider the statement and decide which of the given assumption is implicit ?\nStatement: If you want to give any advertisement give it in newspaper \"X\" - A tells to B.\nAssumptions: \nI. 'B' wants to publicise his products.\nII. Newspaper 'X' has a wide circulation.",
+      "question_text_gu": "નીચેના પ્રશ્ન માં એક વિધાન અને બે ધારણા નં I અને II આપેલ છે. વિધાનોની ખાત્રી કરીને નક્કી કરો કે આપેલ ધારણા કઈ સૂચિત છે ?\nવિધાન : જો તમે કોઈ જાહેરાત આપવા માગતા હોય તો 'X' અખબારપત્ર માં આપજો. A, B ને કહે છે.\nધારણા : \nI. B પોતાની પ્રોડક્ટ (ઉત્પાદન) ની પ્રસિધ્ધ કરવા માંગતો હોય.\nII. અખબારપત્ર 'X' એ વિશાળ સરકયુલેશન (ફેલાવો) ધરાવતું હોય.",
+      "options_en": {
+        "A": "Only assumption I is implicit",
+        "B": "Only assumption II is implicit",
+        "C": "Either I or II is implicit",
+        "D": "Neither I nor II is implicit"
+      },
+      "options_gu": {
+        "A": "માત્ર ધારણા I જ સૂચિત છે",
+        "B": "માત્ર ધારણા II જ સૂચિત છે",
+        "C": "માત્ર ધારણા | અથવા ધારણા II સૂચિત છે",
+        "D": "ધારણા | અથવા ધારણા || માંથી એકપણ નહિ"
+      }
+    },
+    {
+      "question_number": 14,
+      "question_text_en": "P, Q, R, S and U are the family members. P and Q are real brothers. R is a sister of P. S is a father of P. U is a father of S. What is the relation between P and U?",
+      "question_text_gu": "P, Q, R, S અને U એ કુટુંબના સભ્યો છે. P અને Q એ સગા ભાઈ છે. R એ P ની બહેન છે. S એ P ના પિતા છે. U એ S ના પિતા છે. તો P અને U વચ્ચે શું સંબંધ થાય ?",
+      "options_en": {
+        "A": "Granddaughter and grandfather",
+        "B": "Grandson and grandfather",
+        "C": "Father and son",
+        "D": "Father and daughter"
+      },
+      "options_gu": {
+        "A": "પૌત્રી અને દાદાનો",
+        "B": "પૌત્ર અને દાદાનો",
+        "C": "પિતા અને પુત્રનો",
+        "D": "પિતા અને દીકરીનો"
+      }
+    },
+    {
+      "question_number": 15,
+      "question_text_en": "Find the next term of given series.\nA7T, E12Q, I19L, _______",
+      "question_text_gu": "આપેલ હરોળમાં એ પછી કયો શબ્દ આવશે તે શોધો.\nA7T, E12Q, I19L, _______",
+      "options_en": {
+        "A": "M28E",
+        "B": "M25E",
+        "C": "M24C",
+        "D": "M29E"
+      },
+      "options_gu": {
+        "A": "M28E",
+        "B": "M25E",
+        "C": "M24C",
+        "D": "M29E"
+      }
+    },
+    {
+      "question_number": 16,
+      "question_text_en": "Which of the following are a web browser?\n1. Microsoft edge\n2. Google chrome\n3. Mozilla firefox\n4. Opera\n5. Safari",
+      "question_text_gu": "નીચેના પૈકી ક્યાં વેબ બ્રાઉઝર છે ?\n1. માઈક્રોસોફ્ટ એઝ\n2. ગુગલ ક્રોમ\n3. મોઝીલા ફાયરફોક્ષ\n4. ઓપેરા\n5. સફારી",
+      "options_en": {
+        "A": "1, 2, 3 and 4",
+        "B": "1, 2, 4 and 5",
+        "C": "1, 2, 3, 4 and 5",
+        "D": "1, 2, 3 and 5"
+      },
+      "options_gu": {
+        "A": "1, 2, 3 ને 4",
+        "B": "1, 2, 4 ને 5",
+        "C": "1, 2, 3, 4 ને 5",
+        "D": "1, 2, 3 ને 5"
+      }
+    },
+    {
+      "question_number": 17,
+      "question_text_en": "Which of the following are used in video-conferencing ?\n1. Google Meet\n2. Microsoft Team\n3. Cisco WebEx\n4. Skype\n5. Zoom meeting",
+      "question_text_gu": "નીચેના પૈકી કયા દૃશ્ય અને શ્રાવ્ય અધિવેશન (conferencing) માં વપરાય છે ?\n1. ગુગલ મીટ\n2. માઈક્રોસોફ્ટ ટીમ\n3. સીસ્કો વેબેક્સ\n4. સ્કાયપી\n5. ઝુમ મીટીંગ",
+      "options_en": {
+        "A": "1, 2, 3 and 5",
+        "B": "1, 2, 4 and 5",
+        "C": "1, 3, 4 and 5",
+        "D": "1, 2, 3, 4 and 5"
+      },
+      "options_gu": {
+        "A": "1, 2, 3 ને 5",
+        "B": "1, 2, 4 ને 5",
+        "C": "1, 3, 4 ને 5",
+        "D": "1, 2, 3, 4 ને 5"
+      }
+    },
+    {
+      "question_number": 18,
+      "question_text_en": "The first page of website is called",
+      "question_text_gu": "વેબસાઈટના પ્રથમ પાનાને ______ કહે છે.",
+      "options_en": {
+        "A": "Main page",
+        "B": "Home page",
+        "C": "Front page",
+        "D": "Open page"
+      },
+      "options_gu": {
+        "A": "મુખ્ય પાનું",
+        "B": "ગૃહ પાનુ",
+        "C": "આગળનું પાનું",
+        "D": "ખુલ્લુ પાનું"
+      }
+    },
+    {
+      "question_number": 19,
+      "question_text_en": "Given below are two statements:\nStatement I: SWAYAM stands for study webs of active learning for young aspiring minds.\nStatement II: All MOOCs on the SWAYAM portal are credit-based MOOCs.\nIn light of the above statements, choose the correct answer from the options given below:",
+      "question_text_gu": "નીચે બે વિધાનો આપેલા છે.\nવિધાન I: સ્વયમ્ (SWAYAM) એ સ્ટડી વેબ ઓફ એક્ટીવ લર્નીંગ ફોર યંગ એસ્પાયરીંગ માઈન્ડ નું ટુંકુ રૂપ છે.\nવિધાન II : સ્વયમ્ (SWAYAM) પોર્ટલ પર ઉપલબ્ધ બધા જ મૂક (MOOCs), ક્રેડીટ-બેઈઝડ મૂક (MOOC) છે.\nઉપરોક્ત વિધાનોના સંદર્ભે નીચે આપેલા વિકલ્પોમાંથી યોગ્ય ઉત્તર પસંદ કરો.",
+      "options_en": {
+        "A": "Both Statement I and Statement II are true",
+        "B": "Both Statement I and Statement II are false",
+        "C": "Statement I is true but Statement II is false",
+        "D": "Statement I is false but Statement II is true"
+      },
+      "options_gu": {
+        "A": "બંને વિધાન I અને વિધાન II સાચા છે",
+        "B": "બંને વિધાન I અને વિધાન II ખોટા છે",
+        "C": "વિધાન I સાચું છે પરંતુ વિધાન II ખોટું છે",
+        "D": "વિધાન I ખોટું છે પરંતુ વિધાન II સાચું છે"
+      }
+    },
+    {
+      "question_number": 20,
+      "question_text_en": "Given below are two statements, one is labeled as Assertion A and the other is labeled as Reason R.\nAssertion (A): 'Router' is considered as both input and output device.\nReason (R): 'Router' can send data and receive data at the same time.\nIn light of the above statements, choose the correct answer from the options given below:",
+      "question_text_gu": "નીચે બે વિધાનો આપેલા છે, એકને વિધાન A અને બીજાને કારણ R તરીકે નામાભિધાન કરેલું છે.\nવિધાન (A) : 'રાઉટર' ને ઈનપુટ અને આઉટપુટ ઉપકરણ કહી શકાય.\nકારણ (R): 'રાઉટર' એ એકજ સમયે માહિતી મોકલી શકે છે અને માહિતી પ્રાપ્ત કરી શકે છે.\nઉપરોક્ત વિધાનોના સંદર્ભે નીચે આપેલા વિકલ્પોમાંથી યોગ્ય ઉત્તર પસંદ કરો.",
+      "options_en": {
+        "A": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+        "B": "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+        "C": "(A) is true but (R) is false",
+        "D": "(A) is false but (R) is true"
+      },
+      "options_gu": {
+        "A": "બંને (A) અને (R) સાચા છે અને (R) એ (A)નું યોગ્ય સ્પષ્ટીકરણ છે",
+        "B": "બંને (A) અને (R) સાચા છે પરંતુ (R)એ (A)નું યોગ્ય સ્પષ્ટીકરણ નથી",
+        "C": "(A) સાચું છે પરંતુ (R) ખોટું છે",
+        "D": "(A) ખોટું છે પરંતુ (R) સાચું છે"
+      }
+    },
+    {
+      "question_number": 21,
+      "question_text_en": "Teaching at higher education should avoid the approach of",
+      "question_text_gu": "ઉચ્ચ શિક્ષણમાં શિક્ષકનો અભિગમ કેવો ન હોવો જોઈએ ?",
+      "options_en": {
+        "A": "Covering every bit of content step by step in the class",
+        "B": "Guided learning and self learning",
+        "C": "Motivating learner, use of self learning and lectures on difficult content",
+        "D": "Combination of self learning with digital platform based teaching"
+      },
+      "options_gu": {
+        "A": "વર્ગમાં તબક્કાવાર દરેક વિષયવસ્તુને આવરી લે છે",
+        "B": "માર્ગદર્શિત શિક્ષણ અને સ્વશિક્ષણ",
+        "C": "શીખનારને પ્રોત્સાહિત કરવા, સ્વશિક્ષણનો ઉપયોગ અને મુશ્કેલ વિષયવસ્તુ પર પ્રવચનો",
+        "D": "ડીજીટલ પ્લેટફોર્મ આધારિત શિક્ષણ સાથે સ્વશિક્ષણનું સંયોજન"
+      }
+    },
+    {
+      "question_number": 22,
+      "question_text_en": "In Discussion method of teaching which type of questions have limited role ?",
+      "question_text_gu": "શિક્ષણની ચર્ચા પદ્ધતિમાં કયા પ્રકારના પ્રશ્નોની ભૂમિકા મર્યાદિત હોય છે ?",
+      "options_en": {
+        "A": "Higher order questions",
+        "B": "Yes-no type of questions",
+        "C": "Hypothetical issue related questions",
+        "D": "Critical awareness related questions"
+      },
+      "options_gu": {
+        "A": "ઉચ્ચ ઓર્ડર પ્રશ્નો",
+        "B": "હા-ના પ્રકારના પ્રશ્નો",
+        "C": "અનુમાનિત મુદ્દા સંબંધિત પ્રશ્નો",
+        "D": "જટિલ જાગૃતિ સંબંધિત પ્રશ્નો"
+      }
+    },
+    {
+      "question_number": 23,
+      "question_text_en": "Which of the following set belongs to teaching?",
+      "question_text_gu": "નીચેનામાંથી કયો સમૂહ શિક્ષણનો છે ?",
+      "options_en": {
+        "A": "Instruction, scientific inquiry, case study, brainstorming",
+        "B": "Preaching, case study, brainstorming and indoctrination",
+        "C": "Brainstorming, preaching, surmons, instruction",
+        "D": "Tutorial, case study, brainstorming, indoctrination"
+      },
+      "options_gu": {
+        "A": "સૂચના, વૈજ્ઞાનિક તપાસ, કેસ સ્ટડી, મંથન",
+        "B": "ઉપદેશ, કેસ સ્ટડી, મંથન અને મનમાં ઠસાવવાની ક્રિયા",
+        "C": "મંથન, ઉપદેશ, સરમોન, સૂચના",
+        "D": "ટ્યુટોરીયલ, કેસ સ્ટડી, મંથન, મનમાં ઠસાવવાની ક્રિયા"
+      }
+    },
+    {
+      "question_number": 24,
+      "question_text_en": "Which of the following set of variables of learner largely influence the learning outcomes?",
+      "question_text_gu": "નીચેના ચલોનો સમૂહ મોટેભાગે શીખવાના પરિણામોને પ્રભાવિત કરે છે ?",
+      "options_en": {
+        "A": "Motivation, comprehension, gender, cognition",
+        "B": "Study habit, religion, motivation, socio-economic status",
+        "C": "Religion, socio-economic status, vocabulary, cognition",
+        "D": "Cognition, study habit, comprehension, motivation"
+      },
+      "options_gu": {
+        "A": "પ્રેરણા, સમજ, જાતિ, સમજશક્તિ",
+        "B": "અભ્યાસની આદત, ધર્મ, પ્રેરણા, સામાજિક આર્થિક સ્થિતિ",
+        "C": "ધર્મ, સામાજિક આર્થિક સ્થિતિ, શબ્દભંડોળ, સમજશક્તિ",
+        "D": "સમજશક્તિ, અભ્યાસની આદત, સમજ, પ્રેરણા"
+      }
+    },
+    {
+      "question_number": 25,
+      "question_text_en": "Characteristics of teaching as profession does not ensure",
+      "question_text_gu": "વ્યવસાય તરીકે શિક્ષણની લાક્ષણિકતાઓ સુનિશ્ચિત કરતી નથી",
+      "options_en": {
+        "A": "Having a code of conduct",
+        "B": "Freedom to work independently",
+        "C": "Good earning and family life",
+        "D": "Freedom of research and student counselling"
+      },
+      "options_gu": {
+        "A": "આચારસંહિતા ધરાવે છે",
+        "B": "સ્વતંત્ર રીતે કામ કરવાની સ્વતંત્રતા",
+        "C": "સારી કમાણી અને કૌટુંબિક જીવન",
+        "D": "સંશોધનની સ્વતંત્રતા અને વિદ્યાર્થીનું પરામર્શ"
+      }
+    },
+    {
+      "question_number": 26,
+      "question_text_en": "Which of the following are Sustainable Development Goals (SDGs)?\n1. Clean water and sanitation\n2. Deforestation\n3. Climate action\n4. Quality education\n5. Affordable and clean energy\nChoose the correct answer from the options given below :",
+      "question_text_gu": "નીચેના પૈકી ક્યાં ટકાઉ વિકાસના ધ્યેયો છે ?\n1. સ્વચ્છ જળ અને આરોગ્યવિદ્યા\n2. વનનાબૂદી\n3. પર્યાવરણીય કાર્યો\n4. ગુણવત્તાયુક્ત શિક્ષણ\n5. પરવળે તેવી અને સ્વચ્છ ઉર્જા\nઆપેલા વિકલ્પોમાંથી યોગ્ય ઉત્તર પસંદ કરો.",
+      "options_en": {
+        "A": "1, 3, 4 and 5",
+        "B": "1, 3 and 5",
+        "C": "1, 2, 3 and 5",
+        "D": "1, 3 and 4"
+      },
+      "options_gu": {
+        "A": "1, 3, 4 ને 5",
+        "B": "1, 3 ને 5",
+        "C": "1, 2, 3 ને 5",
+        "D": "1, 3 અને 4"
+      }
+    },
+    {
+      "question_number": 27,
+      "question_text_en": "Match the following and choose the correct option given below:\nG20 Presidency year:\nI. 2022\nII. 2023\nIII. 2024\nIV. 2025\n\nNation:\na. Brazil\nb. India\nc. South Africa\nd. Indonesia",
+      "question_text_gu": "નીચેના વિકલ્પોને મેળવીને સાચો વિકલ્પ પસંદ કરો.\nG20 પ્રમુખપદ વર્ષ:\nI. 2022\nII. 2023\nIII. 2024\nIV. 2025\n\nરાષ્ટ્ર:\na. બ્રાઝિલ\nb. ભારત\nc. સાઉથ આફ્રિકા\nd. ઇન્ડોનેશિયા",
+      "options_en": {
+        "A": "I-d, II-b, III-c, IV-a",
+        "B": "I-d, II-b, III-a, IV-c",
+        "C": "I-a, II-b, III-c, IV-d",
+        "D": "I-b, II-c, III-d, IV-a"
+      },
+      "options_gu": {
+        "A": "I-d, II-b, III-c, IV-a",
+        "B": "I-d, II-b, III-a, IV-c",
+        "C": "I-a, II-b, III-c, IV-d",
+        "D": "I-b, II-c, III-d, IV-a"
+      }
+    },
+    {
+      "question_number": 28,
+      "question_text_en": "Recently in February 2023, a large lithium mineral reserve was found in which State ?",
+      "question_text_gu": "તાજેતરમાં, ફેબ્રુઆરી 2023 માં કયા રાજ્યમાં લિથિયમ ખનીજ નો જથ્થો મળી આવ્યો છે?",
+      "options_en": {
+        "A": "Jammu and Kashmir",
+        "B": "Gujarat",
+        "C": "Jharkhand",
+        "D": "Bihar"
+      },
+      "options_gu": {
+        "A": "જમ્મુ અને કાશ્મીર",
+        "B": "ગુજરાત",
+        "C": "ઝારખંડ",
+        "D": "બિહાર"
+      }
+    },
+    {
+      "question_number": 29,
+      "question_text_en": "Which of the following cyclone has affected the east coast of India in last few years?\n1. Cyclone Biparjoy\n2. Cyclone Fani\n3. Cyclone Taukte\n4. Cyclone Amphan\nChoose the correct answer from the options given below :",
+      "question_text_gu": "નીચેના પૈકી કયા વાવાઝોડાએ છેલ્લા થોડા વર્ષોમાં ભારતના પૂર્વ તટને પ્રભાવિત કર્યો છે ?\n1. વાવાઝોડું બિપરજોય\n2. વાવાઝોડું ફાની\n3. વાવાઝોડું તાઉક્તે\n4. વાવાઝોડું અંમફન\nઆપેલા વિકલ્પોમાંથી યોગ્ય ઉત્તર પસંદ કરો.",
+      "options_en": {
+        "A": "1, 2 and 3",
+        "B": "1 and 3",
+        "C": "2 and 4",
+        "D": "1, 3 and 4"
+      },
+      "options_gu": {
+        "A": "1, 2 અને 3",
+        "B": "1 અને 3",
+        "C": "2 ને 4",
+        "D": "1, 3 અને 4"
+      }
+    },
+    {
+      "question_number": 30,
+      "question_text_en": "Given below are two statements, one is labeled as Assertion (A) and the other is labeled as Reason (R).\nAssertion (A): Air Quality Index (AQI) of City-X is 257, while that of City-Y is 65 in the month of August - 2023.\nReason (R): City-X is more air polluted than City-Y.\nIn light of the above statements, choose the correct answer from the options given below:",
+      "question_text_gu": "નીચે બે વિધાનો આપેલા છે, એકને વિધાન A અને બીજાને કારણ R તરીકે નામાભિધાન કરેલું છે.\nવિધાન (A): ઓગસ્ટ - 2023માં શહેર X નો એર ક્વોલિટી ઇન્ડેક્ષ (AQI) 257 છે, જયારે શહેર Y નો AQI 65 છે.\nકારણ (R) : શહેર X એ શહેર Y કરતાં વધુ વાયુ પ્રદુષિત છે.\nઉપરોકત વિધાનોના સંદર્ભે, નીચે આપેલા વિકલ્પોમાંથી યોગ્ય ઉત્તર પસંદ કરો.",
+      "options_en": {
+        "A": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+        "B": "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+        "C": "(A) is true but (R) is false",
+        "D": "(A) is false but (R) is true"
+      },
+      "options_gu": {
+        "A": "બંને (A) અને (R) સાચા છે અને (R) એ (A)નું યોગ્ય સ્પષ્ટીકરણ છે",
+        "B": "બંને (A) અને (R) સાચા છે પરંતુ (R)એ (A)નું યોગ્ય સ્પષ્ટીકરણ નથી",
+        "C": "(A) સાચું છે પરંતુ (R) ખોટું છે",
+        "D": "(A) ખોટું છે પરંતુ (R)સાચું છે"
+      }
+    },
+    {
+      "question_number": 31,
+      "question_text_en": "Scientific method of research involves the process of",
+      "question_text_gu": "સંશોધનની વૈજ્ઞાનિક પદ્ધતિમાં કઈ પ્રક્રિયાનો સમાવેશ થાય છે.",
+      "options_en": {
+        "A": "Induction",
+        "B": "Deduction",
+        "C": "Indo-deductive method",
+        "D": "Contemplation"
+      },
+      "options_gu": {
+        "A": "ઇન્ડકશન",
+        "B": "ડીડકશન",
+        "C": "ઇન્ડો-ડીડકટીવ પદ્ધતિ",
+        "D": "ચિંતન"
+      }
+    },
+    {
+      "question_number": 32,
+      "question_text_en": "Snowball sampling method",
+      "question_text_gu": "સ્નોબોલ નમૂના પદ્ધતિ",
+      "options_en": {
+        "A": "Is most preferred technique during survey method",
+        "B": "Provides representative sample for experimental study",
+        "C": "Is suitable to identify sample from unknown population",
+        "D": "Use rolling ball machine to get random sample"
+      },
+      "options_gu": {
+        "A": "સર્વેક્ષણ પદ્ધતિ દરમિયાન સૌથી વધુ પસંદગીની તકનીક છે",
+        "B": "પ્રાયોગિક અભ્યાસ માટે પ્રતિનિધિ નમૂના પ્રદાન કરે છે",
+        "C": "અજ્ઞાત સમષ્ટિમાંથી નમૂના ઓળખવા માટે યોગ્ય છે",
+        "D": "રેન્ડમ નમૂના મેળવવા માટે રોલિંગ બોલ મશીનનો ઉપયોગ"
+      }
+    },
+    {
+      "question_number": 33,
+      "question_text_en": "Which of the following is the correct statement of historical research?",
+      "question_text_gu": "ઐતિહાસિક સંશોધનનું નીચેનામાંથી કયું વિધાન સાચુ છે ?",
+      "options_en": {
+        "A": "It is not a scientific inquiry",
+        "B": "The extrinsic data validation is assumptive",
+        "C": "The findings are subjective to a great extent",
+        "D": "Reveals past with no contribution to future"
+      },
+      "options_gu": {
+        "A": "તે વૈજ્ઞાનિક તપાસ નથી",
+        "B": "બાહ્ય માહિતી માન્યતા અનુમાનિત છે",
+        "C": "તારણો મોટા પ્રમાણમાં વ્યક્તિલક્ષી છે",
+        "D": "ભવિષ્યમાં કોઈ યોગદાન વિના ભૂતકાળને પ્રગટ કરે છે"
+      }
+    },
+    {
+      "question_number": 34,
+      "question_text_en": "Which of the following is a discrete variable?",
+      "question_text_gu": "નીચેનામાંથી કયો અલગ ચલ છે?",
+      "options_en": {
+        "A": "Human IQ score",
+        "B": "Human height",
+        "C": "Number of human beings",
+        "D": "Human weight"
+      },
+      "options_gu": {
+        "A": "માણસનો બુદ્ધિ આંક",
+        "B": "માણસની ઊંચાઈ",
+        "C": "માણસોની સંખ્યા",
+        "D": "માણસોનું વજન"
+      }
+    },
+    {
+      "question_number": 35,
+      "question_text_en": "Which of the following statement is true for Swayamprabha ?",
+      "question_text_gu": "'સ્વયંપ્રભા' માટે નીચેનામાંથી કયુ વિધાન સાચુ છે ?",
+      "options_en": {
+        "A": "They are MOOCs and certified for credit consideration by universities",
+        "B": "They are educational programmes under direct-to-home",
+        "C": "One has to pay to subscribe the programme",
+        "D": "They are focussed to the course content from 1st standard to 12th standard"
+      },
+      "options_gu": {
+        "A": "તે મૂક (MOOC) છે અને વિશ્વવિદ્યાલય દ્વારા ક્રેડીટ પ્રાપ્તિ માટે પ્રમાણિત છે",
+        "B": "તે ડાયરેકટ ટુ-હોમ અંતર્ગત શૈક્ષણિક કાર્યક્રમો છે",
+        "C": "કાર્યક્રમોને જોવા માટે ચુકવણું કરવું પડે છે",
+        "D": "તે 1 થી 12 ધોરણના અભ્યાસક્રમો પર ધ્યાન આપે છે"
+      }
+    },
+    {
+      "question_number": 36,
+      "question_text_en": "Ravi travelled 4 km straight towards South. He turned left and travelled 6 km straight, then turned right and travelled 4 km straight. How far is he from the starting point ?",
+      "question_text_gu": "રવિ દક્ષિણ તરફ 4 કિમી સિધી મુસાફરી કરે છે. તે ડાબી તરફ વળી અને 6 કિમી સિધી મુસાફરી કરે છે, પછી જમણી તરફ વળે છે અને 4 કિમી સિધી મુસાફરી કરે છે. તો તે શરૂઆતની સ્થિતિએથી કેટલો દૂર હશે ?",
+      "options_en": {
+        "A": "8 km",
+        "B": "10 km",
+        "C": "12 km",
+        "D": "15 km"
+      },
+      "options_gu": {
+        "A": "8 કિમી",
+        "B": "10 કિમી",
+        "C": "12 કિમી",
+        "D": "15 કિમી"
+      }
+    },
+    {
+      "question_number": 37,
+      "question_text_en": "The following diagram shows the number of students who got distinction in the subject out of 500 students.\n(Diagram Details: Physics only=42, Chemistry only=47, Math only=50, Phy+Chem=12, Chem+Math=13, Phy+Math=15, All three=11)\nWhat is the percentage of students who got distinction only in two subjects?",
+      "question_text_gu": "નીચે આપેલી આકૃતિ, 500 વિદ્યાર્થીઓમાંથી વિષયમાં વિશેષ યોગ્યતા પ્રાપ્ત કરનાર વિદ્યાર્થીઓની સંખ્યા દર્શાવે છે.\nમાત્ર બે વિષયોમાં, વિશેષ યોગ્યતા પ્રાપ્ત કરનારા વિદ્યાર્થીઓની ટકાવારી કેટલી છે ?",
+      "options_en": {
+        "A": "6%",
+        "B": "8%",
+        "C": "10%",
+        "D": "12%"
+      },
+      "options_gu": {
+        "A": "6%",
+        "B": "8%",
+        "C": "10%",
+        "D": "12%"
+      }
+    },
+    {
+      "question_number": 38,
+      "question_text_en": "A car travels 25 km at a speed of 25 kmh, next 25 km at a speed of 50 kmh and the next 25 km at a speed of 75 kmh. What is the average speed of the car?",
+      "question_text_gu": "એક મોટર 25 કિમી/કલાકની ઝડપે 25 કિમી મુસાફરી કરે છે, પછીના 25 કિમી 50 કિમી/કલાક અને અંતિમ 25 કિમી 75 કિમી/કલાક ની ઝડપે મુસાફરી કરે છે. તો મોટરની સરેરાશ ઝડપ કેટલી છે ?",
+      "options_en": {
+        "A": "64 kmh",
+        "B": "50 kmh",
+        "C": "46 kmh",
+        "D": "41 kmh"
+      },
+      "options_gu": {
+        "A": "64 કિમી/કલાક",
+        "B": "50 કિમી/કલાક",
+        "C": "46 કિમી/કલાક",
+        "D": "41 કિમી/કલાક"
+      }
+    },
+    {
+      "question_number": 39,
+      "question_text_en": "The quarterly sales of a particular mobile in rural and urban areas during year 2022 is as follows:\nArea | Sales in 100 units\nRural: Q1=30, Q2=25, Q3=40, Q4=35\nUrban: Q1=40, Q2=60, Q3=40, Q4=70\nWhat is the percentage of sales during Q3?",
+      "question_text_gu": "વર્ષ 2022 દરમિયાન ગ્રામ્ય અને શહેરી વિસ્તારમાં અમુક મોબાઈલનું ચાર્તુમાસિક વેચાણ નીચે મુજબ છે.\nવિસ્તાર | 100 યુનિટનું વેચાણ\nગ્રામ્ય: Q1=30, Q2=25, Q3=40, Q4=35\nશહેરી: Q1=40, Q2=60, Q3=40, Q4=70\nતો Q3 માં વેચાણની ટકાવારી કેટલી છે ?",
+      "options_en": {
+        "A": "20.5%",
+        "B": "25.0%",
+        "C": "23.5%",
+        "D": "30.9%"
+      },
+      "options_gu": {
+        "A": "20.5%",
+        "B": "25.0%",
+        "C": "23.5%",
+        "D": "30.9%"
+      }
+    },
+    {
+      "question_number": 40,
+      "question_text_en": "Given the following data:\n22 26 18 15 30\n20 16 22 24 25\n38 36 28 26 25\n40 34 36 20 22\nWhat is the percentage of observation below average ?",
+      "question_text_gu": "નીચે માહિતિ આપેલી છે.\n22 26 18 15 30\n20 16 22 24 25\n38 36 28 26 25\n40 34 36 20 22\nસરેરાશ કરતા ઓછા અવલોકનો ની ટકાવારી કેટલી છે ?",
+      "options_en": {
+        "A": "40%",
+        "B": "45%",
+        "C": "50%",
+        "D": "60%"
+      },
+      "options_gu": {
+        "A": "40%",
+        "B": "45%",
+        "C": "50%",
+        "D": "60%"
+      }
+    },
+    {
+      "context_en": "You have studied that elemental oxygen is found in the atmosphere in the form of a diatomic molecule (O2). However, in the upper part of the atmosphere, oxygen is present in its triatomic form called ozone (O3). Ozone forms a layer at a height of 15-60 km in the stratosphere. The ozone levels are low over or near the equator and high near the poles. Ozone is a highly reactive form of molecular oxygen and is poisonous for us. But we are protected from its harmful effects as it is unstable near the surface of the earth. Further, ozone protects the biosphere from the harmful ultraviolet radiations. It filters out the radiations coming to the earth and maintains the temperature of the earth. Over the last few years, it has been observed that ozone layer is thinning out because of the excessive use of chlorofluorocarbons (CFCs) by human beings. Once considered as miracle compounds, CFCs were being used as propellants in aerosols and as coolants for refrigerators and air conditioners. But now, they are considered harmful compounds as they are stable, do not degrade by any biological process and harm the protective O3 layer by reacting with O3 molecules.",
+      "context_gu": "તમે અભ્યાસ કર્યો છે કે તાત્વિક ઓકિસજન વાતાવરણમાં દ્વિપરમાણવીય અણુ (O2) નાં રૂપમાં જોવા મળે છે, જોકે વાતાવરણના ઉપરના ભાગમાં ઓકિસજન તેના ટ્રાયટોમિક સ્વરૂપમાં હાજર છે જેને ઓઝોન (O3) કહેવાય છે. ઓઝોન સમતાપ આવરણમાં 15 60 કિ.મી.ની ઉંચાઈએ એક સ્તર બનાવે છે. ઓઝોનનું સ્તર વિષુવવૃત્ત પર અથવા તેની નજીક નીચું છે અને ધ્રુવોની નજીક ઊંચું છે. ઓઝોન મોલેક્યુલર ઓકિસજનનું અત્યંત પ્રતિક્રિયાશીલ સ્વરૂપ છે અને તે આપણા માટે ઝેરી છે, પરંતુ આપણે તેની હાનિકારક અસરોથી સુરક્ષિત છીએ કારણ કે તે પૃથ્વીની સપાટીની નજીક અસ્થિર છે. વધુમાં ઓઝોન હાનીકારક પારજાંબલી કિરણોત્સર્ગથી બાયો સ્ફિયરનું રક્ષણ કરે છે. તે પૃથ્વી પર આવતા રેડિયેશનને શોષે છે અને પૃથ્વીનું તાપમાન જાળવી રાખે છે. છેલ્લા કેટલાય વર્ષોમાં એવું જોવામાં આવ્યું છે કે માનવીઓ ક્લોરોફ્લોરોકાર્બન (CFCs) ના વધુ પડતા ઉપયોગને કારણે ઓઝોન સ્તર પાતળું થઇ રહ્યું છે. એકવાર ચમત્કારિક સંયોજનો તરીકે ગણવામાં આવતા CFCs નો ઉપયોગ પ્રોપેલેન્ટ તરીકે એરોસોલમાં અને રેફ્રિજરેટર્સ અને એરકંડિશનર્સ માટે શીતક તરીકે કરવામાં આવતો હતો, પરંતુ હવે તેઓ હાનિકારક સંયોજનો માનવામાં આવે છે કારણકે તેઓ સ્થિર છે, કોઈપણ જૈવિક પ્રક્રિયા દ્વારા અદ્યોગતિ કરતા નથી અને O3 પરમાણુંઓ સાથે પ્રતિક્રિયા કરીને રક્ષણાત્મક O3 સ્તરને નુકશાન પહોંચાડે છે.",
+      "question_number": 41,
+      "question_text_en": "The ozone levels is low at",
+      "question_text_gu": "ઓઝોનનું સ્તર ક્યાં નીચું હોય છે?",
+      "options_en": {
+        "A": "Equator",
+        "B": "Poles",
+        "C": "Both equator and poles",
+        "D": "Neither equator nor poles"
+      },
+      "options_gu": {
+        "A": "વિષુવવૃત",
+        "B": "ધ્રુવો",
+        "C": "વિષુવવૃત અને ધ્રુવો બંને પર",
+        "D": "વિષુવવૃત પણ નહી અને ધ્રુવો પણ નહી"
+      }
+    },
+    {
+      "question_number": 42,
+      "question_text_en": "Ozone means",
+      "question_text_gu": "ઓઝોન એટલે",
+      "options_en": {
+        "A": "A triatomic form of oxygen",
+        "B": "Diatomic molecular",
+        "C": "Elementary oxygen",
+        "D": "Carbon dioxide (CO2)"
+      },
+      "options_gu": {
+        "A": "ઓક્સિજનનું ત્રિપરમાણ્વિય સ્વરૂપ",
+        "B": "ડાયોટોમિક આણવિક",
+        "C": "તાત્વિક ઓક્સિજન",
+        "D": "કાર્બન ડાયોકસાઈડ (CO2)"
+      }
+    },
+    {
+      "question_number": 43,
+      "question_text_en": "Ozone is a molecular oxygen which is",
+      "question_text_gu": "ઓઝોન એ આણવિક પ્રાણવાયુ (molecular oxygen) ______",
+      "options_en": {
+        "A": "Neutral",
+        "B": "Inactive",
+        "C": "Non-poisonous",
+        "D": "Highly reactive"
+      },
+      "options_gu": {
+        "A": "તટસ્થ છે",
+        "B": "નિષ્ક્રિય છે",
+        "C": "બિનઝેરી છે",
+        "D": "ખૂબ જ સક્રિય છે"
+      }
+    },
+    {
+      "question_number": 44,
+      "question_text_en": "Ozone protects biosphere from",
+      "question_text_gu": "ઓઝોન જીવાવરણને (biosphere) રક્ષણ આપે છે.",
+      "options_en": {
+        "A": "Clouds and acid rains",
+        "B": "Ultraviolet radiations",
+        "C": "Pollution",
+        "D": "Cyclone"
+      },
+      "options_gu": {
+        "A": "વાદળો અને એસિડનો વરસાદથી",
+        "B": "અલ્ટ્રાવાયોલેટ રેડીએશન (પારજાંબલી તરંગો) થી",
+        "C": "પ્રદુષણથી",
+        "D": "સાયકલોન(વાવાઝોડું) થી"
+      }
+    },
+    {
+      "question_number": 45,
+      "question_text_en": "The reason for thinning of ozone level",
+      "question_text_gu": "ઓઝોન સ્તરને પાતળા થવાનું કારણ.",
+      "options_en": {
+        "A": "Excess use of O2",
+        "B": "Release of CO2",
+        "C": "Excessive use of chlorofluorocarbons",
+        "D": "Excess release of carbon monoxide"
+      },
+      "options_gu": {
+        "A": "ઓક્સિજન (O2) નો વધારે ઉપયોગ",
+        "B": "કાર્બન ડાયોકસાઈડ (CO2) નું છૂટા પડવું (ઉત્સર્જન)",
+        "C": "ક્લોરોફ્લ્યુરો કાર્બન્સનો વધારે ઉપયોગ",
+        "D": "કાર્બન મોનોકસાઈડનો વધારે ઉત્સર્જન (છૂટા પડવું)"
+      }
+    },
+    {
+      "question_number": 46,
+      "question_text_en": "A mixture contains sugar solution and colored water in the ratio 4: 3. If 10 litres of colored water is added to the mixture, the ratio becomes 4: 5. What is the initial quantity of sugar solution in the given mixture ?",
+      "question_text_gu": "એક મિશ્રણમાં ખાંડનું દ્રાવણ અને રંગીન પાણીનો ગુણોત્તર 4 : 3 છે. જો મિશ્રણમાં 10 લિટર રંગીન પાણી ઉમેરવામાં આવે તો ગુણોત્તર 4 : 5 થાય છે. તો આપેલા મિશ્રણમાં ખાંડના પાણીનું પ્રમાણ કેટલુ હશે ?",
+      "options_en": {
+        "A": "8 litres",
+        "B": "10 litres",
+        "C": "20 litres",
+        "D": "25 litres"
+      },
+      "options_gu": {
+        "A": "8 લિટર",
+        "B": "10 લિટર",
+        "C": "20 લિટર",
+        "D": "25 લિટર"
+      }
+    },
+    {
+      "question_number": 47,
+      "question_text_en": "Three friends P, Q and R started a business, each investing Rs. 10,000. After 5 months, P withdrews Rs. 3,000, Q withdrews Rs. 2,000 and R invested Rs. 3,000 more. At the end of the year a total profit of Rs. 34,600 was recorded. What is the share of P, Q and R respectively?",
+      "question_text_gu": "ત્રણ મિત્રો P, Q અને R દરેક 10,000 રૂ/- નું રોકાણ કરી એક ધંધો શરૂ કરે છે. 5 મહિના પછી P રૂ/- 3,000 અને Q રૂ/- 2,000 ઉપાડે છે. જ્યારે R વધુ રૂ/- 3,000 નું રોકાણ કરે છે. જો એક વર્ષના અંતે રૂ/- 34,600 કુલ નફો થતો હોય તો P, Q અને R નો હિસ્સો કેટલો હશે ?",
+      "options_en": {
+        "A": "10,600, 9,900, 14,100",
+        "B": "9,900, 10,600, 14,100",
+        "C": "14,100, 10,600, 9,900",
+        "D": "10,600, 14,100, 9,900"
+      },
+      "options_gu": {
+        "A": "10,600, 9,900, 14,100",
+        "B": "9,900, 10,600, 14,100",
+        "C": "14,100, 10,600, 9,900",
+        "D": "10,600, 14,100, 9,900"
+      }
+    },
+    {
+      "question_number": 48,
+      "question_text_en": "Five ships J, K, L, M and N are to be unloaded on 5 consecutive days beginning from Monday to Friday.\nI. Each ship takes exactly one day to unload.\nII. K must be unloaded on the day preceding the day on which M and N are unloaded.\nIII. L cannot be unloaded on Tuesday.\nIV. M is the second ship to be unloaded after J is unloaded.\nIf M is unloaded on Friday, which one of the following is true?",
+      "question_text_gu": "પાંચ વહાણો J, K, L, M અને N ને સોમવારથી શરૂ કરી શુક્રવાર સુધીમાં, ક્રમાનુસાર 5 દિવસોમાં ખાલી કરવાના છે.\nI. દરેક વહાણને ખાલિ કરવામાં એક દિવસ થાય છે.\nII. M અને N ને ખાલિ કરવાના એક દિવસ પહેલા K ને ખાલી કરવાનું છે.\nIII. L ને મંગળવારે ખાલી કરી શકાય નહી.\nIV. M એ J પછી ખાલી થનાર બીજું વહાણ છે.\nજો M ને શુક્રવારે ખાલી કરવામાં આવ્યુ હોય તો નીચેના પૈકી કયુ સાચું છે ?",
+      "options_en": {
+        "A": "J is unloaded on Wednesday",
+        "B": "K is unloaded on Tuesday",
+        "C": "L is unloaded on Monday",
+        "D": "N is unloaded on Thursday"
+      },
+      "options_gu": {
+        "A": "J ને બુધવારે ખાલી કરવામાં આવ્યું છે",
+        "B": "K ને મંગળવારે ખાલી કરવામાં આવ્યું છે",
+        "C": "L ને સોમવારે ખાલી કરવામાં આવ્યું છે",
+        "D": "N ને ગુરૂવારે ખાલી કરવામાં આવ્યું છે"
+      }
+    },
+    {
+      "question_number": 49,
+      "question_text_en": "If + means x, - means +, x means / and / means -, then the value of 6 - 9 + 8 x 3 / 20 is",
+      "question_text_gu": "જો + નો અર્થ x, - નો અર્થ +, x નો અર્થ / અને / નો અર્થ - હોય તો 6 - 9 + 8 x 3 / 20 નું મુલ્ય",
+      "options_en": {
+        "A": "-2",
+        "B": "6",
+        "C": "10",
+        "D": "12"
+      },
+      "options_gu": {
+        "A": "-2",
+        "B": "6",
+        "C": "10",
+        "D": "12"
+      }
+    },
+    {
+      "question_number": 50,
+      "question_text_en": "Three positions of the same dice are given below. Which number will come in place of x ?\n(Position 1: Top=1, Front=3, Right=4)\n(Position 2: Top=3, Front=4, Right=x)\n(Position 3: Top=6, Front=5, Right=2)",
+      "question_text_gu": "એકજ પાસાની ત્રણ સ્થિતિ નીચે આપેલી છે. x ની જગ્યાએ કયો અંક આવશે ?",
+      "options_en": {
+        "A": "1",
+        "B": "3",
+        "C": "5",
+        "D": "6"
+      },
+      "options_gu": {
+        "A": "1",
+        "B": "3",
+        "C": "5",
+        "D": "6"
+      }
+    }
+  ]
+}
