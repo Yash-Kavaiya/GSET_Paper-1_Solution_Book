@@ -1,0 +1,502 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "Name the philosopher who proposed the technique of questioning:",
+    "options": [
+      "(A) John Dewey",
+      "(B) Socrates",
+      "(C) Comte",
+      "(D) Froebel"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question_text": "Which of the following skills does not require high intellectual ability?",
+    "options": [
+      "(A) Technical skills",
+      "(B) Mechanical skills",
+      "(C) Teaching skills",
+      "(D) Management skills"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question_text": "Primary education in the mother tongue has been safeguarded in Article :",
+    "options": [
+      "(A) 29",
+      "(B) 350",
+      "(C) 220",
+      "(D) 351"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question_text": "What is the full form of CAI ?",
+    "options": [
+      "(A) Computer Associated Instruction",
+      "(B) Computer Associated Information",
+      "(C) Computer Assisted Instruction",
+      "(D) Computer Assisted Information"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question_text": "For maintaining discipline in the class:",
+    "options": [
+      "(A) Students should be severely punished for acts of indiscipline",
+      "(B) Teacher should try to make his teaching interesting",
+      "(C) Non-attending students should be turned out of the class",
+      "(D) Parents of the indisciplined students should be informed"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question_text": "If the sample drawn does not specify any condition about the parameter of the population, it is called :",
+    "options": [
+      "(A) Selected statistics",
+      "(B) Distribution free statistics",
+      "(C) Parametric statistics",
+      "(D) Inferential statistics"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question_text": "Validity of an experimental design refers to:",
+    "options": [
+      "(A) Maximise treatment variance and minimise error variance",
+      "(B) Minimise both treatment variance and error variance",
+      "(C) Testing the difference between treatment variance and error variance",
+      "(D) Minimise treatment variance and maximise error variance"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question_text": "Which one of the following is not considered as plagiarism?",
+    "options": [
+      "(A) Make use of the work of another and misrepresent it as your own",
+      "(B) Drawing content from the work of another without acknowledging the source",
+      "(C) Paraphrasing too closely to the original text",
+      "(D) Drawing content from another work and adapting it with due acknowledgement"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question_text": "Bibliography refers to:",
+    "options": [
+      "(A) A true story written about someone",
+      "(B) A record of events presented in a report",
+      "(C) A list of sources used in a report and where they can be found",
+      "(D) List of abbreviations used in the report"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question_text": "Snowball sampling technique falls under the category of:",
+    "options": [
+      "(A) Probability sampling",
+      "(B) Non-probability sampling",
+      "(C) Random sampling",
+      "(D) Quota sampling"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question_text": "Based on the passage provided: The fourth conference of Labour Ministers was not held at New Delhi:",
+    "options": [
+      "(A) The inference is probably true",
+      "(B) The inference is probably false",
+      "(C) The inference is definitely false",
+      "(D) The data are inadequate"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question_text": "Based on the passage provided: .......... organization took an active part in a conference of Labour Ministers for the first time.",
+    "options": [
+      "(A) International Monetary Fund",
+      "(B) International Labour Organization",
+      "(C) World Health Organization",
+      "(D) UNICEF"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question_text": "Based on the passage provided: Linking Labour standards to International trade would benefit the .......... countries.",
+    "options": [
+      "(A) Advanced",
+      "(B) Developing",
+      "(C) Developed",
+      "(D) Industrial"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question_text": "Based on the passage provided: Among the following topics which of them is not discussed at the Copenhagen Conference ?",
+    "options": [
+      "(A) Employment",
+      "(B) Poverty",
+      "(C) Technology",
+      "(D) Social Integration"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question_text": "Based on the passage provided: Which of the following is the reason for organizing the fifth conference of Labour Ministers ?",
+    "options": [
+      "(A) Compulsion by ILO",
+      "(B) To satisfy the government",
+      "(C) To run-up to the world summit",
+      "(D) Causal meeting of Ministers"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question_text": "Message is any signal that triggers the response of a",
+    "options": [
+      "(A) Receiver",
+      "(B) Sender",
+      "(C) Channel",
+      "(D) Feedback"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question_text": "Our dress code is an example of .......... communication.",
+    "options": [
+      "(A) Verbal",
+      "(B) Non-verbal",
+      "(C) Written",
+      "(D) Spoken"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question_text": ".......... is the process by which the receiver interprets the symbols used by the source of the message.",
+    "options": [
+      "(A) Listing",
+      "(B) Listening",
+      "(C) Decoding",
+      "(D) Encoding"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question_text": "Identify the correct sequence in the communication process:",
+    "options": [
+      "(A) Sender - Channel - Message - Receiver",
+      "(B) Sender - Receiver - Message - Channel",
+      "(C) Sender - Receiver - Channel - Message",
+      "(D) Sender - Message - Channel - Receiver"
+    ]
+  },
+  {
+    "question_number": 20,
+    "question_text": "The study of body language is called",
+    "options": [
+      "(A) Proxemics",
+      "(B) Kinesics",
+      "(C) Phonetics",
+      "(D) Chronemics"
+    ]
+  },
+  {
+    "question_number": 21,
+    "question_text": "Find out missing number in the following: [Matrix with numbers 5,3,2,7,6,7; 63,41,? ; 6,8,3,5,6,8,3,9,8,5]",
+    "options": [
+      "(A) 26",
+      "(B) 82",
+      "(C) 83",
+      "(D) 86"
+    ]
+  },
+  {
+    "question_number": 22,
+    "question_text": "If P means x, R means +, T means ÷ and S means -, then 18T3P9S8R6 = ?",
+    "options": [
+      "(A) 52",
+      "(B) 2/3",
+      "(C) 46",
+      "(D) 58"
+    ]
+  },
+  {
+    "question_number": 23,
+    "question_text": "Young is related to Old, in the same way Wide is related to",
+    "options": [
+      "(A) Short",
+      "(B) Big",
+      "(C) Narrow",
+      "(D) Long"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question_text": "If SUMMER is coded as RUNNER, the code for WINTER will be:",
+    "options": [
+      "(A) SUITER",
+      "(B) VIOUER",
+      "(C) WALKER",
+      "(D) SUFFER"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question_text": "Find out the missing term in the following series : 0 7 26 63 124 ...",
+    "options": [
+      "(A) 215",
+      "(B) 216",
+      "(C) 248",
+      "(D) 157"
+    ]
+  },
+  {
+    "question_number": 26,
+    "question_text": "In the following question choose the group of words that shows the same relationship as given at the top of the question : Play : Win : Lose",
+    "options": [
+      "(A) Accident : Death : Survive",
+      "(B) Examination : Success : Determination",
+      "(C) Read : Book : Magazine",
+      "(D) Music : Dance : Art"
+    ]
+  },
+  {
+    "question_number": 27,
+    "question_text": "What is the missing number in the following sequence of numbers ? 84/14,12 81/18,9 88/?,11",
+    "options": [
+      "(A) 13",
+      "(B) 14",
+      "(C) 15",
+      "(D) 16"
+    ]
+  },
+  {
+    "question_number": 28,
+    "question_text": "In a group of persons travelling in a bus, 6 persons can speak Malayalam, 15 can speak Hindi and 6 can speak Gujarati. In that group, none can speak any other language. If 2 persons in the group can speak two languages and one person can speak all the three languages, then how many persons are there in the group?",
+    "options": [
+      "(A) 21",
+      "(B) 22",
+      "(C) 23",
+      "(D) 24"
+    ]
+  },
+  {
+    "question_number": 29,
+    "question_text": "In this question, two statements followed by four conclusions are given... Statements: (1) Some doors are mangoes. (2) All mangoes are bananas. Conclusions : (I) All bananas are mangoes. (II) All doors are bananas. (III) Some doors are bananas. (IV) Some mangoes are doors. Which of the given conclusions logically follows...?",
+    "options": [
+      "(A) Only I and II follows",
+      "(B) Only II and III follows",
+      "(C) Only III and IV follows",
+      "(D) Only II and IV follows"
+    ]
+  },
+  {
+    "question_number": 30,
+    "question_text": "The pie-diagram below shows various expenditures incurred in publishing a book: Royalty cost (15%), Printing cost (20%), Transportation cost (10%), Promotion cost (10%), Paper cost (25%), Binding cost (30% in Gujarati text; English text seems to imply remainder to complete pie chart, or check sum). If for an edition of the book, the cost of paper is Rs. 20,000, then what is the promotion cost for this edition ?",
+    "options": [
+      "(A) Rs. 5,000",
+      "(B) Rs. 6,000",
+      "(C) Rs. 7,000",
+      "(D) Rs. 8,000"
+    ]
+  },
+  {
+    "question_number": 31,
+    "question_text": "If 2nCn-1 : (2n-1)Cn = 5 : 3, then what is the value of n?",
+    "options": [
+      "(A) 2",
+      "(B) 3",
+      "(C) 4",
+      "(D) 5"
+    ]
+  },
+  {
+    "question_number": 32,
+    "question_text": "The average of a set of 7 observations is 36 and that of another set of 13 observations is 46. What is the combined average of the set ?",
+    "options": [
+      "(A) 40.5",
+      "(B) 41.5",
+      "(C) 42.5",
+      "(D) 43.5"
+    ]
+  },
+  {
+    "question_number": 33,
+    "question_text": "The following circuit operates only if there is a path of functional devices from left to right. The proportion that each device function is shown on the graph. Assume that devices fail independently. What is the proportion that the circuit operates ? [Diagram showing probabilities]",
+    "options": [
+      "(A) 0.9725",
+      "(B) 0.9879",
+      "(C) 0.9915",
+      "(D) 0.9998"
+    ]
+  },
+  {
+    "question_number": 34,
+    "question_text": "The value of (6^(2/3) * cbrt(6^7)) / cbrt(6^6) is:",
+    "options": [
+      "(A) 3",
+      "(B) 6",
+      "(C) 9",
+      "(D) 12"
+    ]
+  },
+  {
+    "question_number": 35,
+    "question_text": "A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue ?",
+    "options": [
+      "(A) 2/7",
+      "(B) 11/21",
+      "(C) 10/21",
+      "(D) 5/7"
+    ]
+  },
+  {
+    "question_number": 36,
+    "question_text": "CD-ROM stands for:",
+    "options": [
+      "(A) Compactable Read Only Memory",
+      "(B) Compactable Data Read Only Memory",
+      "(C) Compact Disk Read Only Memory",
+      "(D) Common Disk Read Only Memory"
+    ]
+  },
+  {
+    "question_number": 37,
+    "question_text": "WAN stands for:",
+    "options": [
+      "(A) Wide Area Network",
+      "(B) Wireless Access Network",
+      "(C) Wireless Area Network",
+      "(D) Wide Access Network"
+    ]
+  },
+  {
+    "question_number": 38,
+    "question_text": "A computer cannot 'boot', if it does not have the :",
+    "options": [
+      "(A) Compiler",
+      "(B) Loader",
+      "(C) Operating System",
+      "(D) Keypad"
+    ]
+  },
+  {
+    "question_number": 39,
+    "question_text": "Human beings are referred to as Homo sapiens. Which device is called Sillico sapiens ?",
+    "options": [
+      "(A) Computer",
+      "(B) Hardware",
+      "(C) Robot",
+      "(D) Drone (inferred from Gujarati text 'ડ્રોન' though English text has typo 'Dvone')"
+    ]
+  },
+  {
+    "question_number": 40,
+    "question_text": "1 GB is equal to",
+    "options": [
+      "(A) 1250 megabytes",
+      "(B) 1296 megabytes",
+      "(C) 1150 megabytes",
+      "(D) 1024 megabytes"
+    ]
+  },
+  {
+    "question_number": 41,
+    "question_text": "Which is India's first bullet train project?",
+    "options": [
+      "(A) Mumbai-Ahmedabad",
+      "(B) Delhi-Chandigarh",
+      "(C) Delhi-Jaipur",
+      "(D) Chennai-Kolkata"
+    ]
+  },
+  {
+    "question_number": 42,
+    "question_text": "Supreme Court of India has ordered the transition of vehicles to which BS level?",
+    "options": [
+      "(A) BS-V",
+      "(B) BS-III",
+      "(C) BS-VI",
+      "(D) BS-IV"
+    ]
+  },
+  {
+    "question_number": 43,
+    "question_text": "Scientists have developed a new battery material based in .......... with charging speed 5 times faster than lithium-ion batteries.",
+    "options": [
+      "(A) Graphene",
+      "(B) Carbon",
+      "(C) Nitrate",
+      "(D) Chromium"
+    ]
+  },
+  {
+    "question_number": 44,
+    "question_text": "Which is regarded as one of the world's hottest hotspots of biological diversity ?",
+    "options": [
+      "(A) Rann of Kutch",
+      "(B) Western Ghats",
+      "(C) Eastern Ghats",
+      "(D) Thar Deserts"
+    ]
+  },
+  {
+    "question_number": 45,
+    "question_text": "Which Indian astrophysicist and Nobel laureate predicted rapidly rotating stars emitting polarised light ?",
+    "options": [
+      "(A) S. Chandrasekhar",
+      "(B) C.V. Raman",
+      "(C) S. Ramanujam",
+      "(D) Venkat Raman Ramakrishnan"
+    ]
+  },
+  {
+    "question_number": 46,
+    "question_text": "What is the full form of NIRF a methodology to rank higher education institutions in India?",
+    "options": [
+      "(A) National Institute of Research Framework",
+      "(B) National and International Ranking Framework",
+      "(C) National Institutional Ranking Framework",
+      "(D) National Inventory of Research Funding"
+    ]
+  },
+  {
+    "question_number": 47,
+    "question_text": "'SWAYAM' is a portal initiated by:",
+    "options": [
+      "(A) NITI Aayog",
+      "(B) MHRD",
+      "(C) Ministry of I&B",
+      "(D) Ministry of Railways"
+    ]
+  },
+  {
+    "question_number": 48,
+    "question_text": "'AICTE' is responsible for the planning, coordination and management of:",
+    "options": [
+      "(A) Teacher Education",
+      "(B) Distance Education",
+      "(C) Technical and Management Education",
+      "(D) School Education"
+    ]
+  },
+  {
+    "question_number": 49,
+    "question_text": "In who's name the National Mission on Teachers and Teaching has been launched in India?",
+    "options": [
+      "(A) Pt. Dindayal Upadhyaya",
+      "(B) Pt. Jawaharlal Nehru",
+      "(C) Pt. Madan Mohan Malaviya",
+      "(D) Pt. Ravishankar"
+    ]
+  },
+  {
+    "question_number": 50,
+    "question_text": "In which state the first children's university was established in India?",
+    "options": [
+      "(A) Maharashtra",
+      "(B) Rajasthan",
+      "(C) Madhya Pradesh",
+      "(D) Gujarat"
+    ]
+  }
+]
