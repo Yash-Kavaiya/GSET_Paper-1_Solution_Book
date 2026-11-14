@@ -1,0 +1,502 @@
+[
+ {
+  "n": 1,
+  "q": "Which one of the following is the most important characteristics of a good teacher?",
+  "opts": [
+   "To control the class effectively.",
+   "To motivate the students for learning",
+   "To have command over the subject",
+   "To use different teaching methods."
+  ]
+ },
+ {
+  "n": 2,
+  "q": "During the teaching-learning process a teacher should",
+  "opts": [
+   "provide relevant information",
+   "maintain a lively classroom environment",
+   "allow students to raise questions",
+   "give relevant illustrations."
+  ]
+ },
+ {
+  "n": 3,
+  "q": "The ultimate goal of education is to",
+  "opts": [
+   "develop problem-solving skills among students",
+   "make students economically productive",
+   "cultivate the habit of maintaining good relationships",
+   "prepare knowledgeable individuals."
+  ]
+ },
+ {
+  "n": 4,
+  "q": "The main function of teachers in higher education is",
+  "opts": [
+   "teaching, research and extension.",
+   "being a friend, philosopher and guide.",
+   "to solve problems of students.",
+   "to generate knowledge."
+  ]
+ },
+ {
+  "n": 5,
+  "q": "If a student asks you a question in the class the answer of which you do not know, then what will you do?",
+  "opts": [
+   "Get angry with the student.",
+   "Do not allow anyone to ask questions.",
+   "Accept your lack of knowledge and tell that you will come prepared with the same next time.",
+   "Will feel guilty."
+  ]
+ },
+ {
+  "n": 6,
+  "q": "Which one of the following is not the aim of scientific research?",
+  "opts": [
+   "Theory building.",
+   "Logical reasoning.",
+   "Problem solving.",
+   "Creating new knowledge."
+  ]
+ },
+ {
+  "n": 7,
+  "q": "An investigator studied some selected subjects for certain years continuously. The type of research is:",
+  "opts": [
+   "Longitudinal study.",
+   "Cross-sectional study.",
+   "Experimental study.",
+   "Correlational study."
+  ]
+ },
+ {
+  "n": 8,
+  "q": "Which one is the most important factor for selection of a research problem?",
+  "opts": [
+   "Researcher's interest.",
+   "Researchability of the problem.",
+   "Administrative suitability.",
+   "Uniqueness of the problem."
+  ]
+ },
+ {
+  "n": 9,
+  "q": "Inductive reasoning implies",
+  "opts": [
+   "particular to general.",
+   "general to particular.",
+   "symbolic logic.",
+   "none of the above."
+  ]
+ },
+ {
+  "n": 10,
+  "q": "Which one of the following is not the example of qualitative research?",
+  "opts": [
+   "Case study.",
+   "Ethnography.",
+   "Content analysis.",
+   "Pretest-Posttest experiment."
+  ]
+ },
+ {
+  "n": 11,
+  "q": "Read the following text and answer questions 11 to 15: Sixty per cent of rural India lives in utter poverty with no electricity. Rural India uses 180 million tones of fuel every year for cooking, creating indoor pollution and health hazards... The purpose of the paragraph is to bringout:",
+  "opts": [
+   "Problems of rural poor.",
+   "The limitations of sugar cane.",
+   "Benefits of sorghum (Jowar).",
+   "Remedies for pollutant energy."
+  ]
+ },
+ {
+  "n": 12,
+  "q": "Most suitable heading for the paragraph will be:",
+  "opts": [
+   "Rural poverty.",
+   "Alternate Fuels.",
+   "Solid Fuels Vs. Liquid Fuels.",
+   "Efficient Fuels."
+  ]
+ },
+ {
+  "n": 13,
+  "q": "As per the authors, who are the rural poor?",
+  "opts": [
+   "Who do not have any electricity.",
+   "Who use solid fuel for cooking.",
+   "Who live with pollution and health hazards.",
+   "Who do not use cooking gas."
+  ]
+ },
+ {
+  "n": 14,
+  "q": "As per the author which can be easy source of energy",
+  "opts": [
+   "fuel that can be locally produced.",
+   "fuel that can be produced from crops.",
+   "fuel that can be used as alternate to kerosene.",
+   "fuel that does not give unpleasant smell."
+  ]
+ },
+ {
+  "n": 15,
+  "q": "The nature of the paragraph is",
+  "opts": [
+   "analytical.",
+   "critical.",
+   "conceptual.",
+   "comprehensive."
+  ]
+ },
+ {
+  "n": 16,
+  "q": "Students are inattentive in the classroom. The reason is:",
+  "opts": [
+   "Lack of interest in the subject.",
+   "Outside obstacles.",
+   "Nature of the subject.",
+   "Poor communication."
+  ]
+ },
+ {
+  "n": 17,
+  "q": "Communication is a network of",
+  "opts": [
+   "Interactions.",
+   "Messages.",
+   "Receivers and senders.",
+   "Information."
+  ]
+ },
+ {
+  "n": 18,
+  "q": "Which one of the following is not a barrier to communication ?",
+  "opts": [
+   "Noise.",
+   "Culture.",
+   "Job satisfaction.",
+   "Attitude."
+  ]
+ },
+ {
+  "n": 19,
+  "q": "Which of the following is true with respect to a good communicator?",
+  "opts": [
+   "May not always be a good teacher.",
+   "Has humourous expression.",
+   "Has a wise range of reading interest.",
+   "Has mastery over the medium of instruction."
+  ]
+ },
+ {
+  "n": 20,
+  "q": "Which of the following are the important characteristics of an effective teacher ? (i) Knowledge of content. (ii) Effective verbal communication skills. (iii) Impressive personality. (iv) Ability to command respect from students.",
+  "opts": [
+   "(ii) and (iii)",
+   "(i) and (ii)",
+   "(iii) and (iv)",
+   "(i) and (iv)."
+  ]
+ },
+ {
+  "n": 21,
+  "q": "Find the odd number out: 8, 9, 64, 125, 216, 49",
+  "opts": [
+   "125",
+   "216",
+   "64",
+   "49"
+  ]
+ },
+ {
+  "n": 22,
+  "q": "Which is the missing number in the following series ? 16, 54, 128, _____",
+  "opts": [
+   "162",
+   "256",
+   "250",
+   "416."
+  ]
+ },
+ {
+  "n": 23,
+  "q": "Fill in the blank: B, G, K, _____, P",
+  "opts": [
+   "L",
+   "M",
+   "N",
+   "J."
+  ]
+ },
+ {
+  "n": 24,
+  "q": "If CAT = ECV, then SUN = ?",
+  "opts": [
+   "NSU",
+   "VCE",
+   "UWP",
+   "TAC."
+  ]
+ },
+ {
+  "n": 25,
+  "q": "Find the missing number: 95, 87, 80, 74, 69, _____",
+  "opts": [
+   "49",
+   "59",
+   "48",
+   "65."
+  ]
+ },
+ {
+  "n": 26,
+  "q": "January 23, 2005 was a Sunday. What will be the day on December 31, 2004?",
+  "opts": [
+   "Monday.",
+   "Sunday.",
+   "Saturday.",
+   "Friday."
+  ]
+ },
+ {
+  "n": 27,
+  "q": "Who is the odd man out? George Bush, Gen. Mushrraf, APJ Abdul Kalam, Tony Blair.",
+  "opts": [
+   "George Bush",
+   "Gen. Mushrraf",
+   "APJ Abdul Kalam",
+   "Tony Blair."
+  ]
+ },
+ {
+  "n": 28,
+  "q": "Shyam remembers that their mother visited them after 15th but before 20th of a month. Shyam's brother remembers that their mother had visited them after 18th but before 22nd. On which date did their mother visit them?",
+  "opts": [
+   "16th",
+   "19th",
+   "21st",
+   "17th."
+  ]
+ },
+ {
+  "n": 29,
+  "q": "If we substitute numbers 1 to 12 indicating hours on the dial of a clock by alphabets in the order starting with B, which letter will represent 9?",
+  "opts": [
+   "J",
+   "L",
+   "K",
+   "I."
+  ]
+ },
+ {
+  "n": 30,
+  "q": "The individual weights of 'A' and 'B' are the same as that of 'C'. 'C's weight is equal to 'D's weight. Whose weight is the maximum ?",
+  "opts": [
+   "D",
+   "C",
+   "A",
+   "All have the same weight."
+  ]
+ },
+ {
+  "n": 31,
+  "q": "Who made highest total run ?",
+  "opts": [
+   "Kishor",
+   "Anand & Ramesh",
+   "Chetan",
+   "Mohan & Anand."
+  ]
+ },
+ {
+  "n": 32,
+  "q": "Who is consistently poor batsman?",
+  "opts": [
+   "Anand",
+   "Ramesh",
+   "Mohan",
+   "Chetan."
+  ]
+ },
+ {
+  "n": 33,
+  "q": "Who made zero run more times ?",
+  "opts": [
+   "Anand",
+   "Ramesh",
+   "Ramesh and Anand both",
+   "Chetan"
+  ]
+ },
+ {
+  "n": 34,
+  "q": "Who is consistent good batsman?",
+  "opts": [
+   "Kishor",
+   "Mohan",
+   "Chetan",
+   "None of above."
+  ]
+ },
+ {
+  "n": 35,
+  "q": "Average run of mohan is",
+  "opts": [
+   "18.00",
+   "36.60",
+   "61.00",
+   "69.80."
+  ]
+ },
+ {
+  "n": 36,
+  "q": "The instrument which helps in receiving the web-page matter through internet is called",
+  "opts": [
+   "Client",
+   "Browser",
+   "Server",
+   "Power Point"
+  ]
+ },
+ {
+  "n": 37,
+  "q": "MS WORD is an example of",
+  "opts": [
+   "Application Software",
+   "System Software",
+   "Operating Software",
+   "Translating Programme."
+  ]
+ },
+ {
+  "n": 38,
+  "q": "The first webpage of any organization is called",
+  "opts": [
+   "Portal",
+   "Home Page",
+   "Vortal",
+   "Website."
+  ]
+ },
+ {
+  "n": 39,
+  "q": "The advantage of internet to a teacher is",
+  "opts": [
+   "He can update his knowledge and enrich it.",
+   "He can counsel the rural people.",
+   "He can mark attendance of students.",
+   "He can evaluate his own knowledge."
+  ]
+ },
+ {
+  "n": 40,
+  "q": "Which of the following does not have any use in Local Area Network (LAN) ?",
+  "opts": [
+   "Modem",
+   "Printer",
+   "CPU",
+   "Monitor."
+  ]
+ },
+ {
+  "n": 41,
+  "q": "In which city did India win the Hockey World Cup in 1975?",
+  "opts": [
+   "New Delhi",
+   "Toronto",
+   "Kuala Lumpur",
+   "London."
+  ]
+ },
+ {
+  "n": 42,
+  "q": "Which branch of the following is studied statistically through demography?",
+  "opts": [
+   "Human society",
+   "Human population",
+   "Human life",
+   "Human psychology."
+  ]
+ },
+ {
+  "n": 43,
+  "q": "Which gas is useful as well as harmful to human being?",
+  "opts": [
+   "Ozone",
+   "Oxygen",
+   "Carbon dioxide",
+   "Methane."
+  ]
+ },
+ {
+  "n": 44,
+  "q": "In which year the department of environment was established in India?",
+  "opts": [
+   "1970",
+   "1972",
+   "1982",
+   "1986"
+  ]
+ },
+ {
+  "n": 45,
+  "q": "Which gas is responsible for Green House Effect ?",
+  "opts": [
+   "Oxygen",
+   "Ozone",
+   "Carbon Monoxide",
+   "Carbon Dioxide."
+  ]
+ },
+ {
+  "n": 46,
+  "q": "Which one of the following is a deemed university?",
+  "opts": [
+   "Sardar Patel University, V.V. Nagar.",
+   "M. S. University of Baroda",
+   "Bhavnagar University, Bhavnagar.",
+   "None of above."
+  ]
+ },
+ {
+  "n": 47,
+  "q": "Main feature of distance education is:",
+  "opts": [
+   "Face to face learning",
+   "Counselling sessions and study centres",
+   "Compulsory attendance",
+   "Easy to get the degree."
+  ]
+ },
+ {
+  "n": 48,
+  "q": "Who is the chair person of University Grants Commission?",
+  "opts": [
+   "Yashpal",
+   "Madhuriben Shah",
+   "Arun Nigvekar",
+   "Sukhdeo Thorat"
+  ]
+ },
+ {
+  "n": 49,
+  "q": "Which body governs and looks after technical education in India?",
+  "opts": [
+   "AICTE",
+   "NCTE",
+   "MCI",
+   "ICSSR"
+  ]
+ },
+ {
+  "n": 50,
+  "q": "Purpose of knowledge commission is to:",
+  "opts": [
+   "Find means to generate knowledge",
+   "Find relevance of knowledge to society",
+   "Find ways to generate income through knowledge.",
+   "Find methods to create structure of knowledge."
+  ]
+ }
+]

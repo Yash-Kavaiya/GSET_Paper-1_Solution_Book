@@ -1,0 +1,503 @@
+[
+ {
+  "n": 1,
+  "q": "Semantic barrier in communication is",
+  "opts": [
+   "Use of technical/difficult language",
+   "Use of technology",
+   "Lack of attention",
+   "Lack of co-ordination"
+  ]
+ },
+ {
+  "n": 2,
+  "q": "The key purpose of effective communication is",
+  "opts": [
+   "Create barriers",
+   "Promote misunderstanding",
+   "Effect change",
+   "Confuse audience"
+  ]
+ },
+ {
+  "n": 3,
+  "q": "Identify the correct sequence of the elements in the communication system.\na. Speech\nb. Speaker\nc. Receiver\nd. Effect\nThe correct choice is :",
+  "opts": [
+   "b, a, c, d",
+   "a, b, d, c",
+   "b, a, d, c",
+   "c, d, b, a"
+  ]
+ },
+ {
+  "n": 4,
+  "q": "Which of the following is an example of non-verbal communication ?",
+  "opts": [
+   "Writing on the blackboard",
+   "Speaking on microphone",
+   "Sending a voice message",
+   "Nodding head to indicate disagreement"
+  ]
+ },
+ {
+  "n": 5,
+  "q": "'Encoding' in the communication system means",
+  "opts": [
+   "Converting thoughts or ideas into a message",
+   "Translating messages into ideas or thoughts",
+   "Providing opinions on the sender",
+   "Avoiding difficult words in the message"
+  ]
+ },
+ {
+  "n": 6,
+  "q": "Which one among the following is the common language for AI ?",
+  "opts": [
+   "Lisp",
+   "Python",
+   "PHP",
+   "JAVA"
+  ]
+ },
+ {
+  "n": 7,
+  "q": "Regarding ICT based governance, which of the following statements is/are correct?\ni. Increasing transparency is an advantage of ICT based governance.\nii. e-governance is related to automation of administrative processes.\niii. Due to ICT based governance, workforce gets reduced.\nChoose the correct option:",
+  "opts": [
+   "i, ii and iii",
+   "i and ii only",
+   "i and iii only",
+   "ii and iii only"
+  ]
+ },
+ {
+  "n": 8,
+  "q": "Which among the following are the National Co-ordinators for SWAYAM?\n1. Indian Institute of Technology Kanpur (IITK)\n2. University Grants Commission (UGC)\n3. Consortium for Educational Communication (CEC)\n4. Indian Institute of Management Bangalore (IIMB)\n5. National Institute of Open Schooling (NIOS)\nChoose the correct answer from the options given below :",
+  "opts": [
+   "1, 2, 3 and 4",
+   "2, 3, 4 and 5",
+   "1, 2, 3 and 5",
+   "2, 3 and 4"
+  ]
+ },
+ {
+  "n": 9,
+  "q": "Given below are two statements:\nStatement I: SWAYAM is India's own MOOC platform, which offers free online courses in almost all the discipline to students/learners.\nStatement - II: Coursera, Udemy, Udacity, Iversity are other MOOC platforms.\nIn light of the above statements, choose the correct answer from the options given below",
+  "opts": [
+   "Both statement I and statement II are true",
+   "Both statement I and statement II are false",
+   "Statement I is true but statement II is false",
+   "Statement I is false but statement II is true"
+  ]
+ },
+ {
+  "n": 10,
+  "q": "Given below are two statements, one is labeled as Assertion (A) and the other is labeled as Reason (R).\nAssertion (A): 'Touch screen' is considered as both input and output device.\nReason (R): 'Touch screen' can send data and receive data at the same time.\nIn light of the above statements, choose the correct answer from the options given below :",
+  "opts": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ]
+ },
+ {
+  "n": 11,
+  "q": "Which of the following components fall under presage stage of presage processor-product model of teaching-learning process ?\n1. Content analysis\n2. Learning testing\n3. Classroom interaction\n4. Learning outcome plan\n5. Learning supervision\n6. Learner's motivation\nThe correct choice is :",
+  "opts": [
+   "1, 4, 6",
+   "2, 3, 5",
+   "1, 5, 6",
+   "1, 4, 5"
+  ]
+ },
+ {
+  "n": 12,
+  "q": "Discussion method of teaching does NOT have the advantage of developing",
+  "opts": [
+   "Understanding and experiencing",
+   "Reflective level of experiencing",
+   "Active learning",
+   "Organisation of content flow in a structured sequence"
+  ]
+ },
+ {
+  "n": 13,
+  "q": "A teacher through experience found that learners were able to memorise and recall content, if given in brief summarised form. Of the given below which one is NOT the implication ?",
+  "opts": [
+   "Brief summarisation will motivate learner for active participation",
+   "Brief summarisation will improve understanding and conceptualisation",
+   "Brief summarisation will focus on memorisation irrespective of understanding",
+   "Brief summarisation is key for cognitive learning"
+  ]
+ },
+ {
+  "n": 14,
+  "q": "The online teaching has advantage with reference to",
+  "opts": [
+   "use of multimedia system",
+   "well structuring of teaching",
+   "objective based teaching",
+   "all of the above"
+  ]
+ },
+ {
+  "n": 15,
+  "q": "Which of the following learner characteristics disturb classroom teaching?\n1. Self confidence\n2. Absence of teacher clarification\n3. Logical arguments for clarification\n4. Classroom noise by learners\n5. Peer attention seeking argument\n6. Access to large amount of digital material on net\nChoose the correct option:",
+  "opts": [
+   "1, 2, 5",
+   "2, 4, 6",
+   "3, 4, 6",
+   "2, 4, 5"
+  ]
+ },
+ {
+  "n": 16,
+  "q": "In the following series of numbers, one number is wrong in the series :\n864, 420, 200, 96, 40, 16, 6\nWhich is the wrong number?",
+  "opts": [
+   "40",
+   "96",
+   "200",
+   "420"
+  ]
+ },
+ {
+  "n": 17,
+  "q": "The difference between compound and simple interest on a certain sum of money at the interest rate of 10% per annum for 1.5 years is 183, when the interest is compounded semi annually. What is the sum of money?",
+  "opts": [
+   "19,200",
+   "24,000",
+   "35,000",
+   "38,060"
+  ]
+ },
+ {
+  "n": 18,
+  "q": "The following table gives the percentage distribution of population of five States A, B, C, D and E on the basis of poverty line and also on the basis of gender :\n[Table with State A-E, % Below Poverty Line, Below Poverty Line M:F, Above Poverty Line M:F]\nWhat will be the number of females above poverty line in the State D if it is known that the population of State D is 7 million ?",
+  "opts": [
+   "2.87 million",
+   "2.43 million",
+   "2.17 million",
+   "1.98 million"
+  ]
+ },
+ {
+  "n": 19,
+  "q": "The information about the students of a college is given below :\nMembers of Cricket Club only: 5%\nMembers of Football Club only: 15%\nMembers of both the Club: 75%\nNon members: 40\nWhat is the number of students who are members of both the Clubs ?",
+  "opts": [
+   "450",
+   "500",
+   "550",
+   "600"
+  ]
+ },
+ {
+  "n": 20,
+  "q": "The number of auto-parts manufactured by 5 identical machines during 5 days is given below :\n[Table with Machines A-E, Days Monday-Friday]\nThe number of auto-parts manufactured by Machine E on Monday is what percent more than the number of parts manufactured by Machine C on Thursday?",
+  "opts": [
+   "47.66%",
+   "53.33%",
+   "59.66%",
+   "62.33%"
+  ]
+ },
+ {
+  "n": 21,
+  "q": "Which agency in India conducts NEET Examination for admission into medical colleges ?",
+  "opts": [
+   "National Testing Agency",
+   "National Board of Assessment",
+   "Medical Council of India",
+   "All India Institute of Medical Science"
+  ]
+ },
+ {
+  "n": 22,
+  "q": "'ICSSR' stands for",
+  "opts": [
+   "International Council for Social Science Research",
+   "Indian Council of Social Science Research",
+   "Indian Council of Scientific Sustainable Research",
+   "International Conference on Solid Science Research"
+  ]
+ },
+ {
+  "n": 23,
+  "q": "Which Institution is scored rank one (1), according to India Overall Rankings-2024 of NIRF, Govt. of India ?",
+  "opts": [
+   "IISC, Bangalore",
+   "IIT, Madras",
+   "IIT, Delhi",
+   "JNU, Delhi"
+  ]
+ },
+ {
+  "n": 24,
+  "q": "'NIRF' stands for",
+  "opts": [
+   "National Industrial Ranking Framework",
+   "National Institutional Ranking Framework",
+   "National Individual Ranking Framework",
+   "National Innovative Research Framework"
+  ]
+ },
+ {
+  "n": 25,
+  "q": "Name of the centres established to develop competencies among faculty members in Higher Education for better teaching, learning, research and academic leadership for effective implementation of NEP-2020",
+  "opts": [
+   "Malaviya Mission Teacher Training Centres",
+   "Pandit Madan Mohan Malaviya Training Centres",
+   "National Centre for Professional Development of Teacher",
+   "Human Development and Research Centre"
+  ]
+ },
+ {
+  "n": 26,
+  "q": "Which of the following is NOT a characteristic of basic research ?",
+  "opts": [
+   "Knowledge findings are replicable",
+   "Generalisation of knowledge claims",
+   "Concept and procedure of knowledge creation are publicly accessible",
+   "Research knowledge is human centric"
+  ]
+ },
+ {
+  "n": 27,
+  "q": "Which one of the following is NOT a tool for quantitative data analysis in educational research?",
+  "opts": [
+   "MS Word",
+   "MS Excel",
+   "SPSS",
+   "Math Lab"
+  ]
+ },
+ {
+  "n": 28,
+  "q": "A researcher intends to explore the results of possible factors for the organisation of 'Girl student support system development in the college campus'. Which research method will be most appropriate for the study ?",
+  "opts": [
+   "Descriptive survey method",
+   "Historical method",
+   "Philosophical method",
+   "Experimental method"
+  ]
+ },
+ {
+  "n": 29,
+  "q": "What percentage of observation are broadly covered in $\\pm2$ standard deviation (2$\\sigma$) of a normal probability distribution ?",
+  "opts": [
+   "60%",
+   "68%",
+   "90%",
+   "95%"
+  ]
+ },
+ {
+  "n": 30,
+  "q": "Which one of the following is called non-probabilistic sampling?",
+  "opts": [
+   "Quota sampling",
+   "Cluster sampling",
+   "Systematic sampling",
+   "Random sampling"
+  ]
+ },
+ {
+  "n": 31,
+  "q": "Given : $U=-2$, $V=\\frac{1}{2}$, $W=3$, $X=-4$, $Y=9$ and $Z=\\frac{1}{6}$ . What is the value of $\\sqrt{\\frac{(W-2)^{2}}{V}+\\frac{(Y-5)^{2}}{Z}+U-X}$ ?",
+  "opts": [
+   "8",
+   "9",
+   "10",
+   "11"
+  ]
+ },
+ {
+  "n": 32,
+  "q": "If the compound interest on a certain sum at $16\\frac{2}{3}\\%$ for 3 years is 1,270, what is the simple interest on the same sum at the same rate and for the same period ?",
+  "opts": [
+   "1,080",
+   "2,010",
+   "2,410",
+   "2,560"
+  ]
+ },
+ {
+  "n": 33,
+  "q": "Complete the letter series:\nab_a_b_aab_aabb_",
+  "opts": [
+   "aabba",
+   "babba",
+   "babab",
+   "ababa"
+  ]
+ },
+ {
+  "n": 34,
+  "q": "The average of three numbers is given as 44. If the second number is twice the first and is also thrice the third, what is the largest number ?",
+  "opts": [
+   "72",
+   "68",
+   "64",
+   "58"
+  ]
+ },
+ {
+  "n": 35,
+  "q": "10% of the inhabitants of a village having died of cholera, during which 20% remaining inhabitants left the village. The population is then reduced to 5040. What is the original inhabitants ?",
+  "opts": [
+   "6000",
+   "7000",
+   "8000",
+   "9000"
+  ]
+ },
+ {
+  "n": 36,
+  "q": "Match the following and choose the correct option from given below:\nSDG Number:\nI. 4\nII. 6\nIII. 7\nIV. 13\nGoal:\na. Clean water and sanitation\nb. Climate action\nc. Quality education\nd. Affordable and clean energy",
+  "opts": [
+   "I-c, II-a, III-d, IV-b",
+   "I-c, II-d, III-a, IV-b",
+   "I-a, II-b, III-c, IV-d",
+   "I-b, II-c, III-a, IV-d"
+  ]
+ },
+ {
+  "n": 37,
+  "q": "Given below are two statements:\nStatement I: The environmental disasters are natural and hence these are also termed as natural hazardous processes.\nStatement -II: Earthquake, Tsunamis, Flood and Avalanche are examples of natural hazards.\nIn light of the above statements, choose the correct answer from the options given below :",
+  "opts": [
+   "Both statement I and statement II are true",
+   "Both statement I and statement II are false",
+   "Statement I is true but statement II is false",
+   "Statement I is false but statement II is true"
+  ]
+ },
+ {
+  "n": 38,
+  "q": "Which of the following are effect of global warming?\n1. Change in the rainfall pattern.\n2. Rise in the sea level.\n3. Loss of biodiversity.\n4. Shrinking of forest cover.\nChoose the correct answer from the options given below :",
+  "opts": [
+   "1, 2 and 3",
+   "1, 3 and 4",
+   "1, 2, 3 and 4",
+   "1, 2 and 4"
+  ]
+ },
+ {
+  "n": 39,
+  "q": "Which of the following cyclone has affected the West Coast of India in last few years ?\n1. Cyclone Biparjoy\n2. Cyclone Fani\n3. Cyclone Tauktae\n4. Cyclone Amphan\nChoose the correct answer from the options given below :",
+  "opts": [
+   "1, 2 and 3",
+   "1 and 3",
+   "2 and 4",
+   "1, 3 and 4"
+  ]
+ },
+ {
+  "n": 40,
+  "q": "The soil pollutant among the following are:\n1. Pesticides\n2. Radioactive wastes\n3. Municipal wastes\n4. Mining wastes\n5. Electronic wastes\nChoose the correct answer from the options given below :",
+  "opts": [
+   "1, 2, 3 and 5",
+   "1, 2, 4 and 5",
+   "1, 3, 4 and 5",
+   "1, 2, 3, 4 and 5"
+  ]
+ },
+ {
+  "n": 41,
+  "q": "Which fundamental right is guaranteed by the Constitution of India as mentioned in the paragraph ?",
+  "opts": [
+   "The right to vote",
+   "The right to free and compulsory education",
+   "The right to freedom of speech",
+   "The right to work and employment"
+  ],
+  "context": "There are several other fields in which it is desirable that a clear policy should be laid down on an all-India basis. One of the fundamental rights guaranteed by the Constitution is the right of every citizen of the Union to free and compulsory education up to the age of 14. For the proper functioning of democracy, the Centre must see that every individual is equipped with the necessary knowledge, skill and aptitudes to discharge his duties as a responsible and co-operative citizen. What James Madison said about his country, the United States, many years ago, holds good today in our country also. \"A popular Government without popular information or the means of acquiring it is but a prologue to a farce of tragedy or perhaps both. Knowledge will forever govern ignorance, and the people who mean to be their own governors must arm themselves with the power which knowledge gives.\" We should, however like to add that it is not only knowledge that is required, but also the right kind of social training and the inculcation of right ideals without which knowledge by itself may be sterile or worse. Training for democracy postulates a balanced education in which social virtues, intellectual development and practical skill all receive due consideration and the pattern of such an education must be envisaged on an all-India basis."
+ },
+ {
+  "n": 42,
+  "q": "According to the paragraph, why is it important for every individual to acquire knowledge, skills and aptitudes ?",
+  "opts": [
+   "To become successful in life",
+   "To participate in the global economy",
+   "To discharge duties as a responsible and co-operative citizen",
+   "To obtain government jobs"
+  ]
+ },
+ {
+  "n": 43,
+  "q": "What did James Madison say about popular government ?",
+  "opts": [
+   "It cannot function without wealth.",
+   "It must be led by knowledgeable people.",
+   "Popular government without popular information is like a farce of tragedy.",
+   "Democracy is the best form of government."
+  ]
+ },
+ {
+  "n": 44,
+  "q": "What does 'training for democracy' postulate according to the paragraph ?",
+  "opts": [
+   "Training focused purely on intellectual development",
+   "A balanced education that includes social virtues, intellectual development and practical skills",
+   "A technical education system",
+   "Education focused on leadership and politics"
+  ]
+ },
+ {
+  "n": 45,
+  "q": "Why does the author believe that educational policies should be established as an all-India basis ?",
+  "opts": [
+   "To promote political unity in India",
+   "To ensure uniformity and balanced education across the country",
+   "To provide higher education over primary education",
+   "To ensure more students join government services"
+  ]
+ },
+ {
+  "n": 46,
+  "q": "'X' is East of 'Y' which is in the North of 'Z'. If 'P' is to the East of 'Z', then in which direction of 'X' is 'P'?",
+  "opts": [
+   "South-West",
+   "South-East",
+   "South",
+   "West"
+  ]
+ },
+ {
+  "n": 47,
+  "q": "Match the following four terms of Column A with that of Column B, correctly as per Pramana's reasoning.\nColumn A:\n1. Pramana\n2. Pramata\n3. Prameya\n4. Prama\nColumn B:\na. The subject who knows\nb. The means of validity\nc. The resultant valid knowledge\nd. The object of knowledge\nThe correct match is",
+  "opts": [
+   "1-d, 2-a, 3-b, 4-c",
+   "1-b, 2-a, 3-d, 4-c",
+   "1-c, 2-a, 3-b, 4-d",
+   "1-d, 2-c, 3-b, 4-a"
+  ]
+ },
+ {
+  "n": 48,
+  "q": "The ratio of the number of students studying in schools A, B and C is 6:8:7 respectively. If the number of students studying in each of the schools is increased by 20%, 15% and 20% respectively, what will be the new ratio of the number of students in schools A, B and C ?",
+  "opts": [
+   "20:19:18",
+   "20:22:24",
+   "21:22:23",
+   "18:23:21"
+  ]
+ },
+ {
+  "n": 49,
+  "q": "The average of $1^{2}$, $2^{2}$, $3^{2}$, $4^{2}$, $5^{2}$, $6^{2}$ is",
+  "opts": [
+   "14.69",
+   "15.17",
+   "16.21",
+   "17.48"
+  ]
+ },
+ {
+  "n": 50,
+  "q": "The bacterial count in a certain culture (colony) increased from 1000 to 4000 in 3 days. What was the average percentage increase per day?",
+  "opts": [
+   "49.2%",
+   "54.3%",
+   "58.7%",
+   "62.9%"
+  ]
+ }
+]

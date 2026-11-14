@@ -1,0 +1,38 @@
+\chapter*{How to Use This Book}
+\addcontentsline{toc}{chapter}{How to Use This Book}
+\markboth{How to Use This Book}{How to Use This Book}
+
+\section*{Anatomy of a solved question}
+\begin{center}
+\begin{tikzpicture}[font=\small,every node/.style={align=left}]
+\node[draw=rule,rounded corners,fill=white,text width=0.62\linewidth,inner sep=8pt] (q) {%
+\colorbox{ink}{\makebox[1.2em]{\sffamily\bfseries\small\color{white}7}}\ Question text as printed in the paper\\[3pt]
+\textbf{(A)} option \quad \textbf{(B)} option \quad \textbf{(C)} option \quad \textbf{(D)} option\\[4pt]
+\colorbox{softgood}{\parbox{0.9\linewidth}{\sffamily\small\textbf{\color{good}Correct Answer: (C)}\ \rmfamily text of the option}}\\[4pt]
+{\sffamily\small\bfseries\color{brand}Explanation}\\ Reasoning, working, diagrams\ldots\\[3pt]
+\colorbox{soft}{\parbox{0.9\linewidth}{\sffamily\small\bfseries\color{brand}Remember\ \rmfamily\mdseries\color{black} a quick fact or rule}}};
+\draw[<-,accent,thick] ([yshift=18pt]q.north east) ++(-0.2,-0.5) -- ++(1.1,0) node[right,font=\scriptsize,text width=2.4cm]{question number};
+\draw[<-,accent,thick] ([yshift=-18pt]q.east) -- ++(0.9,0) node[right,font=\scriptsize,text width=2.4cm]{official final key};
+\draw[<-,accent,thick] ([yshift=-58pt]q.east) -- ++(0.9,0) node[right,font=\scriptsize,text width=2.4cm]{worked solution};
+\end{tikzpicture}
+\end{center}
+
+\section*{Suggested study plan}
+\begin{enumerate}
+\item \textbf{Attempt first, read later.} Take each paper as a timed test: 50 questions (or 60 in the older papers where 50 were to be answered) in one hour. Mark your answers, then check them against the \emph{Official Final Answer Key} grid at the start of each chapter. Each question number in the grid is a link in the PDF edition.
+\item \textbf{Study every explanation}, including those for the questions you got right. Many explanations add the surrounding facts (for example, all SWAYAM national coordinators, all NAAC criteria, or all the Nyaya pramanas), which are exactly what later papers ask.
+\item \textbf{Redo the reasoning questions} (series, coding, clocks, dice, Venn diagrams, data interpretation) without looking at the working. These are the scoring questions of Paper~I.
+\item \textbf{Keep a mistake log} of topics you get wrong, and revise them with the tips in the grey \emph{Remember} boxes.
+\end{enumerate}
+
+\section*{Symbols and conventions}
+\begin{tabularx}{\linewidth}{@{}lX@{}}\toprule
+\textbf{Mark} & \textbf{Meaning}\\\midrule
+\colorbox{softgood}{\sffamily\small\color{good}\textbf{Correct Answer}} & Answer as per the GSET Agency's final key.\\[3pt]
+\colorbox{soft}{\sffamily\small\color{accent}\textbf{Dropped question}} & Question marked Z/X in the final key: not evaluated. The most defensible answer is still discussed.\\[3pt]
+{\sffamily\small\color{accent}\textbf{Note on the key}} & The official key differs from what the question strictly supports; both are explained.\\[3pt]
+Framed box & A reading passage, table or chart shared by a group of questions.\\\bottomrule
+\end{tabularx}
+
+\medskip
+Diagrams, charts and tables have been \textbf{redrawn} from the original booklets. In a handful of figure-based questions (for example, symbol sequences) the original figure has been reproduced as an image so that nothing is lost.

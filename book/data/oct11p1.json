@@ -1,0 +1,602 @@
+[
+ {
+  "n": 1,
+  "q": "Read the following text and answer the Question Nos. 1 to 6: [Passage about the algorithmic theory of beauty...]. According to the algorithmic theory:",
+  "opts": [
+   "subjective perceptions of observers' cannot be systematically classified",
+   "there is no correlation between subjective observation and beauty",
+   "there is a positive correlation between beauty and minimum description",
+   "perception of beauty is unpredictable"
+  ]
+ },
+ {
+  "n": 2,
+  "q": "The formal language of mathematics",
+  "opts": [
+   "prefers simple proof which may or may not be elaborate",
+   "prefers the least elaborate description and repetition",
+   "may be complex even as it provides a short description",
+   "ensures simplicity and bravity"
+  ]
+ },
+ {
+  "n": 3,
+  "q": "The author of the passage suggests that Leonardo da Vinci:",
+  "opts": [
+   "was a precursor of the algorithmic theory of information",
+   "predicted the algorithmic theory of beauty",
+   "produced proportion studies that support algorithmic theory of beauty",
+   "gave a theory of subjectively perceived aesthetics"
+  ]
+ },
+ {
+  "n": 4,
+  "q": "Which of the following is not true ?",
+  "opts": [
+   "What is interesting is not always beautiful",
+   "We perceive beauty when we discover symmetry",
+   "Mathematicians prefer short descriptions",
+   "We can distinguish between what is interesting and what is beautiful"
+  ]
+ },
+ {
+  "n": 5,
+  "q": "How do we perceive beauty ?",
+  "opts": [
+   "By noticing patterns of similarity",
+   "By subjective observation",
+   "By identifying a pleasing human face",
+   "By producing the shortest description"
+  ]
+ },
+ {
+  "n": 6,
+  "q": "An appropriate title for the passage would be :",
+  "opts": [
+   "Leonardo da Vinci on Beauty",
+   "Aesthetics and Mathematics",
+   "Algorithmic theory of Beauty",
+   "The Beautiful and the Interesting"
+  ]
+ },
+ {
+  "n": 7,
+  "q": "The gas leaked during Bhopal disaster was:",
+  "opts": [
+   "ethyl cyanoacetate",
+   "ethyl cyanoacrylate",
+   "methyl isocyanate",
+   "methyl diisocyanate"
+  ]
+ },
+ {
+  "n": 8,
+  "q": "The audible range of frequency for human ear is",
+  "opts": [
+   "10 Hz to 10 kHz",
+   "20 Hz to 20 kHz",
+   "10 Hz to 20 kHz",
+   "10 Hz to 30 kHz"
+  ]
+ },
+ {
+  "n": 9,
+  "q": "If waste materials contaminate the source of drinking water, which of the following diseases will spread?",
+  "opts": [
+   "Scurvy",
+   "Typhoid",
+   "Malaria",
+   "Anaemia"
+  ]
+ },
+ {
+  "n": 10,
+  "q": "Which of the following is most likely to limit primary production in fresh water lakes?",
+  "opts": [
+   "Oxygen",
+   "Calcium",
+   "Phosphorus",
+   "Carbon"
+  ]
+ },
+ {
+  "n": 11,
+  "q": "Which of the following is not a major greenhouse gas?",
+  "opts": [
+   "Carbon dioxide",
+   "Methane",
+   "Water vapour",
+   "Calcium carbonate"
+  ]
+ },
+ {
+  "n": 12,
+  "q": "Tsunami is caused due to :",
+  "opts": [
+   "Giant high tide waves in ocean",
+   "Oceanic bad weather conditions",
+   "Sudden motion of the ocean floor",
+   "Intercontinental collisions in the ocean"
+  ]
+ },
+ {
+  "n": 13,
+  "q": "The full form of FTP is:",
+  "opts": [
+   "File Transfer Protocol",
+   "File Transfer Program",
+   "File Transfer Property",
+   "File Transfer Problem"
+  ]
+ },
+ {
+  "n": 14,
+  "q": "For proper functioning of computers, which of the following is not recommended ?",
+  "opts": [
+   "Anti-virus should always be activated",
+   "Always use authorized softwares",
+   "Never connect to internet",
+   "Never allow external data devices on your PC without checking for viruses"
+  ]
+ },
+ {
+  "n": 15,
+  "q": "If '10110110' is written on a paper, what does it mean?",
+  "opts": [
+   "Data",
+   "Information",
+   "Knowledge",
+   "Wisdom"
+  ]
+ },
+ {
+  "n": 16,
+  "q": "Which of the following is not a characteristic of information ?",
+  "opts": [
+   "It is unchangeable with time",
+   "It is meaningful to the receiver",
+   "It is relevant to the activity",
+   "It is clear and concise"
+  ]
+ },
+ {
+  "n": 17,
+  "q": "The selection of information and communication technological tools should essentially depend on:",
+  "opts": [
+   "Technological infrastructure",
+   "Learner's access to the technology",
+   "The support personnel",
+   "All of the above"
+  ]
+ },
+ {
+  "n": 18,
+  "q": "Which of the following is a soft copy output device ?",
+  "opts": [
+   "Printer",
+   "Visual Display Unit (VDU)",
+   "CD-ROM",
+   "Both (A) and (B) of the above"
+  ]
+ },
+ {
+  "n": 19,
+  "q": "Which of the following is correct sequence of steps in scientific method?",
+  "opts": [
+   "Observation, Deduction of consequences, Hypothesizing, Verification",
+   "Verification, Hypothesizing, Observation, Deduction of consequences",
+   "Observation, Hypothesizing, Deduction of consequences, Verification",
+   "Hypothesizing, Observation, Verification, Deduction of consequences"
+  ]
+ },
+ {
+  "n": 20,
+  "q": "A research carried out by a practitioner is called:",
+  "opts": [
+   "Applied Research",
+   "Basic Research",
+   "Action Research",
+   "Experimental Research"
+  ]
+ },
+ {
+  "n": 21,
+  "q": "Sampling procedure in which every subject of a population has equal chance of being selected is called:",
+  "opts": [
+   "Purposive sampling",
+   "Cluster sampling",
+   "Probability sampling",
+   "Non-probability sampling"
+  ]
+ },
+ {
+  "n": 22,
+  "q": "In research, reliability indicates:",
+  "opts": [
+   "Precision in measurement",
+   "Error in measurement",
+   "Replicability in measurement",
+   "Generalisability in measurement"
+  ]
+ },
+ {
+  "n": 23,
+  "q": "An example of non-empirical research is :",
+  "opts": [
+   "Philosophical",
+   "Historical",
+   "Survey",
+   "Experimental"
+  ]
+ },
+ {
+  "n": 24,
+  "q": "Delimitation in research report refers to:",
+  "opts": [
+   "Setting limits to the problem of research",
+   "Limitation of the researcher in studying the problem",
+   "Defining the research problem",
+   "Alternative to scope of the problem"
+  ]
+ },
+ {
+  "n": 25,
+  "q": "The main purpose of classroom teaching is to:",
+  "opts": [
+   "prepare students for examination",
+   "make students content expert",
+   "develop competitive spirit among students",
+   "make students apply disciplinary knowledge to life"
+  ]
+ },
+ {
+  "n": 26,
+  "q": "Which of the following has potential to influence learning ?",
+  "opts": [
+   "Socio-economic status",
+   "Ability to express",
+   "Study habits",
+   "Ability of books"
+  ]
+ },
+ {
+  "n": 27,
+  "q": "Which of the following factors contributes towards effective teaching ?",
+  "opts": [
+   "Knowledge of teaching methods and learners",
+   "Knowledge of content and institution",
+   "Knowledge of teaching method and institution",
+   "Knowledge of learner and computer"
+  ]
+ },
+ {
+  "n": 28,
+  "q": "Which of the following is the advantage of lecture method ?",
+  "opts": [
+   "Effective face-to-face teaching",
+   "Ensures attention of all students",
+   "Caters to all individual differences",
+   "Suitable for large group teaching"
+  ]
+ },
+ {
+  "n": 29,
+  "q": "Teachers use teaching aids, because:",
+  "opts": [
+   "Some teachers are incapable of teaching on their own",
+   "Students require some change while learning",
+   "It is necessary to reach the students' level of understanding",
+   "To use the updated technology of teaching"
+  ]
+ },
+ {
+  "n": 30,
+  "q": "Internal assessment marks are to be:",
+  "opts": [
+   "kept confidential",
+   "revealed to students",
+   "based on attendance",
+   "used as gracing marks"
+  ]
+ },
+ {
+  "n": 31,
+  "q": "Efficacy and effectiveness of communication can be assessed through:",
+  "opts": [
+   "Reception",
+   "Feedback",
+   "Transmission",
+   "Encoding"
+  ]
+ },
+ {
+  "n": 32,
+  "q": "Which one of the following aspects has no influence in face-to-face communication ?",
+  "opts": [
+   "Language ability",
+   "Facial expressions",
+   "Location",
+   "Acquaintance"
+  ]
+ },
+ {
+  "n": 33,
+  "q": "Which of the following is not a type of communication ?",
+  "opts": [
+   "Vertical communication",
+   "Horizontal communication",
+   "Crosswise communication",
+   "Verbal communication"
+  ]
+ },
+ {
+  "n": 34,
+  "q": "Noise in communication is to:",
+  "opts": [
+   "Block the media",
+   "Distort the message codes",
+   "Add on the message codes",
+   "Distort the decoding"
+  ]
+ },
+ {
+  "n": 35,
+  "q": "Which of the following is a pre-requisite for effective classroom communication ?",
+  "opts": [
+   "Reflective questioning",
+   "Elaborate explanation",
+   "Drawing attention of students",
+   "Planning the lesson"
+  ]
+ },
+ {
+  "n": 36,
+  "q": "Which of the following is not a feedback loop in classroom communication?",
+  "opts": [
+   "Answering a question",
+   "Taking down the notes",
+   "Creating disturbance",
+   "Cross-questioning the teacher"
+  ]
+ },
+ {
+  "n": 37,
+  "q": "Participation of students representatives in higher education governing bodies is advisable to:",
+  "opts": [
+   "treat students community at par with teacher",
+   "prepare future politicians",
+   "promote democratic citizenship",
+   "provide extra privilege to subside student unrest"
+  ]
+ },
+ {
+  "n": 38,
+  "q": "Researches in the area of environmental education fall under:",
+  "opts": [
+   "Inter-disciplinary research",
+   "Multi-disciplinary research",
+   "Intra-disciplinary research",
+   "Uni-disciplinary research"
+  ]
+ },
+ {
+  "n": 39,
+  "q": "The purpose of distance education in India is to:",
+  "opts": [
+   "provide degrees economically",
+   "generate large number of graduates",
+   "increase the rate of higher education",
+   "reach the unreachables"
+  ]
+ },
+ {
+  "n": 40,
+  "q": "Teaching at higher education is:",
+  "opts": [
+   "not a job, though salaried",
+   "not a time based activity",
+   "not a contractual activity",
+   "not a cost effective activity"
+  ]
+ },
+ {
+  "n": 41,
+  "q": "How can teacher inculcate values among students ?",
+  "opts": [
+   "By imposing discipline",
+   "By behaving ideally",
+   "By telling life histories of great people",
+   "By telling moral stories"
+  ]
+ },
+ {
+  "n": 42,
+  "q": "Educational institutes' accrediting bodies are:",
+  "opts": [
+   "Government bodies to control and regulate Government policies",
+   "Statutory bodies to maintain quality of education",
+   "Bodies to control management indulging in large profits",
+   "Bodies to improve examination system of educational institution"
+  ]
+ },
+ {
+  "n": 43,
+  "q": "Complete the sequence of squares by choosing the correct figure from the given alternatives: [Visual Pattern]",
+  "opts": [
+   "[Figure A]",
+   "[Figure B]",
+   "[Figure C]",
+   "[Figure D]"
+  ]
+ },
+ {
+  "n": 44,
+  "q": "Put the correct letter for '?' in the following diagram: [Diagram with letters C, B, F; D, C, ?; E, D, T]",
+  "opts": [
+   "H",
+   "L",
+   "M",
+   "P"
+  ]
+ },
+ {
+  "n": 45,
+  "q": "Take Universal set U = {A, B, C, ... Z} of all English alphabets. If set A contains the letters from GUJARAT, the members of set B are the alphabets from PUNJAB, the set C contains the alphabets from SIKKIM and the elements of the set D are the alphabets from TAMILNADU, then the Venn diagram for the sets A, B, C, D will be:",
+  "opts": [
+   "[Venn Diagram A]",
+   "[Venn Diagram B]",
+   "[Venn Diagram C]",
+   "[Venn Diagram D]"
+  ]
+ },
+ {
+  "n": 46,
+  "q": "A fighter pilot notices a row of several tanks of enemy. He attacks on the tank T at the middle in the row. He then attacks on one more tank T1 in that row immediately preceding to T. In order to finish the last tank in that row, he has to attack 9th tank counting in order from T1. The total number of tanks in that row is:",
+  "opts": [
+   "13",
+   "11",
+   "17",
+   "15"
+  ]
+ },
+ {
+  "n": 47,
+  "q": "Fill in the cell of '?' by putting the correct letter : [Matrix: G, B, C; H, F, H; A, D, ?]",
+  "opts": [
+   "G",
+   "E",
+   "P",
+   "N"
+  ]
+ },
+ {
+  "n": 48,
+  "q": "Which member of the following set differs from the other members ? (OX, GIRAFFE, CAMEL, DOG, GOAT, ELEPHANT, DEER)",
+  "opts": [
+   "DOG",
+   "DEER",
+   "CAMEL",
+   "OX"
+  ]
+ },
+ {
+  "n": 49,
+  "q": "Put the number in the empty box by choosing the correct digit from the given alternatives: [Matrix: 7, 3, 6; 5, 4, 7; 8, (?), 2]",
+  "opts": [
+   "9",
+   "6",
+   "5",
+   "3"
+  ]
+ },
+ {
+  "n": 50,
+  "q": "If a * b = b / a then which of the following statements is not true? (a and b are real numbers)",
+  "opts": [
+   "a * 0 = 0, a is not equal to 0",
+   "0 * b = 0, b is not equal to 0",
+   "1 * 1 = 1",
+   "a * a = 1, a is not equal to 0"
+  ]
+ },
+ {
+  "n": 51,
+  "q": "For which set of values of p, q, P, Q and for which arithmetic operation, the expression: (p/P) * (q/Q) = -1 ?",
+  "opts": [
+   "p = -1, q = 5, P = Q = -4 and * is '+'",
+   "p = P = 1, q = Q = -1 and * is 'x'",
+   "p = Q = -1, q = P = 1 and * is '-'",
+   "p = q = P = 1, Q = -1 and * is '/'"
+  ]
+ },
+ {
+  "n": 52,
+  "q": "Complete the sequence by putting the appropriate number from the given alternatives: 12, 15, 16, 20, 20, 25, 24, ?",
+  "opts": [
+   "24",
+   "30",
+   "27",
+   "35"
+  ]
+ },
+ {
+  "n": 53,
+  "q": "What is the appropriate missing letter in the following sequence ? A, B, D, H, ?",
+  "opts": [
+   "I",
+   "L",
+   "M",
+   "P"
+  ]
+ },
+ {
+  "n": 54,
+  "q": "If l = sqrt(3), m = 1/7, n = 2 and t = 5/4 then l^2 * m n o t = -11/28 for",
+  "opts": [
+   "*, square and o are all '-'",
+   "* is +, square is +, o is '-'",
+   "* is -, square is -, o is '+'",
+   "*, square and o are all '+'"
+  ]
+ },
+ {
+  "n": 55,
+  "q": "What is the difference between the number of washing machines manufactured by company B in 1997 and 1998?",
+  "opts": [
+   "10,000",
+   "11,000",
+   "20,000",
+   "30,000"
+  ]
+ },
+ {
+  "n": 56,
+  "q": "What is approximate average number of washing machines manufactured by company A over the given period ?",
+  "opts": [
+   "123666",
+   "741999",
+   "431555",
+   "310111"
+  ]
+ },
+ {
+  "n": 57,
+  "q": "In which year the difference between the production of companies A and B was minimum ?",
+  "opts": [
+   "1997",
+   "1998",
+   "2002",
+   "2001"
+  ]
+ },
+ {
+  "n": 58,
+  "q": "Given the table of marks obtained by two candidates P and Q in four papers. Arrange in increasing order the % marks obtained by the candidate P. The sequence of papers is:",
+  "opts": [
+   "I, II, IV, III",
+   "I, III, II, IV",
+   "I, IV, III, II",
+   "II, III, I, IV"
+  ]
+ },
+ {
+  "n": 59,
+  "q": "In which paper(s) the candidate Q obtained the distinction (75% or above) ?",
+  "opts": [
+   "III",
+   "II, III",
+   "II, III, IV",
+   "II"
+  ]
+ },
+ {
+  "n": 60,
+  "q": "Approximate % results of candidates P and Q will respectively, be:",
+  "opts": [
+   "70% and 80%",
+   "70% and 60%",
+   "70% and 50%",
+   "71% and 70%"
+  ]
+ }
+]

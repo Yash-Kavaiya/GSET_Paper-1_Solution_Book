@@ -1,0 +1,503 @@
+[
+ {
+  "n": 1,
+  "q": "Silence is an essential component of",
+  "opts": [
+   "Non-communication",
+   "Gauging reaction of people",
+   "The timing of one's delivery",
+   "Distraction"
+  ],
+  "context": "At first sight silence would seem to be the essence of non communication. Yet we know that in some circumstances silence can speak volumes. It is also a potent tool in the communication tool box, for the speaker, as it adds emphasis to point, allowing time for its full significance to sink in. Handled skillfully, it can build up anticipation for what is to come the pregnant pause. It gives opportunity to make eye contact with audience and gauge their reactions. It is an essential component of the timing of one's delivery. For the listener silence can buy time, either to digest what has been said or to consider a response, or both. Silence will, often lure the speaker into saying more than he or she may have intended."
+ },
+ {
+  "n": 2,
+  "q": "According to the author, the pregnant pause",
+  "opts": [
+   "Breaks up communication",
+   "Helps communication",
+   "Build up anticipation",
+   "Leads to confusion"
+  ]
+ },
+ {
+  "n": 3,
+  "q": "For the listener silence can",
+  "opts": [
+   "Emphasize a point",
+   "Be a potent tool",
+   "Speak volumes",
+   "Buy time"
+  ]
+ },
+ {
+  "n": 4,
+  "q": "Silence seems to be essence of",
+  "opts": [
+   "Communication",
+   "Transmission",
+   "Non-Communication",
+   "Communication tool box"
+  ]
+ },
+ {
+  "n": 5,
+  "q": "What provides an opportunity to make eye contact with the audience ?",
+  "opts": [
+   "Communication",
+   "Discussion",
+   "Silence",
+   "Gesture"
+  ]
+ },
+ {
+  "n": 6,
+  "q": "Which of the following are considered as both input and output devices ?\na. Touch screen\nb. USB memory devices\nc. CD drive\nd. Screen projector",
+  "opts": [
+   "a, c and d",
+   "a, b and c",
+   "a, b and d",
+   "b, c and d"
+  ]
+ },
+ {
+  "n": 7,
+  "q": "Which of the following statements are true ?\na. Cache memory is used to enhance the performance of computer system.\nb. Primary memory is also known as main memory.\nc. Hard disk is an example of secondary memory.\nd. Static Random Access Memory (SRAM) is not a Cache memory.",
+  "opts": [
+   "a and b are true, while c and d are false",
+   "a and c are true, while b and d are false",
+   "b, c and d are true, while a is false",
+   "a, b and c are true, while d is false"
+  ]
+ },
+ {
+  "n": 8,
+  "q": "Which of the following are characteristics of CC-BY SA?\na. Allows to copy and publish\nb. Attribution required\nc. Cannot be used commercially\nd. Cannot be modified and adapted\ne. Cannot change license",
+  "opts": [
+   "a, b and e",
+   "a, b, d and e",
+   "a, c, d and e",
+   "b, d and e"
+  ]
+ },
+ {
+  "n": 9,
+  "q": "In relation to NMEICT mission document, which of the following is not true for opportunities of ICT in education?",
+  "opts": [
+   "Availability of EduSAT",
+   "High power consumption connectivity and computing devices",
+   "The abundance of knowledge on the internet",
+   "Rapidly expanding network of cyber kiosks and cyber cafes"
+  ]
+ },
+ {
+  "n": 10,
+  "q": "Which of the following has been conceived as 'One Stop Education Portal'?",
+  "opts": [
+   "SAMAGRA",
+   "SAMARTH",
+   "SAKSHAT",
+   "DIKSHA"
+  ]
+ },
+ {
+  "n": 11,
+  "q": "Look this series 40, 38, 34, 32, 28, what number should come next?",
+  "opts": [
+   "24",
+   "22",
+   "27",
+   "26"
+  ]
+ },
+ {
+  "n": 12,
+  "q": "Find the next term of given series.\nABD, DGK, HMS, MTB, SBL, _____",
+  "opts": [
+   "ZKU",
+   "ZKW",
+   "XKW",
+   "ZAB"
+  ]
+ },
+ {
+  "n": 13,
+  "q": "Find the next term of given series.\nC4X, F9U, I16R, _____",
+  "opts": [
+   "L25P",
+   "L25O",
+   "L27P",
+   "L29S"
+  ]
+ },
+ {
+  "n": 14,
+  "q": "Which of the following is in descending order ?",
+  "opts": [
+   "5/8, 9/13, 11/17",
+   "5/8, 11/17, 9/13",
+   "9/13, 11/17, 5/8",
+   "11/17, 9/13, 5/8"
+  ]
+ },
+ {
+  "n": 15,
+  "q": "4/7 of 2/3 of 5/6 of 5/8 of 1008 is",
+  "opts": [
+   "200",
+   "144",
+   "64",
+   "400"
+  ]
+ },
+ {
+  "n": 16,
+  "q": "Which of the following pollutants pose the highest risk to human health and environment ?",
+  "opts": [
+   "Particulate matter",
+   "Nitrogen dioxide",
+   "Sulphur dioxide",
+   "Carbon monoxide"
+  ]
+ },
+ {
+  "n": 17,
+  "q": "Which of the following is not a priority area for Education for Sustainable Development' for 2030?",
+  "opts": [
+   "Advancing Policy",
+   "Transforming Learning Environments",
+   "Empowering and mobilizing youth",
+   "Building capacities of administrators"
+  ]
+ },
+ {
+  "n": 18,
+  "q": "Match the following and choose the correct option given below.\n\nMovement:\nI. Chipko Movement\nII. Narmada Bachao Movement\nIII. Green Revolution\nIV. Bishnoi Movement\n\nActivist:\na. M. S. Swaminathan\nb. Medha Paatekar\nc. Amrita Devi\nd. Sunderlal Bahuguna",
+  "opts": [
+   "I-b, II-a, III-d, IV-c",
+   "I-c, II-b, III-a, IV-d",
+   "I-d, II-b, III-a, IV-c",
+   "I-a, II-b, III-c, IV-d"
+  ]
+ },
+ {
+  "n": 19,
+  "q": "\"The Future We Want\" is an outcome document of",
+  "opts": [
+   "Brundtland Commission",
+   "United Nations Conference on Sustainable Development",
+   "World Commission on Environment and Development",
+   "United Nations Environment Programme"
+  ]
+ },
+ {
+  "n": 20,
+  "q": "The Nagoya Protocol on 'Access to Genetic Resources and the fair and equitable sharing of Benefits' is an",
+  "opts": [
+   "International agreement that aims to lessen water pollution",
+   "International agreement which aims at sharing the benefits arising from the utilization of genetic resources in all possible ways",
+   "International agreement which aims at sharing the benefits arising from the utilization of genetic resources in a fair and equitable way",
+   "International agreement which aims to ensure the safe handling, transport and use of living modified organisms (LMOs)"
+  ]
+ },
+ {
+  "n": 21,
+  "q": "Study the chart and answer the question, the Pie chart given here represents the domestic expenditure of a family in percent. If the total monthly income of the family is Rs. 55,660/-. After PF deductions and payment of the house rent, the total monthly income of the family remains\n(Chart data: Child Education 21%, PF [value missing in text but deduced], Food [value missing], House Rent [value missing], Entertainment [value missing], Medical [value missing])",
+  "opts": [
+   "38662",
+   "38862",
+   "38962",
+   "38752"
+  ]
+ },
+ {
+  "n": 22,
+  "q": "Choose the graph that best fits with this statement: \"House prices rose in January and February, fell slightly in March and are now holding steady\".",
+  "opts": [
+   "(Graph A)",
+   "(Graph B)",
+   "(Graph C)",
+   "(Graph D)"
+  ]
+ },
+ {
+  "n": 23,
+  "q": "A researcher uses systematic random sampling from a company directory that has 500 employees listed in alphabetical order. If the desired samples size is 20, and the first name to be selected is number 9, which of the following will not be selected ?",
+  "opts": [
+   "89",
+   "134",
+   "309",
+   "484"
+  ]
+ },
+ {
+  "n": 24,
+  "q": "The bar graph given below shows the Foreign Exchange Reserves of a Country (in millions US$) from 1991-92 to 1998-99. The ratio of the number of years in which the foreign exchange reserves are above the average reserves, to those in which the reserves are below the average reserves is",
+  "opts": [
+   "2:6",
+   "3:4",
+   "3:5",
+   "4:4"
+  ]
+ },
+ {
+  "n": 25,
+  "q": "What is the major purpose of Data Interpretation?",
+  "opts": [
+   "Getting meaning from the data and arriving as a conclusion",
+   "Classification of data",
+   "Analysis of data using suitable statistical tool",
+   "Comparing different classified data"
+  ]
+ },
+ {
+  "n": 26,
+  "q": "The main objective of formative evaluation",
+  "opts": [
+   "To find out the difficulties in learning",
+   "To enhance students' learning",
+   "To promote students to the next class",
+   "To develop cooperation among students"
+  ]
+ },
+ {
+  "n": 27,
+  "q": "Which of the following options is not befitting to online teaching concept ?",
+  "opts": [
+   "Swayamprabha",
+   "Massive Open Online Courses",
+   "Shodh Ganga",
+   "Google meet"
+  ]
+ },
+ {
+  "n": 28,
+  "q": "Which of the following statements about individual differences are true ?\n1. Every child is unique and different from each other.\n2. The same level of intelligence, the achievement level of student may be different.\n3. Heredity and environment both are the reason for individual differences.\n4. Individual differences are related to psychology only.\n5. Individual differences are there but it does not make any difference.",
+  "opts": [
+   "1, 2 and 3",
+   "1, 2 and 4",
+   "2, 3 and 5",
+   "3, 4 and 5"
+  ]
+ },
+ {
+  "n": 29,
+  "q": "One of your student remains quite in the class discussion while he/she is very talkative and playful outside the class, what would you do?\n1. Try to find why he/she remains quite in the class discussion and talk to him/her.\n2. Assign him/her some topic to speak in the class.\n3. You will ask question to the student so he/she has to speak.\n4. Let him/her be quite as it is his/her nature.\n5. Send him/her to playground and let him play where he/she is comfortable.",
+  "opts": [
+   "1, 2 and 3",
+   "2, 3 and 4",
+   "1, 3 and 5",
+   "2, 4 and 5"
+  ]
+ },
+ {
+  "n": 30,
+  "q": "Bright student causes disturbance in showing of his/her knowledge while you are teaching, what would you do ?\n1. Give him/her some work that he can not do so he realise that he/she doesn't know everything.\n2. Give him/her some difficult work in the area of his/her interest.\n3. Give him/her some books to read in the area of his/her interest.\n4. You will connect his/her points in your talk.\n5. Complain against him/her to his/her parents.",
+  "opts": [
+   "1, 2 and 4",
+   "2, 4 and 5",
+   "2, 3 and 5",
+   "2, 3 and 4"
+  ]
+ },
+ {
+  "n": 31,
+  "q": "Deep Ecology has focused upon\na. Ecosophy\nb. Sustainable life style\nc. Richness and diversity of life\nd. Deforestation\ne. Only abiotic ecosystem\nChoose the correct option given below.",
+  "opts": [
+   "Options b, d and e are correct",
+   "Options a, c and b are correct",
+   "Options a, b and e are correct",
+   "Options b, c and e are correct"
+  ]
+ },
+ {
+  "n": 32,
+  "q": "As per the latest report on 'All India Survey on Higher Education (2019-2020)', the Gender Parity Index in India is",
+  "opts": [
+   "1.01",
+   "1.02",
+   "1.11",
+   "1.21"
+  ]
+ },
+ {
+  "n": 33,
+  "q": "Higher Education 4.0 has emphasized more upon",
+  "opts": [
+   "Synchronous learning",
+   "Blended mode of learning",
+   "Face to face learning",
+   "Adult and continuing learning"
+  ]
+ },
+ {
+  "n": 34,
+  "q": "Match the following given in List - I and List II and select the correct option given below.\n\nList - I\n1. National Digital Library\n2. National Academic Depository\n3. e-Yantra\n4. e-Shodh Sindhu\n\nList - II\na. Plenty of international electronic journals and e-books are made available to all HEIs\nb. To incorporate Robotics in Engineering Education\nc. To facilitate digital issuance, storage, access and verification of Academic credentials\nd. To develop a framework of virtual repository of learning resources with a single window search facility",
+  "opts": [
+   "1-d, 2-b, 3-a, 4-c",
+   "1-d, 2-b, 3-a, 4-c",
+   "1-b, 2-d, 3-c, 4-a",
+   "1-d, 2-b, 3-c, 4-a"
+  ]
+ },
+ {
+  "n": 35,
+  "q": "Which of the following core principle has not been mentioned in National Education Policy 2020?",
+  "opts": [
+   "Extensive use of Technology",
+   "Respect for Global Diversity",
+   "Synergy in curriculum",
+   "Creativity and critical thinking"
+  ]
+ },
+ {
+  "n": 36,
+  "q": "Match Section I with Section - II.\nSection I\n1. Haptics\n2. Proxemics\n3. Paralanguage\n4. Kinesics\n\nSection II\na. Use of body movement\nb. Use of space and effects\nc. Communication through touching\nd. Use of pitch and volume of voice",
+  "opts": [
+   "1-a, 2-b, 3-c, 4-d",
+   "1-b, 2-a, 3-d, 4-c",
+   "1-c, 2-d, 3-a, 4-b",
+   "1-c, 2-b, 3-d, 4-a"
+  ]
+ },
+ {
+  "n": 37,
+  "q": "Which of the following are the example of communicative tool?\n1. Teleconferencing\n2. Voice mail\n3. Chat\n4. Multimedia Encyclopedia",
+  "opts": [
+   "1, 3 and 4",
+   "1, 2 and 3",
+   "1, 2 and 4",
+   "2, 3 and 4"
+  ]
+ },
+ {
+  "n": 38,
+  "q": "Which is not a characteristics of Effective Communication?",
+  "opts": [
+   "Completeness",
+   "Cultural heterogeneity",
+   "Concreteness",
+   "Correctness"
+  ]
+ },
+ {
+  "n": 39,
+  "q": "Which of the following is not a component of a communication system ?",
+  "opts": [
+   "Sender",
+   "Message",
+   "Feedback",
+   "Reinforcement"
+  ]
+ },
+ {
+  "n": 40,
+  "q": "What are the causes of semantic barriers in communication ?\n1. Poorly expressed message\n2. Use of technical language\n3. Unnatural assumption\n4. Lack of attention",
+  "opts": [
+   "2, 3, 4",
+   "1, 2, 3",
+   "1, 3, 4",
+   "1, 2, 4"
+  ]
+ },
+ {
+  "n": 41,
+  "q": "Given below are two statements - One is labeled as Assertion (A) and the other is labeled as Reason (R).\nAssertion (A): Government of India has established higher educational bodies to ensure the quality of education.\nReason (R): There are some educational institutions in India which do not provide quality education.\nIn the context of the above two statements, choose the correct option.",
+  "opts": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+   "(A) is true, but (R) is false",
+   "(A) is false, but (R) is true"
+  ]
+ },
+ {
+  "n": 42,
+  "q": "Which of the following statements are true in the context of Vyapti?\n1. It is the relation between middle and major term in the logical ground of inference.\n2. It means a state of pervasion.\n3. Vyapti serves a basis of Nyaya syllogism.",
+  "opts": [
+   "1 and 2",
+   "2 and 3",
+   "1 and 3",
+   "1, 2 and 3"
+  ]
+ },
+ {
+  "n": 43,
+  "q": "Find the next term of given series.\nATTRIBUTION, TTRIBUTIO, RIBUTIO, IBUTI....?",
+  "opts": [
+   "BUT",
+   "UTI",
+   "UT",
+   "IBU"
+  ]
+ },
+ {
+  "n": 44,
+  "q": "In a certain relationship\n$S\\times T$ means S is brother of T\nS-T means S is mother of T\n$S+T$ means S is father of T\nAnswer the following question based on data above.\nIn the pattern $M+N+O$ how is M related to O?",
+  "opts": [
+   "Uncle",
+   "Father",
+   "Cousin",
+   "Grandfather"
+  ]
+ },
+ {
+  "n": 45,
+  "q": "Which of the following diagrams indicates the best relation between Travelers, Train and Bus?",
+  "opts": [
+   "(Diagram A)",
+   "(Diagram B)",
+   "(Diagram C)",
+   "(Diagram D)"
+  ]
+ },
+ {
+  "n": 46,
+  "q": "How an achievement test is different from Entrance test ?",
+  "opts": [
+   "Achievement test needs high content validity whereas Entrance test needs high construct validity.",
+   "Achievement test needs high construct validity whereas Entrance test needs high content validity.",
+   "Achievement test needs high predictive validity whereas Entrance test needs high content validity.",
+   "Achievement test needs high content validity whereas Entrance test needs high predictive validity."
+  ]
+ },
+ {
+  "n": 47,
+  "q": "Sequential use of the three levels of coding - open coding, selective coding and theoretical coding is done in",
+  "opts": [
+   "Phenomenological research",
+   "Ethnographic research",
+   "Grounded theory research",
+   "Case study research"
+  ]
+ },
+ {
+  "n": 48,
+  "q": "In a reaction scale, the scale values are from 0 to 5. Which of the following scales of measurement is applicable for the data collected by this scale ?",
+  "opts": [
+   "Nominal scale",
+   "Ordinal scale",
+   "Interval scale",
+   "Ratio scale"
+  ]
+ },
+ {
+  "n": 49,
+  "q": "Which of the following is a normal group ?",
+  "opts": [
+   "Skewness is zero and it is Platykurtic",
+   "Mean = Median = Mode and it is Leptokurtic",
+   "Mean = Median = Mode and it is Platykurtic",
+   "Skewness is zero and it is Mesokurtic"
+  ]
+ },
+ {
+  "n": 50,
+  "q": "The transformation of human mind from theological metaphysical to a rational and scientific belief led to the emergence of",
+  "opts": [
+   "Holism",
+   "Rationalism",
+   "Critical consciousness",
+   "Positivism"
+  ]
+ }
+]

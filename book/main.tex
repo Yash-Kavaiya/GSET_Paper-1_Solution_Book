@@ -1,0 +1,183 @@
+% GSET Paper I -- Solved Previous Year Papers
+% Print interior for Amazon KDP: 7 x 10 in trim, no bleed, black & white friendly.
+\documentclass[11pt,twoside,openany]{book}
+
+%---------------------------------------------------------------- page
+\usepackage[paperwidth=7in,paperheight=10in,
+  inner=0.85in,outer=0.6in,top=0.8in,bottom=0.75in,
+  headsep=0.22in,footskip=0.35in]{geometry}
+
+%---------------------------------------------------------------- fonts
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{newpxtext,newpxmath}
+\usepackage[scaled=0.92]{helvet}
+\usepackage{microtype}
+\linespread{1.04}
+
+%---------------------------------------------------------------- tools
+\usepackage[table]{xcolor}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{array,tabularx,booktabs,multirow,makecell}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,shapes,calc,patterns,decorations.pathreplacing,matrix}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.17}
+\usepackage{pgf-pie}
+\usepackage[most]{tcolorbox}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{needspace}
+\usepackage{multicol}
+\usepackage{etoolbox}
+\usepackage[hidelinks,bookmarksnumbered]{hyperref}
+\usepackage{bookmark}
+
+%---------------------------------------------------------------- colours
+% Chosen so they still separate clearly when printed in greyscale.
+\definecolor{ink}{HTML}{1B2A41}
+\definecolor{brand}{HTML}{0B4F6C}
+\definecolor{accent}{HTML}{C8553D}
+\definecolor{good}{HTML}{1E7B4F}
+\definecolor{soft}{HTML}{EEF3F7}
+\definecolor{softgood}{HTML}{E8F4EC}
+\definecolor{rule}{HTML}{9FB3C3}
+
+\hypersetup{pdftitle={GSET Paper I: Solved Previous Year Papers (2002--2025)},
+  pdfauthor={Yash Kavaiya},pdfsubject={Gujarat State Eligibility Test, Paper I},
+  pdfkeywords={GSET, Paper I, Teaching Aptitude, Research Aptitude, Solved Papers}}
+
+%---------------------------------------------------------------- headers
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\color{rule}\hrule height\headrulewidth}
+\fancyhead[LE]{\small\sffamily\color{brand}GSET Paper I \textbullet{} Solved Papers}
+\fancyhead[RO]{\small\sffamily\color{brand}\nouppercase{\leftmark}}
+\fancyfoot[LE,RO]{\small\sffamily\bfseries\color{ink}\thepage}
+\fancypagestyle{plain}{\fancyhf{}\renewcommand{\headrulewidth}{0pt}
+  \fancyfoot[LE,RO]{\small\sffamily\bfseries\color{ink}\thepage}}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+
+%---------------------------------------------------------------- headings
+\titleformat{\chapter}[display]
+  {\sffamily\color{ink}}
+  {}{0pt}
+  {\Huge\bfseries\raggedright}
+\titlespacing*{\chapter}{0pt}{-10pt}{14pt}
+\titleformat{\section}{\sffamily\Large\bfseries\color{brand}}{}{0pt}{}
+\titleformat{\subsection}{\sffamily\large\bfseries\color{ink}}{}{0pt}{}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt}
+\setlist{nosep,leftmargin=1.4em}
+
+%---------------------------------------------------------------- paper opener
+% #1 title  #2 exam date  #3 booklet  #4 no. of questions  #5 edition
+\newcommand{\paperchapter}[5]{%
+  \chapter{GSET #1}%
+  \begin{tcolorbox}[enhanced,colback=soft,colframe=brand,boxrule=0.6pt,arc=2pt,
+      left=8pt,right=8pt,top=6pt,bottom=6pt,fontupper=\sffamily\small]
+  \begin{tabularx}{\linewidth}{@{}l X l X@{}}
+  \textbf{Exam} & #5, Paper I & \textbf{Date} & #2\\
+  \textbf{Booklet} & Type #3 & \textbf{Questions} & #4 (2 marks each)
+  \end{tabularx}
+  \end{tcolorbox}\par\smallskip
+  \noindent{\small Answers follow the \emph{final} answer key published by the GSET Agency
+  (The Maharaja Sayajirao University of Baroda) for Booklet #3.}\par\medskip}
+
+% Official key as a compact grid; build.py supplies the rows.
+\newcommand{\keytable}[1]{%
+  \begin{tcolorbox}[enhanced,colback=white,colframe=rule,boxrule=0.5pt,arc=2pt,
+    title={\sffamily\bfseries Official Final Answer Key},coltitle=white,colbacktitle=brand,
+    fonttitle=\small,left=4pt,right=4pt,top=4pt,bottom=4pt,halign=center]
+  {\sffamily\footnotesize\renewcommand{\arraystretch}{1.3}%
+  \begin{tabular}{*{10}{c}}#1\end{tabular}}\par\smallskip
+  {\scriptsize Z / X = question dropped by the agency (not evaluated).}
+  \end{tcolorbox}\bigskip}
+\newcommand{\kcell}[2]{\hyperref[q:\thechapter:#1]{\textbf{#1}\,\textcolor{brand}{\bfseries #2}}}
+
+%---------------------------------------------------------------- questions
+\newcommand{\blank}{\rule{2.2em}{0.4pt}}
+\newenvironment{question}[1]{%
+  \needspace{7\baselineskip}\par\medskip
+  \phantomsection\label{q:\thechapter:#1}%
+  \noindent\begin{tabular}{@{}p{2.1em}@{}}\colorbox{ink}{\makebox[1.5em]{\sffamily\bfseries\small\color{white}#1}}\end{tabular}%
+  \begin{minipage}[t]{\dimexpr\linewidth-2.1em\relax}\raggedright}
+ {\end{minipage}\par\vspace{2pt}{\color{rule}\hrule height 0.3pt}\medskip}
+
+\newcommand{\optlabel}[1]{\textbf{(#1)}~}
+\newcommand{\optsfour}[4]{\par\smallskip
+  \begin{tabularx}{\linewidth}{@{}XXXX@{}}\optlabel{A}#1&\optlabel{B}#2&\optlabel{C}#3&\optlabel{D}#4\end{tabularx}\par}
+\newcommand{\optstwo}[4]{\par\smallskip
+  \begin{tabularx}{\linewidth}{@{}>{\raggedright\arraybackslash}X>{\raggedright\arraybackslash}X@{}}
+  \optlabel{A}#1&\optlabel{B}#2\\[2pt]\optlabel{C}#3&\optlabel{D}#4\end{tabularx}\par}
+\newcommand{\optsone}[4]{\par\smallskip
+  \begin{enumerate}[label=\textbf{(\Alph*)},leftmargin=2.1em,itemsep=2pt]
+  \item #1 \item #2 \item #3 \item #4\end{enumerate}}
+
+\newcommand{\qfigure}[1]{\par\smallskip{\centering #1\par}\smallskip}
+
+\newcommand{\answer}[2]{\par\smallskip
+  \begin{tcolorbox}[enhanced,colback=softgood,colframe=good,boxrule=0pt,leftrule=3pt,arc=0pt,
+    left=6pt,right=6pt,top=3pt,bottom=3pt,breakable]
+  \sffamily\small\textbf{\color{good}Correct Answer: (#1)}\enspace\rmfamily\normalsize #2
+  \end{tcolorbox}}
+\newcommand{\dropped}{\par\smallskip
+  \begin{tcolorbox}[enhanced,colback=soft,colframe=accent,boxrule=0pt,leftrule=3pt,arc=0pt,
+    left=6pt,right=6pt,top=3pt,bottom=3pt]
+  \sffamily\small\textbf{\color{accent}Dropped question}\enspace\rmfamily\normalsize
+  The GSET Agency did not evaluate this question (marked Z/X in the final key).
+  The discussion below gives the most defensible answer.
+  \end{tcolorbox}}
+\newcommand{\keynote}[1]{\par\smallskip{\small\sffamily\color{accent}\textbf{Note on the key:} \rmfamily\color{black}#1}\par}
+
+\newenvironment{explain}
+ {\par\smallskip\noindent{\sffamily\small\bfseries\color{brand}Explanation}\par\nobreak\small}
+ {\par}
+
+\newtcolorbox{context}{enhanced,breakable,colback=white,colframe=brand,boxrule=0.5pt,arc=2pt,
+  left=7pt,right=7pt,top=5pt,bottom=5pt,before skip=10pt,after skip=6pt,fontupper=\small}
+
+\newtcolorbox{tipbox}[1][Tip]{enhanced,breakable,colback=soft,colframe=brand,boxrule=0pt,
+  leftrule=2.5pt,arc=0pt,left=6pt,right=6pt,top=3pt,bottom=3pt,fontupper=\small,
+  title={\sffamily\bfseries\small #1},coltitle=brand,colbacktitle=soft,attach title to upper={\enspace}}
+\newcommand{\tip}[1]{\begin{tipbox}[Remember]#1\end{tipbox}}
+\newcommand{\why}[1]{\par\smallskip\textbf{Why the other options are wrong:} #1}
+
+\providecommand{\checkmark}{\ensuremath{\surd}}
+
+%---------------------------------------------------------------- figure helpers
+% \die{top}{front}{right}: a cube drawn in oblique projection
+\newcommand{\die}[3]{\begin{tikzpicture}[scale=0.8,font=\small,baseline=4mm]
+\draw[thick] (0,0) rectangle (1.2,1.2); \draw[thick] (0,1.2)--(0.5,1.7)--(1.7,1.7)--(1.2,1.2); \draw[thick] (1.7,1.7)--(1.7,0.5)--(1.2,0);
+\node at (0.6,0.6){#2}; \node at (0.85,1.45){#1}; \node at (1.45,0.85){#3};
+\end{tikzpicture}}
+
+% \pyr{top}{mid-left}{mid-right}{bottom-left}{bottom-mid}{bottom-right}: number pyramid of boxes
+\newcommand*{\pyr}[6]{\begin{tikzpicture}[x=7mm,y=6mm,every node/.style={draw,minimum width=7mm,minimum height=6mm,font=\scriptsize,inner sep=0pt}]
+\node at (1,2) {#1}; \node at (0.5,1) {#2}; \node at (1.5,1) {#3}; \node at (0,0) {#4}; \node at (1,0) {#5}; \node at (2,0) {#6};\end{tikzpicture}}
+
+% \petal{tl}{tr}{bl}{br}{centre}: two crossed ellipses with numbers
+\newcommand*{\petal}[5]{\begin{tikzpicture}[scale=0.6,font=\scriptsize]
+\draw[rotate=45] (0,0) ellipse (1.35 and 0.5); \draw[rotate=-45] (0,0) ellipse (1.35 and 0.5);
+\node at (-0.6,0.6) {#1}; \node at (0.6,0.6) {#2}; \node at (-0.6,-0.6) {#3}; \node at (0.6,-0.6) {#4}; \node at (0,0) {\textbf{#5}};
+\end{tikzpicture}}
+
+%================================================================ document
+\begin{document}
+\frontmatter
+\input{front/titlepage}
+\input{front/copyright}
+\input{front/preface}
+\input{front/howto}
+{\hypersetup{linkcolor=ink}\setcounter{tocdepth}{0}\tableofcontents}
+\input{front/about}
+
+\mainmatter
+\input{tex/papers}
+
+\backmatter
+\input{front/back}
+\end{document}

@@ -1,0 +1,502 @@
+[
+ {
+  "n": 1,
+  "q": "Study the table showing students admitted to colleges I-V. How many seats in all disciplines taken together are vacant in colleges II and III ?",
+  "opts": [
+   "278",
+   "322",
+   "612",
+   "None of these"
+  ]
+ },
+ {
+  "n": 2,
+  "q": "What is the approximate difference between the percentage of students admitted to a discipline in respective colleges showing the lowest admission to B.Sc. and the highest admission in B.A. ?",
+  "opts": [
+   "19%",
+   "25%",
+   "34%",
+   "29%"
+  ]
+ },
+ {
+  "n": 3,
+  "q": "Which of the following colleges has the highest number of vacant seats in Commerce and Arts discipline ?",
+  "opts": [
+   "II",
+   "III",
+   "IV",
+   "V"
+  ]
+ },
+ {
+  "n": 4,
+  "q": "What is the difference in the percentage of students admitted in M.B.A. of Colleges II and IV?",
+  "opts": [
+   "10%",
+   "12%",
+   "15%",
+   "20%"
+  ]
+ },
+ {
+  "n": 5,
+  "q": "What is the total percentage of seats vacant in college III against its total capacity?",
+  "opts": [
+   "6.86%",
+   "5.36%",
+   "3.92%",
+   "4.37%"
+  ]
+ },
+ {
+  "n": 6,
+  "q": "In the following figure, the circle stands for medical students, the square stands for hardworking, the triangle stands for rural and rectangle stands for affluents. Non-rural and hardworking medical students who are affluent are indicated by the region:",
+  "opts": [
+   "5",
+   "7",
+   "9",
+   "10"
+  ]
+ },
+ {
+  "n": 7,
+  "q": "Medical students who are neither affluent nor hardworking but are rural are represented by the region :",
+  "opts": [
+   "8",
+   "10",
+   "11",
+   "12"
+  ]
+ },
+ {
+  "n": 8,
+  "q": "Hardworking, non-affluent rural medical students are represented by the region:",
+  "opts": [
+   "6",
+   "7",
+   "9",
+   "12"
+  ]
+ },
+ {
+  "n": 9,
+  "q": "Non-affluent medical students who are not hardworking and who do not belong to rural areas are represented by the region :",
+  "opts": [
+   "5",
+   "6",
+   "8",
+   "11"
+  ]
+ },
+ {
+  "n": 10,
+  "q": "Medical students who are affluent, hardworking and rural are represented through the region:",
+  "opts": [
+   "6",
+   "8",
+   "9",
+   "10"
+  ]
+ },
+ {
+  "n": 11,
+  "q": "Complete the number series given below: 320, 320, 160, 40, ?",
+  "opts": [
+   "4",
+   "0",
+   "5",
+   "10"
+  ]
+ },
+ {
+  "n": 12,
+  "q": "Complete the number series given below: 1, 5, 45, 445, ?",
+  "opts": [
+   "4545",
+   "4445",
+   "5454",
+   "4455"
+  ]
+ },
+ {
+  "n": 13,
+  "q": "Which of the following will come next in the series given below: BHL, DJN, FLP, ?",
+  "opts": [
+   "HNR",
+   "HOS",
+   "IOS",
+   "INR"
+  ]
+ },
+ {
+  "n": 14,
+  "q": "Which of the following will come next in the series given below: KUZ, MOX, OIV, QET, ?",
+  "opts": [
+   "SUR",
+   "SAQ",
+   "RAR",
+   "SAR"
+  ]
+ },
+ {
+  "n": 15,
+  "q": "In the following letter sequence, find the correct alternative for the missing letters: ab.....cba......bcc.....aab......cba......b",
+  "opts": [
+   "bbbba",
+   "cabca",
+   "caacb",
+   "babcb"
+  ]
+ },
+ {
+  "n": 16,
+  "q": "In the following letter sequence, find the correct alternative for the missing letters: ab......abc......cab......bc......b",
+  "opts": [
+   "cabcaa",
+   "baabbc",
+   "caaccc",
+   "cachca"
+  ]
+ },
+ {
+  "n": 17,
+  "q": "A cube is painted red on two opposite faces and green on two adjacent faces. The remaining two faces are left uncoloured. It is cut into 125 equal cubes. How many cubes have green colour on one face only?",
+  "opts": [
+   "16",
+   "19",
+   "24",
+   "40"
+  ]
+ },
+ {
+  "n": 18,
+  "q": "Referring to the cube described in Q17: How many cubes are coloured green on two faces ?",
+  "opts": [
+   "2",
+   "5",
+   "7",
+   "9"
+  ]
+ },
+ {
+  "n": 19,
+  "q": "In the multiplication problem (6bc x 35d = 223766), 'b' stands for:",
+  "opts": [
+   "6",
+   "7",
+   "8",
+   "9"
+  ]
+ },
+ {
+  "n": 20,
+  "q": "In the multiplication problem (6bc x 35d = 223766), 'c' stands for:",
+  "opts": [
+   "7",
+   "6",
+   "5",
+   "4"
+  ]
+ },
+ {
+  "n": 21,
+  "q": "Assume a square cardboard ABCD with an inscribed square JKLM is placed horizontally. Conditions: (I) Not reversed (II) A towards S. 'J' will be in the direction:",
+  "opts": [
+   "N",
+   "W",
+   "SW",
+   "NW"
+  ]
+ },
+ {
+  "n": 22,
+  "q": "Assume a square cardboard ABCD with an inscribed square JKLM is placed horizontally. Conditions: (I) Not reversed (II) L towards NE. 'M' will be in the direction:",
+  "opts": [
+   "SE",
+   "E",
+   "N",
+   "S"
+  ]
+ },
+ {
+  "n": 23,
+  "q": "Six persons I, II, III, IV, V and VI are sitting in a room. Three are females and three are males. I is father of III, III is son of II, III is brother of IV, IV is not son of I, V is nephew of I, VI is niece of II. Who is the daughter of I?",
+  "opts": [
+   "IV",
+   "VI",
+   "III",
+   "None of these"
+  ]
+ },
+ {
+  "n": 24,
+  "q": "If GOLD is coded as EMJB, then NMPR will be decoded as",
+  "opts": [
+   "RIOT",
+   "PORT",
+   "ROTS",
+   "PORK"
+  ]
+ },
+ {
+  "n": 25,
+  "q": "If 6743 is coded as FGDC, then 97285 will be coded as:",
+  "opts": [
+   "IGBHE",
+   "RTYSV",
+   "GVSTU",
+   "IHCIF"
+  ]
+ },
+ {
+  "n": 26,
+  "q": "Waiters I-V are signaled by lights 1-4. I=all four, II=1&2, III=1 only, IV=2,3,4, V=3&4. If lights two and three both are off then the waiter signalled could be :",
+  "opts": [
+   "I",
+   "II",
+   "III",
+   "IV"
+  ]
+ },
+ {
+  "n": 27,
+  "q": "Refer to the light signals in Q26. If lights one and two are not working, lights three and four are illuminated then the signal of which of the waiters given in parenthesis might be signalled. (I, IV, and V)",
+  "opts": [
+   "I only",
+   "V only",
+   "I and IV",
+   "I, IV and V"
+  ]
+ },
+ {
+  "n": 28,
+  "q": "Select from the following groups, the word that does not belong to the group:",
+  "opts": [
+   "Tin",
+   "Steel",
+   "Iron",
+   "Copper"
+  ]
+ },
+ {
+  "n": 29,
+  "q": "Find the odd one out of the following:",
+  "opts": [
+   "Truthful",
+   "Sly",
+   "Virtuous",
+   "Pensive"
+  ]
+ },
+ {
+  "n": 30,
+  "q": "A watch costs Rs. 800. At what price should a shopkeeper mark up, if after allowing a discount of 10 per cent on the marked up price, he makes a profit of 12.5% on the cost price ?",
+  "opts": [
+   "Rs. 950",
+   "Rs. 1,000",
+   "Rs. 1,250",
+   "Rs. 1,500"
+  ]
+ },
+ {
+  "n": 31,
+  "q": "In a college level instruction, the purpose of selective admission is to:",
+  "opts": [
+   "debar those who may create problem to the lecturer",
+   "ensure equality and justice",
+   "screen those who can benefit from higher education",
+   "increase the revenue of the college through admission tests"
+  ]
+ },
+ {
+  "n": 32,
+  "q": "A lecturer is planning his/her lecture for a course. Which of the following may be considered least helpful?",
+  "opts": [
+   "deciding the content to be delivered",
+   "identifying suitable methodology of presentation",
+   "getting information about his/her students' background",
+   "discussing with his/her principal as to what he/she considers to be the functions of a lecturer"
+  ]
+ },
+ {
+  "n": 33,
+  "q": "During classroom teaching interactive sessions should be encouraged because :",
+  "opts": [
+   "teacher's job becomes less challenging during such sessions",
+   "students' involvement is enhanced",
+   "teaching is not everybody's cup of tea",
+   "students should be given some breathing time to learn"
+  ]
+ },
+ {
+  "n": 34,
+  "q": "A college or a university should submit itself for evaluation to the National Assessment and Accreditation Council (NAAC) because :",
+  "opts": [
+   "It is the need of the hour",
+   "It will enable it to know its strength and weaknesses",
+   "It will justify its existence",
+   "It will help in deciding grants for the college/university"
+  ]
+ },
+ {
+  "n": 35,
+  "q": "Which of the following pairs of incentives are likely to strongly motivate the adolescents ?",
+  "opts": [
+   "Teacher and parents' approval",
+   "Certificates and academic honours",
+   "Peer and compeer approval",
+   "Principal and teachers' encouragement"
+  ]
+ },
+ {
+  "n": 36,
+  "q": "The office of a Chief Proctor in a university has justification because :",
+  "opts": [
+   "There are a number of proctors in a university",
+   "The university ordinance requires it to be so",
+   "Students' activities/programmes need regulatory control",
+   "Students are generally unruly and need control"
+  ]
+ },
+ {
+  "n": 37,
+  "q": "Which research focusses on improvement of work situations ?",
+  "opts": [
+   "Fundamental Research",
+   "Applied Research",
+   "Survey Research",
+   "Action Research"
+  ]
+ },
+ {
+  "n": 38,
+  "q": "The need for sampling in research arises because :",
+  "opts": [
+   "It is economical",
+   "It is time-saving",
+   "It improves accuracy of results",
+   "All the above considerations hold"
+  ]
+ },
+ {
+  "n": 39,
+  "q": "A researcher has collected data in form of cross breaks by setting up a 2 x 3 table in terms of frequency counts. Which of the following tests will be most appropriate for arriving at an appropriate analysis ?",
+  "opts": [
+   "Parametric tests",
+   "Non-parametric tests",
+   "Both parametric and non-parametric tests",
+   "Logical tests"
+  ]
+ },
+ {
+  "n": 40,
+  "q": "In reporting research findings the main purpose should be to:",
+  "opts": [
+   "meet the sponsorer's expectations",
+   "help other researchers",
+   "attract public attention",
+   "highlight the factual position"
+  ]
+ },
+ {
+  "n": 41,
+  "q": "Select the word that is the nearest equivalent to the capitalized word: ABDICATE :",
+  "opts": [
+   "Plead",
+   "Censure",
+   "Renounce",
+   "Abolish"
+  ]
+ },
+ {
+  "n": 42,
+  "q": "Select the word that is the nearest equivalent to the capitalized word: SHAM:",
+  "opts": [
+   "Lovable",
+   "Pretence",
+   "Guilty",
+   "Jittery"
+  ]
+ },
+ {
+  "n": 43,
+  "q": "In arriving at knowledge through the method of research, which of the following combinations is most appropriate ?",
+  "opts": [
+   "Authority + Inductive reasoning",
+   "Experience + Deductive reasoning",
+   "Creativity + Deductive reasoning",
+   "Inductive + Deductive reasoning"
+  ]
+ },
+ {
+  "n": 44,
+  "q": "Select the lettered pair wherein the words have the closest relationship to that of the numbered pair: Information : Feedback ::",
+  "opts": [
+   "Gun : Recoil",
+   "Letter : Reply",
+   "Action : Reaction",
+   "Aborigines : Boomerang"
+  ]
+ },
+ {
+  "n": 45,
+  "q": "Select the lettered pair wherein the words have the closest relationship to that of the numbered pair: Activate : Detonate ::",
+  "opts": [
+   "Inform : Deform",
+   "Engage : Disengage",
+   "Quicken : Mutilate",
+   "Deaden : Diffuse"
+  ]
+ },
+ {
+  "n": 46,
+  "q": "Based on the passage 'Competition the world over...', the basic objective of this passage is to project:",
+  "opts": [
+   "Ways of remaining healthy",
+   "Avoidance of anxiety",
+   "Avoidance of competitive spirit",
+   "Causes of mental ill health"
+  ]
+ },
+ {
+  "n": 47,
+  "q": "After going through this passage, two premises come up. I. Anxiety leads to nervous breakdown. II. Stress has evil effects on health. Indicate which is right.",
+  "opts": [
+   "I is right and II is wrong",
+   "I is wrong and II is right",
+   "I and II both are right",
+   "I and II both are wrong"
+  ]
+ },
+ {
+  "n": 48,
+  "q": "The whole passage is structured in the form which may be called:",
+  "opts": [
+   "Narrative",
+   "Explanatory",
+   "Analytical",
+   "Expository"
+  ]
+ },
+ {
+  "n": 49,
+  "q": "The most appropriate title for the passage would be :",
+  "opts": [
+   "Evil effects of competition",
+   "Managing good health",
+   "Overcoming stress",
+   "Managing good living"
+  ]
+ },
+ {
+  "n": 50,
+  "q": "In the passage the words 'Disturbed Mind' can be suitably replaced by the words:",
+  "opts": [
+   "Activated Mind",
+   "Agitated Mind",
+   "Unhealthy Mind",
+   "Anxious Mind"
+  ]
+ }
+]

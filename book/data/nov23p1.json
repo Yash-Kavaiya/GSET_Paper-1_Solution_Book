@@ -1,0 +1,503 @@
+[
+ {
+  "n": 1,
+  "q": "Match X with Y.\nX: 1. Proximics, 2. Kinesics, 3. Haptics\nY: a. Use of touch, b. Use of body language, c. Use of space",
+  "opts": [
+   "1-c, 2-b, 3-a",
+   "1-a, 2-b, 3-c",
+   "1-b, 2-a, 3-c",
+   "1-c, 2-a, 3-b"
+  ]
+ },
+ {
+  "n": 2,
+  "q": "Use of 'space' in communication is called",
+  "opts": [
+   "Proximics",
+   "Chronomics",
+   "Para language",
+   "Haptics"
+  ]
+ },
+ {
+  "n": 3,
+  "q": "The connotative meaning of a word is",
+  "opts": [
+   "Subjective meaning",
+   "Oppositive meaning",
+   "Donotative meaning",
+   "Real meaning"
+  ]
+ },
+ {
+  "n": 4,
+  "q": "In the process of communication, the receiver",
+  "opts": [
+   "Encodes the message",
+   "Decodes the message",
+   "Is a channel",
+   "Has no role"
+  ]
+ },
+ {
+  "n": 5,
+  "q": "'Demophobia' refers to",
+  "opts": [
+   "Fear of death",
+   "Fear of crowd",
+   "Fear of speaking",
+   "Fear of failure"
+  ]
+ },
+ {
+  "n": 6,
+  "q": "Which of the following institutions responsible for quality technical and Management Higher Education in India?",
+  "opts": [
+   "NCERT",
+   "AICTE",
+   "NCTE",
+   "NIEPA"
+  ]
+ },
+ {
+  "n": 7,
+  "q": "'NAAC' assessment cycle is for",
+  "opts": [
+   "3 years",
+   "5 years",
+   "10 years",
+   "7 years"
+  ]
+ },
+ {
+  "n": 8,
+  "q": "The National Education Day in India is celebrated every year on",
+  "opts": [
+   "14th November",
+   "5th September",
+   "11th November",
+   "2nd October"
+  ]
+ },
+ {
+  "n": 9,
+  "q": "What is the full form of ABC, according to NEP (2020) ?",
+  "opts": [
+   "Academic Bank of Credits",
+   "Academic Bank of Certification",
+   "Annual Book of Credits",
+   "Academic Basic Certification"
+  ]
+ },
+ {
+  "n": 10,
+  "q": "According to NIRF overall ranking 2023, which institution ranked one in India?",
+  "opts": [
+   "IISc, Bangalore",
+   "IISER, Pune",
+   "IIT, Madras",
+   "IIM, Ahmedabad"
+  ]
+ },
+ {
+  "n": 11,
+  "q": "Which of the following diagrams correctly represents the relationship among tennis fans, cricket players and students?",
+  "opts": [
+   "(Figure A)",
+   "(Figure B)",
+   "(Figure C)",
+   "(Figure D)"
+  ]
+ },
+ {
+  "n": 12,
+  "q": "'Umpire' is related to 'Match' in the same way as 'Judge' is related to",
+  "opts": [
+   "Court",
+   "Lawyer",
+   "Judgement",
+   "Law suit"
+  ]
+ },
+ {
+  "n": 13,
+  "q": "In question below is given a statement followed by assumptions numbered I and II. Consider the statement and decide which of the given assumption is implicit ?\nStatement: If you want to give any advertisement give it in newspaper \"X\" - A tells to B.\nAssumptions: \nI. 'B' wants to publicise his products.\nII. Newspaper 'X' has a wide circulation.",
+  "opts": [
+   "Only assumption I is implicit",
+   "Only assumption II is implicit",
+   "Either I or II is implicit",
+   "Neither I nor II is implicit"
+  ]
+ },
+ {
+  "n": 14,
+  "q": "P, Q, R, S and U are the family members. P and Q are real brothers. R is a sister of P. S is a father of P. U is a father of S. What is the relation between P and U?",
+  "opts": [
+   "Granddaughter and grandfather",
+   "Grandson and grandfather",
+   "Father and son",
+   "Father and daughter"
+  ]
+ },
+ {
+  "n": 15,
+  "q": "Find the next term of given series.\nA7T, E12Q, I19L, _______",
+  "opts": [
+   "M28E",
+   "M25E",
+   "M24C",
+   "M29E"
+  ]
+ },
+ {
+  "n": 16,
+  "q": "Which of the following are a web browser?\n1. Microsoft edge\n2. Google chrome\n3. Mozilla firefox\n4. Opera\n5. Safari",
+  "opts": [
+   "1, 2, 3 and 4",
+   "1, 2, 4 and 5",
+   "1, 2, 3, 4 and 5",
+   "1, 2, 3 and 5"
+  ]
+ },
+ {
+  "n": 17,
+  "q": "Which of the following are used in video-conferencing ?\n1. Google Meet\n2. Microsoft Team\n3. Cisco WebEx\n4. Skype\n5. Zoom meeting",
+  "opts": [
+   "1, 2, 3 and 5",
+   "1, 2, 4 and 5",
+   "1, 3, 4 and 5",
+   "1, 2, 3, 4 and 5"
+  ]
+ },
+ {
+  "n": 18,
+  "q": "The first page of website is called",
+  "opts": [
+   "Main page",
+   "Home page",
+   "Front page",
+   "Open page"
+  ]
+ },
+ {
+  "n": 19,
+  "q": "Given below are two statements:\nStatement I: SWAYAM stands for study webs of active learning for young aspiring minds.\nStatement II: All MOOCs on the SWAYAM portal are credit-based MOOCs.\nIn light of the above statements, choose the correct answer from the options given below:",
+  "opts": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
+  ]
+ },
+ {
+  "n": 20,
+  "q": "Given below are two statements, one is labeled as Assertion A and the other is labeled as Reason R.\nAssertion (A): 'Router' is considered as both input and output device.\nReason (R): 'Router' can send data and receive data at the same time.\nIn light of the above statements, choose the correct answer from the options given below:",
+  "opts": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ]
+ },
+ {
+  "n": 21,
+  "q": "Teaching at higher education should avoid the approach of",
+  "opts": [
+   "Covering every bit of content step by step in the class",
+   "Guided learning and self learning",
+   "Motivating learner, use of self learning and lectures on difficult content",
+   "Combination of self learning with digital platform based teaching"
+  ]
+ },
+ {
+  "n": 22,
+  "q": "In Discussion method of teaching which type of questions have limited role ?",
+  "opts": [
+   "Higher order questions",
+   "Yes-no type of questions",
+   "Hypothetical issue related questions",
+   "Critical awareness related questions"
+  ]
+ },
+ {
+  "n": 23,
+  "q": "Which of the following set belongs to teaching?",
+  "opts": [
+   "Instruction, scientific inquiry, case study, brainstorming",
+   "Preaching, case study, brainstorming and indoctrination",
+   "Brainstorming, preaching, surmons, instruction",
+   "Tutorial, case study, brainstorming, indoctrination"
+  ]
+ },
+ {
+  "n": 24,
+  "q": "Which of the following set of variables of learner largely influence the learning outcomes?",
+  "opts": [
+   "Motivation, comprehension, gender, cognition",
+   "Study habit, religion, motivation, socio-economic status",
+   "Religion, socio-economic status, vocabulary, cognition",
+   "Cognition, study habit, comprehension, motivation"
+  ]
+ },
+ {
+  "n": 25,
+  "q": "Characteristics of teaching as profession does not ensure",
+  "opts": [
+   "Having a code of conduct",
+   "Freedom to work independently",
+   "Good earning and family life",
+   "Freedom of research and student counselling"
+  ]
+ },
+ {
+  "n": 26,
+  "q": "Which of the following are Sustainable Development Goals (SDGs)?\n1. Clean water and sanitation\n2. Deforestation\n3. Climate action\n4. Quality education\n5. Affordable and clean energy\nChoose the correct answer from the options given below :",
+  "opts": [
+   "1, 3, 4 and 5",
+   "1, 3 and 5",
+   "1, 2, 3 and 5",
+   "1, 3 and 4"
+  ]
+ },
+ {
+  "n": 27,
+  "q": "Match the following and choose the correct option given below:\nG20 Presidency year:\nI. 2022\nII. 2023\nIII. 2024\nIV. 2025\n\nNation:\na. Brazil\nb. India\nc. South Africa\nd. Indonesia",
+  "opts": [
+   "I-d, II-b, III-c, IV-a",
+   "I-d, II-b, III-a, IV-c",
+   "I-a, II-b, III-c, IV-d",
+   "I-b, II-c, III-d, IV-a"
+  ]
+ },
+ {
+  "n": 28,
+  "q": "Recently in February 2023, a large lithium mineral reserve was found in which State ?",
+  "opts": [
+   "Jammu and Kashmir",
+   "Gujarat",
+   "Jharkhand",
+   "Bihar"
+  ]
+ },
+ {
+  "n": 29,
+  "q": "Which of the following cyclone has affected the east coast of India in last few years?\n1. Cyclone Biparjoy\n2. Cyclone Fani\n3. Cyclone Taukte\n4. Cyclone Amphan\nChoose the correct answer from the options given below :",
+  "opts": [
+   "1, 2 and 3",
+   "1 and 3",
+   "2 and 4",
+   "1, 3 and 4"
+  ]
+ },
+ {
+  "n": 30,
+  "q": "Given below are two statements, one is labeled as Assertion (A) and the other is labeled as Reason (R).\nAssertion (A): Air Quality Index (AQI) of City-X is 257, while that of City-Y is 65 in the month of August - 2023.\nReason (R): City-X is more air polluted than City-Y.\nIn light of the above statements, choose the correct answer from the options given below:",
+  "opts": [
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true"
+  ]
+ },
+ {
+  "n": 31,
+  "q": "Scientific method of research involves the process of",
+  "opts": [
+   "Induction",
+   "Deduction",
+   "Indo-deductive method",
+   "Contemplation"
+  ]
+ },
+ {
+  "n": 32,
+  "q": "Snowball sampling method",
+  "opts": [
+   "Is most preferred technique during survey method",
+   "Provides representative sample for experimental study",
+   "Is suitable to identify sample from unknown population",
+   "Use rolling ball machine to get random sample"
+  ]
+ },
+ {
+  "n": 33,
+  "q": "Which of the following is the correct statement of historical research?",
+  "opts": [
+   "It is not a scientific inquiry",
+   "The extrinsic data validation is assumptive",
+   "The findings are subjective to a great extent",
+   "Reveals past with no contribution to future"
+  ]
+ },
+ {
+  "n": 34,
+  "q": "Which of the following is a discrete variable?",
+  "opts": [
+   "Human IQ score",
+   "Human height",
+   "Number of human beings",
+   "Human weight"
+  ]
+ },
+ {
+  "n": 35,
+  "q": "Which of the following statement is true for Swayamprabha ?",
+  "opts": [
+   "They are MOOCs and certified for credit consideration by universities",
+   "They are educational programmes under direct-to-home",
+   "One has to pay to subscribe the programme",
+   "They are focussed to the course content from 1st standard to 12th standard"
+  ]
+ },
+ {
+  "n": 36,
+  "q": "Ravi travelled 4 km straight towards South. He turned left and travelled 6 km straight, then turned right and travelled 4 km straight. How far is he from the starting point ?",
+  "opts": [
+   "8 km",
+   "10 km",
+   "12 km",
+   "15 km"
+  ]
+ },
+ {
+  "n": 37,
+  "q": "The following diagram shows the number of students who got distinction in the subject out of 500 students.\n(Diagram Details: Physics only=42, Chemistry only=47, Math only=50, Phy+Chem=12, Chem+Math=13, Phy+Math=15, All three=11)\nWhat is the percentage of students who got distinction only in two subjects?",
+  "opts": [
+   "6%",
+   "8%",
+   "10%",
+   "12%"
+  ]
+ },
+ {
+  "n": 38,
+  "q": "A car travels 25 km at a speed of 25 kmh, next 25 km at a speed of 50 kmh and the next 25 km at a speed of 75 kmh. What is the average speed of the car?",
+  "opts": [
+   "64 kmh",
+   "50 kmh",
+   "46 kmh",
+   "41 kmh"
+  ]
+ },
+ {
+  "n": 39,
+  "q": "The quarterly sales of a particular mobile in rural and urban areas during year 2022 is as follows:\nArea | Sales in 100 units\nRural: Q1=30, Q2=25, Q3=40, Q4=35\nUrban: Q1=40, Q2=60, Q3=40, Q4=70\nWhat is the percentage of sales during Q3?",
+  "opts": [
+   "20.5%",
+   "25.0%",
+   "23.5%",
+   "30.9%"
+  ]
+ },
+ {
+  "n": 40,
+  "q": "Given the following data:\n22 26 18 15 30\n20 16 22 24 25\n38 36 28 26 25\n40 34 36 20 22\nWhat is the percentage of observation below average ?",
+  "opts": [
+   "40%",
+   "45%",
+   "50%",
+   "60%"
+  ]
+ },
+ {
+  "n": 41,
+  "q": "The ozone levels is low at",
+  "opts": [
+   "Equator",
+   "Poles",
+   "Both equator and poles",
+   "Neither equator nor poles"
+  ],
+  "context": "You have studied that elemental oxygen is found in the atmosphere in the form of a diatomic molecule (O2). However, in the upper part of the atmosphere, oxygen is present in its triatomic form called ozone (O3). Ozone forms a layer at a height of 15-60 km in the stratosphere. The ozone levels are low over or near the equator and high near the poles. Ozone is a highly reactive form of molecular oxygen and is poisonous for us. But we are protected from its harmful effects as it is unstable near the surface of the earth. Further, ozone protects the biosphere from the harmful ultraviolet radiations. It filters out the radiations coming to the earth and maintains the temperature of the earth. Over the last few years, it has been observed that ozone layer is thinning out because of the excessive use of chlorofluorocarbons (CFCs) by human beings. Once considered as miracle compounds, CFCs were being used as propellants in aerosols and as coolants for refrigerators and air conditioners. But now, they are considered harmful compounds as they are stable, do not degrade by any biological process and harm the protective O3 layer by reacting with O3 molecules."
+ },
+ {
+  "n": 42,
+  "q": "Ozone means",
+  "opts": [
+   "A triatomic form of oxygen",
+   "Diatomic molecular",
+   "Elementary oxygen",
+   "Carbon dioxide (CO2)"
+  ]
+ },
+ {
+  "n": 43,
+  "q": "Ozone is a molecular oxygen which is",
+  "opts": [
+   "Neutral",
+   "Inactive",
+   "Non-poisonous",
+   "Highly reactive"
+  ]
+ },
+ {
+  "n": 44,
+  "q": "Ozone protects biosphere from",
+  "opts": [
+   "Clouds and acid rains",
+   "Ultraviolet radiations",
+   "Pollution",
+   "Cyclone"
+  ]
+ },
+ {
+  "n": 45,
+  "q": "The reason for thinning of ozone level",
+  "opts": [
+   "Excess use of O2",
+   "Release of CO2",
+   "Excessive use of chlorofluorocarbons",
+   "Excess release of carbon monoxide"
+  ]
+ },
+ {
+  "n": 46,
+  "q": "A mixture contains sugar solution and colored water in the ratio 4: 3. If 10 litres of colored water is added to the mixture, the ratio becomes 4: 5. What is the initial quantity of sugar solution in the given mixture ?",
+  "opts": [
+   "8 litres",
+   "10 litres",
+   "20 litres",
+   "25 litres"
+  ]
+ },
+ {
+  "n": 47,
+  "q": "Three friends P, Q and R started a business, each investing Rs. 10,000. After 5 months, P withdrews Rs. 3,000, Q withdrews Rs. 2,000 and R invested Rs. 3,000 more. At the end of the year a total profit of Rs. 34,600 was recorded. What is the share of P, Q and R respectively?",
+  "opts": [
+   "10,600, 9,900, 14,100",
+   "9,900, 10,600, 14,100",
+   "14,100, 10,600, 9,900",
+   "10,600, 14,100, 9,900"
+  ]
+ },
+ {
+  "n": 48,
+  "q": "Five ships J, K, L, M and N are to be unloaded on 5 consecutive days beginning from Monday to Friday.\nI. Each ship takes exactly one day to unload.\nII. K must be unloaded on the day preceding the day on which M and N are unloaded.\nIII. L cannot be unloaded on Tuesday.\nIV. M is the second ship to be unloaded after J is unloaded.\nIf M is unloaded on Friday, which one of the following is true?",
+  "opts": [
+   "J is unloaded on Wednesday",
+   "K is unloaded on Tuesday",
+   "L is unloaded on Monday",
+   "N is unloaded on Thursday"
+  ]
+ },
+ {
+  "n": 49,
+  "q": "If + means x, - means +, x means / and / means -, then the value of 6 - 9 + 8 x 3 / 20 is",
+  "opts": [
+   "-2",
+   "6",
+   "10",
+   "12"
+  ]
+ },
+ {
+  "n": 50,
+  "q": "Three positions of the same dice are given below. Which number will come in place of x ?\n(Position 1: Top=1, Front=3, Right=4)\n(Position 2: Top=3, Front=4, Right=x)\n(Position 3: Top=6, Front=5, Right=2)",
+  "opts": [
+   "1",
+   "3",
+   "5",
+   "6"
+  ]
+ }
+]

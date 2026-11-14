@@ -1,0 +1,502 @@
+[
+ {
+  "n": 1,
+  "q": "If TEAM is coded as VGCO, then LIFE will be coded as:",
+  "opts": [
+   "NJGE",
+   "NKHF",
+   "NKHG",
+   "NLIH"
+  ]
+ },
+ {
+  "n": 2,
+  "q": "Which of the alternatives will fit in ?",
+  "opts": [
+   "",
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "n": 3,
+  "q": "How many 7's are there in the following number series which are not followed by 3 but are preceded by 8? 898762263269732872778737794",
+  "opts": [
+   "10",
+   "2",
+   "3",
+   "0"
+  ]
+ },
+ {
+  "n": 4,
+  "q": "Nitin is counting the numbers in descending order from 32. Shashank is counting the numbers in ascending order from 1 and he pronounces only the odd numbers. If they are counting with the same speed which same number will they pronounce together?",
+  "opts": [
+   "21",
+   "22",
+   "19",
+   "None of the above"
+  ]
+ },
+ {
+  "n": 5,
+  "q": "In the following, English letters are used for various symbols: 'B' for addition, 'G' for subtraction, 'E' for multiplication, 'C' for division, 'D' for equal, 'A' for > and 'F' for <. Which of the following is correct?",
+  "opts": [
+   "18C3D6B8C4G12",
+   "18A13B16E8G4E12",
+   "18C3G6B8B4D12",
+   "18A3E6B8G4B12"
+  ]
+ },
+ {
+  "n": 6,
+  "q": "Numbers are placed in the following figure on the basis of some rules. One place is vacant which is indicated as (?). Find the correct alternative for vacant place ? [Figure Data: Triangle with 1, 0, 2; Triangle with 3, 4, 6; Triangle with 3, ?, 8; Bottom row numbers: 25, 20, 5, 35, 45]",
+  "opts": [
+   "2",
+   "3",
+   "7",
+   "9"
+  ]
+ },
+ {
+  "n": 7,
+  "q": "In a survey of 60 people, it was found that 25 read Newsweek magazine; 26 read Time; 26 read Fortune; 9 read both Newsweek and Fortune; 11 read both Newsweek and Time; 8 read both Time and Fortune and 3 read all magazines. Then number of people who read only Newsweek; Time and Fortune respectively are",
+  "opts": [
+   "7, 10 and 12",
+   "8, 11 and 12",
+   "8, 10 and 12",
+   "8, 10 and 13"
+  ]
+ },
+ {
+  "n": 8,
+  "q": "Which of the following best represents the relationship among tennis fans, cricket players and students?",
+  "opts": [
+   "",
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "n": 9,
+  "q": "When a parachutist jumps off a plane and the parachute opens, the total force on the man is:",
+  "opts": [
+   "greater than his weight",
+   "less than his weight",
+   "equal to his weight",
+   "zero"
+  ]
+ },
+ {
+  "n": 10,
+  "q": "Consider the sequence : 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ... The next four members of sequence are:",
+  "opts": [
+   "55, 89, 144 and 233",
+   "45, 79, 134 and 223",
+   "65, 99, 154 and 243",
+   "54, 89, 144 and 232"
+  ]
+ },
+ {
+  "n": 11,
+  "q": "Read the following graph (Number of students in Class I vs Academic Year) and decide which of the following statement is false :",
+  "opts": [
+   "Number of students in each academic year is divisible by 25",
+   "Number of students in 1999-2000 is more than twice the number in 1995-96",
+   "Number of students in 1995-96: Number of students in 1996-97 is equal to Number of students in 1996-97: No. of students in 1997-98",
+   "The total growth in number of students is not less than 200"
+  ]
+ },
+ {
+  "n": 12,
+  "q": "Following the constant growth described in the previous diagram, which year first time there will be more than 1111 students in Class I ?",
+  "opts": [
+   "2010",
+   "2013",
+   "2016",
+   "2020"
+  ]
+ },
+ {
+  "n": 13,
+  "q": "A tyre manufacturing company kept a record of the distance covered before a tyre to be replaced. The following table shows the results of 1000 cases: [Distance in km: Less than 400 (210), 400-900 (325), 900-1400 (385), More than 1400 (80)]. If you buy a tyre of this company, what is the probability that it will need to be replaced before it has covered 400 km?",
+  "opts": [
+   "0.4",
+   "0.3",
+   "0.21",
+   "0.14"
+  ]
+ },
+ {
+  "n": 14,
+  "q": "As a researcher you find that, the correlation between intensity of punishment and students' achievement is -.86. This means that:",
+  "opts": [
+   "higher the intensity of punishment greater would be the achievement",
+   "intensity of punishment has no relation with achievement",
+   "increase in the intensity of punishment will decrease achievement of students",
+   "increase in the intensity of punishment may or may not decrease the achievement of students"
+  ]
+ },
+ {
+  "n": 15,
+  "q": "In an experimental study you want to study the effectiveness of method of teaching A and B. Each group has 50 randomly selected students. Appropriate technique of data analysis will be :",
+  "opts": [
+   "chi-square test",
+   "t-test",
+   "F-test",
+   "multiple regression"
+  ]
+ },
+ {
+  "n": 16,
+  "q": "Which of the following is used to connect two LAN using same LAN protocols over a wide area ?",
+  "opts": [
+   "Router",
+   "Bridges",
+   "Gateways",
+   "None of the above"
+  ]
+ },
+ {
+  "n": 17,
+  "q": "Which of the following are switching techniques ?",
+  "opts": [
+   "Circuit switching",
+   "Message switching",
+   "Packet switching",
+   "Each of the above three techniques"
+  ]
+ },
+ {
+  "n": 18,
+  "q": "Protocol is used to communicate between:",
+  "opts": [
+   "similar module",
+   "dissimilar module",
+   "both (A) and (B)",
+   "none of the above"
+  ]
+ },
+ {
+  "n": 19,
+  "q": "Data transfer rate for LAN is normally:",
+  "opts": [
+   "1-100 Mbps",
+   "1-2 Mbps",
+   "1-10 Mbps",
+   "None of the above"
+  ]
+ },
+ {
+  "n": 20,
+  "q": "Which of the following are WAN devices ?",
+  "opts": [
+   "Bridges",
+   "Routers",
+   "Gateways",
+   "Each of the above three devices"
+  ]
+ },
+ {
+  "n": 21,
+  "q": "Mushrooms form a promising source of:",
+  "opts": [
+   "carbohydrate",
+   "protein",
+   "minerals",
+   "carbohydrate plus lipid"
+  ]
+ },
+ {
+  "n": 22,
+  "q": "Nuclear energy can be obtained from:",
+  "opts": [
+   "fission of radioactive material",
+   "synthetic reactions of radioactive material",
+   "fusion of radioactive material",
+   "both fission and fusion of radioactive material"
+  ]
+ },
+ {
+  "n": 23,
+  "q": "Petroplants are the sources of:",
+  "opts": [
+   "liquid hydrocarbon",
+   "liquid nitrogen",
+   "liquid fuels",
+   "alcohols"
+  ]
+ },
+ {
+  "n": 24,
+  "q": "Occupational diseases result from:",
+  "opts": [
+   "malnutrition",
+   "overworking",
+   "toxic chemical residues",
+   "unadequate basic amenities"
+  ]
+ },
+ {
+  "n": 25,
+  "q": "Which one among the following is a non-commercial sources of energy ?",
+  "opts": [
+   "Coal",
+   "Oil",
+   "Agricultural waste",
+   "Electricity"
+  ]
+ },
+ {
+  "n": 26,
+  "q": "The research in education has not given due importance to:",
+  "opts": [
+   "adolescent student's problems",
+   "adolescent learning styles",
+   "adult student's learning styles",
+   "children's learning styles"
+  ]
+ },
+ {
+  "n": 27,
+  "q": "Linking Career Advancement Scheme with research publications:",
+  "opts": [
+   "enhances quality of research due to increase in quantity",
+   "deteriorates quality of research due to increase in quantity",
+   "enhances quality of research as fund of knowledge is greater",
+   "does not influence quality of research"
+  ]
+ },
+ {
+  "n": 28,
+  "q": "Which of the following IGNOU does not prescribe ?",
+  "opts": [
+   "Flexibility to eligibility for enrolment",
+   "Relaxation of age of entry",
+   "Flexibility to methods of evaluation",
+   "Strict combination of courses of study"
+  ]
+ },
+ {
+  "n": 29,
+  "q": "Spiritual value never cherishes:",
+  "opts": [
+   "non-violence",
+   "respect for all religions",
+   "untouchability",
+   "truth"
+  ]
+ },
+ {
+  "n": 30,
+  "q": "The POA of NPE, 1992 does not envisage:",
+  "opts": [
+   "making education a mass movement",
+   "special emphasis on education of girls",
+   "making English as compulsory language for all",
+   "establishment of pace-setting institutions"
+  ]
+ },
+ {
+  "n": 31,
+  "q": "Which is not the aim of education ?",
+  "opts": [
+   "Completing the syllabus in stipulated time",
+   "Inculcating cognitive competence through subject teaching",
+   "Developing citizenship in the students",
+   "Equipping students with life skills"
+  ]
+ },
+ {
+  "n": 32,
+  "q": "What will you do to update your competence of teaching?",
+  "opts": [
+   "Read books on methods of teaching",
+   "Visit different websites on teaching techniques",
+   "Experimenting with a variety of classroom activities",
+   "Seek guidance from senior teachers"
+  ]
+ },
+ {
+  "n": 33,
+  "q": "If a learner can use an abstraction-a rule, a principle or an idea in particular and concrete situations, then he has reached the level of educational objective:",
+  "opts": [
+   "comprehension",
+   "analysis",
+   "synthesis",
+   "application"
+  ]
+ },
+ {
+  "n": 34,
+  "q": "How is the working model valued ?",
+  "opts": [
+   "By recognition of external features",
+   "By seeing the internal structure",
+   "By seeing both external and internal structures",
+   "By following actions and processes as they develop"
+  ]
+ },
+ {
+  "n": 35,
+  "q": "Adolescents' problems may be handled by those teachers who have skills of:",
+  "opts": [
+   "Managers",
+   "Counsellors",
+   "Psychiatrists",
+   "Therapists"
+  ]
+ },
+ {
+  "n": 36,
+  "q": "In research operational definition of a variable means:",
+  "opts": [
+   "considering different definitions and giving one's own as taken in the present study",
+   "stipulating tasks by which variables can be observed and measured",
+   "explaining operationality to make concept clear",
+   "stipulating concept in all its constituents"
+  ]
+ },
+ {
+  "n": 37,
+  "q": "In an experimental research, it is essential that researcher :",
+  "opts": [
+   "directly controls and manipulates variables",
+   "must take things as they are in an experiment",
+   "must manipulate the variable but need not control",
+   "must control the variable but need not manipulate"
+  ]
+ },
+ {
+  "n": 38,
+  "q": "The research aims at understanding reality, discovering new knowledge and inventions for development in the society and research ethics certainly can restrain researchers. Considering all aspects it is amicably decided that researchers :",
+  "opts": [
+   "will have complete freedom for research",
+   "will not conduct studies involving risks to human beings",
+   "will follow some code of research ethics",
+   "will decide research ethics themselves"
+  ]
+ },
+ {
+  "n": 39,
+  "q": "The law of probability is applied in:",
+  "opts": [
+   "purposive sampling",
+   "random sampling",
+   "quota sampling",
+   "convenient sampling"
+  ]
+ },
+ {
+  "n": 40,
+  "q": "If a researcher wants to study the performance of university teachers by students which tool will be most appropriate ?",
+  "opts": [
+   "Questionnaire",
+   "Interview",
+   "Rating scale",
+   "Observation schedule"
+  ]
+ },
+ {
+  "n": 41,
+  "q": "What is the central idea of this paragraph ?",
+  "opts": [
+   "Decision-making is a mathematical activity",
+   "Decision-making is a complex intellectual activity",
+   "Decision-making is almost impossible",
+   "Decision-making is also emotional and social in nature"
+  ]
+ },
+ {
+  "n": 42,
+  "q": "What is the major source of puzzlement in decision-making ?",
+  "opts": [
+   "An exact prediction of the results of the decision",
+   "Socio-political context",
+   "Ignorance of Mathematics",
+   "Lack of adequate practice"
+  ]
+ },
+ {
+  "n": 43,
+  "q": "Which step is not inevitable in the process of decision-making ?",
+  "opts": [
+   "Recognizing the factors affecting the process",
+   "Thinking of the end product one would wish to achieve",
+   "Using quantitative measures",
+   "Forecasting outcomes in advance"
+  ]
+ },
+ {
+  "n": 44,
+  "q": "Decision-making is an art, because:",
+  "opts": [
+   "it involves a lot of variables",
+   "it depends upon a person's multiple abilities",
+   "it entails some personal perspectives",
+   "it does not ensure the best outcome"
+  ]
+ },
+ {
+  "n": 45,
+  "q": "\"Various ethical concerns such as fairness may well need consideration\" means:",
+  "opts": [
+   "a decision is value-free",
+   "it is fair to think about needs of people affected by the decision",
+   "your decision must do justice to all",
+   "morality is a criterion of a good decision"
+  ]
+ },
+ {
+  "n": 46,
+  "q": "A student is speaking fast with irregular rhythm and long breaks in between. This indicates :",
+  "opts": [
+   "excitement",
+   "sense of purpose",
+   "nervousness",
+   "frustration"
+  ]
+ },
+ {
+  "n": 47,
+  "q": "What does 'You' attitude imply in spoken or written communication ?",
+  "opts": [
+   "Think and express from the sender's point of view",
+   "Think and express from the receiver's point of view",
+   "Give maximum opportunity to the listener for expression",
+   "Never forget who you are"
+  ]
+ },
+ {
+  "n": 48,
+  "q": "A speech that is outlined, practised and delivered in a conversation style is:",
+  "opts": [
+   "hat speech",
+   "indirect speech",
+   "extemporaneous",
+   "manuscripted"
+  ]
+ },
+ {
+  "n": 49,
+  "q": "To communicate effectively with college level students, the teacher requires:",
+  "opts": [
+   "to keep appropriate distance with the students",
+   "to have mastery over the subject",
+   "to know his students well",
+   "to look directly into the eyes of the students"
+  ]
+ },
+ {
+  "n": 50,
+  "q": "Which factor leads to the most successful communication ?",
+  "opts": [
+   "Speaker's knowledge about the process of communication",
+   "Empathy with the receiver",
+   "Use of multiple channels",
+   "Admiration from the receiver"
+  ]
+ }
+]

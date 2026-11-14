@@ -1,0 +1,502 @@
+[
+ {
+  "n": 1,
+  "q": "Name the philosopher who proposed the technique of questioning:",
+  "opts": [
+   "John Dewey",
+   "Socrates",
+   "Comte",
+   "Froebel"
+  ]
+ },
+ {
+  "n": 2,
+  "q": "Which of the following skills does not require high intellectual ability?",
+  "opts": [
+   "Technical skills",
+   "Mechanical skills",
+   "Teaching skills",
+   "Management skills"
+  ]
+ },
+ {
+  "n": 3,
+  "q": "Primary education in the mother tongue has been safeguarded in Article :",
+  "opts": [
+   "29",
+   "350",
+   "220",
+   "351"
+  ]
+ },
+ {
+  "n": 4,
+  "q": "What is the full form of CAI ?",
+  "opts": [
+   "Computer Associated Instruction",
+   "Computer Associated Information",
+   "Computer Assisted Instruction",
+   "Computer Assisted Information"
+  ]
+ },
+ {
+  "n": 5,
+  "q": "For maintaining discipline in the class:",
+  "opts": [
+   "Students should be severely punished for acts of indiscipline",
+   "Teacher should try to make his teaching interesting",
+   "Non-attending students should be turned out of the class",
+   "Parents of the indisciplined students should be informed"
+  ]
+ },
+ {
+  "n": 6,
+  "q": "If the sample drawn does not specify any condition about the parameter of the population, it is called :",
+  "opts": [
+   "Selected statistics",
+   "Distribution free statistics",
+   "Parametric statistics",
+   "Inferential statistics"
+  ]
+ },
+ {
+  "n": 7,
+  "q": "Validity of an experimental design refers to:",
+  "opts": [
+   "Maximise treatment variance and minimise error variance",
+   "Minimise both treatment variance and error variance",
+   "Testing the difference between treatment variance and error variance",
+   "Minimise treatment variance and maximise error variance"
+  ]
+ },
+ {
+  "n": 8,
+  "q": "Which one of the following is not considered as plagiarism?",
+  "opts": [
+   "Make use of the work of another and misrepresent it as your own",
+   "Drawing content from the work of another without acknowledging the source",
+   "Paraphrasing too closely to the original text",
+   "Drawing content from another work and adapting it with due acknowledgement"
+  ]
+ },
+ {
+  "n": 9,
+  "q": "Bibliography refers to:",
+  "opts": [
+   "A true story written about someone",
+   "A record of events presented in a report",
+   "A list of sources used in a report and where they can be found",
+   "List of abbreviations used in the report"
+  ]
+ },
+ {
+  "n": 10,
+  "q": "Snowball sampling technique falls under the category of:",
+  "opts": [
+   "Probability sampling",
+   "Non-probability sampling",
+   "Random sampling",
+   "Quota sampling"
+  ]
+ },
+ {
+  "n": 11,
+  "q": "The fourth conference of Labour Ministers was not held at New Delhi:",
+  "opts": [
+   "The inference is probably true",
+   "The inference is probably false",
+   "The inference is definitely false",
+   "The data are inadequate"
+  ]
+ },
+ {
+  "n": 12,
+  "q": ".......... organization took an active part in a conference of Labour Ministers for the first time.",
+  "opts": [
+   "International Monetary Fund",
+   "International Labour Organization",
+   "World Health Organization",
+   "UNICEF"
+  ]
+ },
+ {
+  "n": 13,
+  "q": "Linking Labour standards to International trade would benefit the .......... countries.",
+  "opts": [
+   "Advanced",
+   "Developing",
+   "Developed",
+   "Industrial"
+  ]
+ },
+ {
+  "n": 14,
+  "q": "Among the following topics which of them is not discussed at the Copenhagen Conference ?",
+  "opts": [
+   "Employment",
+   "Poverty",
+   "Technology",
+   "Social Integration"
+  ]
+ },
+ {
+  "n": 15,
+  "q": "Which of the following is the reason for organizing the fifth conference of Labour Ministers ?",
+  "opts": [
+   "Compulsion by ILO",
+   "To satisfy the government",
+   "To run-up to the world summit",
+   "Causal meeting of Ministers"
+  ]
+ },
+ {
+  "n": 16,
+  "q": "Message is any signal that triggers the response of a",
+  "opts": [
+   "Receiver",
+   "Sender",
+   "Channel",
+   "Feedback"
+  ]
+ },
+ {
+  "n": 17,
+  "q": "Our dress code is an example of .......... communication.",
+  "opts": [
+   "Verbal",
+   "Non-verbal",
+   "Written",
+   "Spoken"
+  ]
+ },
+ {
+  "n": 18,
+  "q": ".......... is the process by which the receiver interprets the symbols used by the source of the message.",
+  "opts": [
+   "Listing",
+   "Listening",
+   "Decoding",
+   "Encoding"
+  ]
+ },
+ {
+  "n": 19,
+  "q": "Identify the correct sequence in the communication process:",
+  "opts": [
+   "Sender - Channel - Message - Receiver",
+   "Sender - Receiver - Message - Channel",
+   "Sender - Receiver - Channel - Message",
+   "Sender - Message - Channel - Receiver"
+  ]
+ },
+ {
+  "n": 20,
+  "q": "The study of body language is called",
+  "opts": [
+   "Proxemics",
+   "Kinesics",
+   "Phonetics",
+   "Chronemics"
+  ]
+ },
+ {
+  "n": 21,
+  "q": "Find out missing number in the following: [Matrix with numbers 5,3,2,7,6,7; 63,41,? ; 6,8,3,5,6,8,3,9,8,5]",
+  "opts": [
+   "26",
+   "82",
+   "83",
+   "86"
+  ]
+ },
+ {
+  "n": 22,
+  "q": "If P means x, R means +, T means ÷ and S means -, then 18T3P9S8R6 = ?",
+  "opts": [
+   "52",
+   "2/3",
+   "46",
+   "58"
+  ]
+ },
+ {
+  "n": 23,
+  "q": "Young is related to Old, in the same way Wide is related to",
+  "opts": [
+   "Short",
+   "Big",
+   "Narrow",
+   "Long"
+  ]
+ },
+ {
+  "n": 24,
+  "q": "If SUMMER is coded as RUNNER, the code for WINTER will be:",
+  "opts": [
+   "SUITER",
+   "VIOUER",
+   "WALKER",
+   "SUFFER"
+  ]
+ },
+ {
+  "n": 25,
+  "q": "Find out the missing term in the following series : 0 7 26 63 124 ...",
+  "opts": [
+   "215",
+   "216",
+   "248",
+   "157"
+  ]
+ },
+ {
+  "n": 26,
+  "q": "In the following question choose the group of words that shows the same relationship as given at the top of the question : Play : Win : Lose",
+  "opts": [
+   "Accident : Death : Survive",
+   "Examination : Success : Determination",
+   "Read : Book : Magazine",
+   "Music : Dance : Art"
+  ]
+ },
+ {
+  "n": 27,
+  "q": "What is the missing number in the following sequence of numbers ? 84/14,12 81/18,9 88/?,11",
+  "opts": [
+   "13",
+   "14",
+   "15",
+   "16"
+  ]
+ },
+ {
+  "n": 28,
+  "q": "In a group of persons travelling in a bus, 6 persons can speak Malayalam, 15 can speak Hindi and 6 can speak Gujarati. In that group, none can speak any other language. If 2 persons in the group can speak two languages and one person can speak all the three languages, then how many persons are there in the group?",
+  "opts": [
+   "21",
+   "22",
+   "23",
+   "24"
+  ]
+ },
+ {
+  "n": 29,
+  "q": "In this question, two statements followed by four conclusions are given... Statements: (1) Some doors are mangoes. (2) All mangoes are bananas. Conclusions : (I) All bananas are mangoes. (II) All doors are bananas. (III) Some doors are bananas. (IV) Some mangoes are doors. Which of the given conclusions logically follows...?",
+  "opts": [
+   "Only I and II follows",
+   "Only II and III follows",
+   "Only III and IV follows",
+   "Only II and IV follows"
+  ]
+ },
+ {
+  "n": 30,
+  "q": "The pie-diagram below shows various expenditures incurred in publishing a book: Royalty cost (15%), Printing cost (20%), Transportation cost (10%), Promotion cost (10%), Paper cost (25%), Binding cost (30% in Gujarati text; English text seems to imply remainder to complete pie chart, or check sum). If for an edition of the book, the cost of paper is Rs. 20,000, then what is the promotion cost for this edition ?",
+  "opts": [
+   "Rs. 5,000",
+   "Rs. 6,000",
+   "Rs. 7,000",
+   "Rs. 8,000"
+  ]
+ },
+ {
+  "n": 31,
+  "q": "If 2nCn-1 : (2n-1)Cn = 5 : 3, then what is the value of n?",
+  "opts": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ]
+ },
+ {
+  "n": 32,
+  "q": "The average of a set of 7 observations is 36 and that of another set of 13 observations is 46. What is the combined average of the set ?",
+  "opts": [
+   "40.5",
+   "41.5",
+   "42.5",
+   "43.5"
+  ]
+ },
+ {
+  "n": 33,
+  "q": "The following circuit operates only if there is a path of functional devices from left to right. The proportion that each device function is shown on the graph. Assume that devices fail independently. What is the proportion that the circuit operates ? [Diagram showing probabilities]",
+  "opts": [
+   "0.9725",
+   "0.9879",
+   "0.9915",
+   "0.9998"
+  ]
+ },
+ {
+  "n": 34,
+  "q": "The value of (6^(2/3) * cbrt(6^7)) / cbrt(6^6) is:",
+  "opts": [
+   "3",
+   "6",
+   "9",
+   "12"
+  ]
+ },
+ {
+  "n": 35,
+  "q": "A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue ?",
+  "opts": [
+   "2/7",
+   "11/21",
+   "10/21",
+   "5/7"
+  ]
+ },
+ {
+  "n": 36,
+  "q": "CD-ROM stands for:",
+  "opts": [
+   "Compactable Read Only Memory",
+   "Compactable Data Read Only Memory",
+   "Compact Disk Read Only Memory",
+   "Common Disk Read Only Memory"
+  ]
+ },
+ {
+  "n": 37,
+  "q": "WAN stands for:",
+  "opts": [
+   "Wide Area Network",
+   "Wireless Access Network",
+   "Wireless Area Network",
+   "Wide Access Network"
+  ]
+ },
+ {
+  "n": 38,
+  "q": "A computer cannot 'boot', if it does not have the :",
+  "opts": [
+   "Compiler",
+   "Loader",
+   "Operating System",
+   "Keypad"
+  ]
+ },
+ {
+  "n": 39,
+  "q": "Human beings are referred to as Homo sapiens. Which device is called Sillico sapiens ?",
+  "opts": [
+   "Computer",
+   "Hardware",
+   "Robot",
+   "Drone"
+  ]
+ },
+ {
+  "n": 40,
+  "q": "1 GB is equal to",
+  "opts": [
+   "1250 megabytes",
+   "1296 megabytes",
+   "1150 megabytes",
+   "1024 megabytes"
+  ]
+ },
+ {
+  "n": 41,
+  "q": "Which is India's first bullet train project?",
+  "opts": [
+   "Mumbai-Ahmedabad",
+   "Delhi-Chandigarh",
+   "Delhi-Jaipur",
+   "Chennai-Kolkata"
+  ]
+ },
+ {
+  "n": 42,
+  "q": "Supreme Court of India has ordered the transition of vehicles to which BS level?",
+  "opts": [
+   "BS-V",
+   "BS-III",
+   "BS-VI",
+   "BS-IV"
+  ]
+ },
+ {
+  "n": 43,
+  "q": "Scientists have developed a new battery material based in .......... with charging speed 5 times faster than lithium-ion batteries.",
+  "opts": [
+   "Graphene",
+   "Carbon",
+   "Nitrate",
+   "Chromium"
+  ]
+ },
+ {
+  "n": 44,
+  "q": "Which is regarded as one of the world's hottest hotspots of biological diversity ?",
+  "opts": [
+   "Rann of Kutch",
+   "Western Ghats",
+   "Eastern Ghats",
+   "Thar Deserts"
+  ]
+ },
+ {
+  "n": 45,
+  "q": "Which Indian astrophysicist and Nobel laureate predicted rapidly rotating stars emitting polarised light ?",
+  "opts": [
+   "S. Chandrasekhar",
+   "C.V. Raman",
+   "S. Ramanujam",
+   "Venkat Raman Ramakrishnan"
+  ]
+ },
+ {
+  "n": 46,
+  "q": "What is the full form of NIRF a methodology to rank higher education institutions in India?",
+  "opts": [
+   "National Institute of Research Framework",
+   "National and International Ranking Framework",
+   "National Institutional Ranking Framework",
+   "National Inventory of Research Funding"
+  ]
+ },
+ {
+  "n": 47,
+  "q": "'SWAYAM' is a portal initiated by:",
+  "opts": [
+   "NITI Aayog",
+   "MHRD",
+   "Ministry of I&B",
+   "Ministry of Railways"
+  ]
+ },
+ {
+  "n": 48,
+  "q": "'AICTE' is responsible for the planning, coordination and management of:",
+  "opts": [
+   "Teacher Education",
+   "Distance Education",
+   "Technical and Management Education",
+   "School Education"
+  ]
+ },
+ {
+  "n": 49,
+  "q": "In who's name the National Mission on Teachers and Teaching has been launched in India?",
+  "opts": [
+   "Pt. Dindayal Upadhyaya",
+   "Pt. Jawaharlal Nehru",
+   "Pt. Madan Mohan Malaviya",
+   "Pt. Ravishankar"
+  ]
+ },
+ {
+  "n": 50,
+  "q": "In which state the first children's university was established in India?",
+  "opts": [
+   "Maharashtra",
+   "Rajasthan",
+   "Madhya Pradesh",
+   "Gujarat"
+  ]
+ }
+]

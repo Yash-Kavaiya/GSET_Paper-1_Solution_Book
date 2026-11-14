@@ -1,0 +1,502 @@
+[
+ {
+  "n": 1,
+  "q": "Complete the series: 1, 3, 4, 8, 16, ?",
+  "opts": [
+   "30",
+   "31",
+   "32",
+   "33"
+  ]
+ },
+ {
+  "n": 2,
+  "q": "Complete the series: 10, 12, 16, 22, 30, ?",
+  "opts": [
+   "40",
+   "50",
+   "60",
+   "70"
+  ]
+ },
+ {
+  "n": 3,
+  "q": "Complete the series: 240, 240, 120, 40, ?",
+  "opts": [
+   "30",
+   "20",
+   "10",
+   "0"
+  ]
+ },
+ {
+  "n": 4,
+  "q": "If CENTRAL has been coded as XVMGIZO, what will be the correct code for PHYSICS?",
+  "opts": [
+   "KSBRHHX",
+   "HXBHKRX",
+   "KSBHRXH",
+   "HXRHSBK"
+  ]
+ },
+ {
+  "n": 5,
+  "q": "If GOAT is coded as HPBU, what will be the correct code for LIME ?",
+  "opts": [
+   "ORNZ",
+   "MJND",
+   "KHLF",
+   "MJNF"
+  ]
+ },
+ {
+  "n": 6,
+  "q": "If CHEMISTRY has been coded as DGFLJRUQZ, what will be the correct code for DESIGN?",
+  "opts": [
+   "EDTHMN",
+   "EDTMHN",
+   "EDTHNN",
+   "EDTHHM"
+  ]
+ },
+ {
+  "n": 7,
+  "q": "If CARPET is coded as XZIKVG, what will be the correct code for MARKET?",
+  "opts": [
+   "NZIPUG",
+   "NZIPVG",
+   "NZIQVG",
+   "NZIPTG"
+  ]
+ },
+ {
+  "n": 8,
+  "q": "The quality of research is judged by the:",
+  "opts": [
+   "Relevance of research",
+   "Methodology followed in conducting the research",
+   "Depth of the research",
+   "Experience of the researcher"
+  ]
+ },
+ {
+  "n": 9,
+  "q": "Which one of the following statements is not correct?",
+  "opts": [
+   "Any person can do research.",
+   "Research may be without a hypothesis.",
+   "Research requires library facilities.",
+   "Research is not always systematic."
+  ]
+ },
+ {
+  "n": 10,
+  "q": "The first step of research is:",
+  "opts": [
+   "Selection of Problem",
+   "Identification of Problem",
+   "Definition of Problem",
+   "Locating the Problem"
+  ]
+ },
+ {
+  "n": 11,
+  "q": "A good researcher must possess:",
+  "opts": [
+   "an inquiry mind",
+   "a master's degree",
+   "a good health",
+   "enough funds"
+  ]
+ },
+ {
+  "n": 12,
+  "q": "Which one of the following statements is not correct?",
+  "opts": [
+   "Hypothesis and assumptions are not same.",
+   "Problem refers to variable.",
+   "Quantitative data can be converted into qualitative data.",
+   "Qualitative data may be converted into quantitative data."
+  ]
+ },
+ {
+  "n": 13,
+  "q": "Which of the following is the most appropriate title for the passage, based on its content ?",
+  "opts": [
+   "Adaptive Divergence",
+   "Evolution",
+   "Changes in Organs",
+   "Our Changing Bodies"
+  ]
+ },
+ {
+  "n": 14,
+  "q": "The author provides information that would answer which of the following questions? (I) What factors cause change in organisms ? (II) What is the theory of evolution? (III) How are horses' legs related to seals' flippers ?",
+  "opts": [
+   "I only",
+   "II only",
+   "I and II only",
+   "I and III only"
+  ]
+ },
+ {
+  "n": 15,
+  "q": "Which of the following words could best be substituted for 'homologous' without substantially changing the author's meaning?",
+  "opts": [
+   "Altered",
+   "Mammalian",
+   "Corresponding",
+   "Divergent"
+  ]
+ },
+ {
+  "n": 16,
+  "q": "The author's style can best be described as:",
+  "opts": [
+   "Humorous",
+   "Objective",
+   "Esoteric",
+   "Patronizing"
+  ]
+ },
+ {
+  "n": 17,
+  "q": "Which of the following titles best summarizes the content of the passage?",
+  "opts": [
+   "New methods for calculating the composition of the Atmosphere",
+   "New Evidence concerning the stratification of the Atmosphere",
+   "The Atmosphere: Its nature and importance to our weather",
+   "The underlying causes of Atmospheric Turbulence"
+  ]
+ },
+ {
+  "n": 18,
+  "q": "According to the passage, life as we know it exists on the earth because the atmosphere:",
+  "opts": [
+   "contains a layer of ozone gases.",
+   "contains electrically charged particles.",
+   "is warmest at the bottom.",
+   "carries the ultraviolet rays of the sun."
+  ]
+ },
+ {
+  "n": 19,
+  "q": "The passage supplies information that would answer which of the following questions ? (I) How do the troposphere and the stratosphere differ ? (II) How does the ionosphere affect the weather? (III) How do earth satellites study the atmosphere ?",
+  "opts": [
+   "I only",
+   "II only",
+   "III only",
+   "I, II and III"
+  ]
+ },
+ {
+  "n": 20,
+  "q": "The passage states that the troposphere is the warmest part of the atmosphere because it :",
+  "opts": [
+   "is the closest to the sun.",
+   "radiates heat into space.",
+   "has winds and air current that distribute the heat.",
+   "is warmed by the earth's heat."
+  ]
+ },
+ {
+  "n": 21,
+  "q": "According to the passage, the atmosphere consists of all of the following, except:",
+  "opts": [
+   "21 percent oxygen",
+   "a definite amount of water vapour",
+   "ten permanent elements",
+   "considerable waste products"
+  ]
+ },
+ {
+  "n": 22,
+  "q": "It can be inferred from the passage that at the top of Jungfrau, which is 12,000 feet above the town of Interlaken in Switzerland, the temperature is usually :",
+  "opts": [
+   "below freezing",
+   "warmer than in Interlaken",
+   "about 42 degrees colder than on the ground",
+   "about 75 degrees colder than in Interlaken"
+  ]
+ },
+ {
+  "n": 23,
+  "q": "If I say 'sky is down and winter is hot', I would call a criminal:",
+  "opts": [
+   "Gangster",
+   "A cloud",
+   "Saint",
+   "Delinquent"
+  ]
+ },
+ {
+  "n": 24,
+  "q": "If Dolly's mother is John's father's sister, what relation is John to Dolly's father ?",
+  "opts": [
+   "Cousin",
+   "Nephew",
+   "Uncle",
+   "Brother"
+  ]
+ },
+ {
+  "n": 25,
+  "q": "Establish the relationship between the first two items. Find out the same relationship among the choices which follow the pattern of the two items: 20:21:: ?",
+  "opts": [
+   "6:10",
+   "10:B",
+   "S: V",
+   "A: B"
+  ]
+ },
+ {
+  "n": 26,
+  "q": "What is the percentage of total students enrolled in Medical and Engineering faculties ?",
+  "opts": [
+   "33.50",
+   "50.50",
+   "37.50",
+   "25.50"
+  ]
+ },
+ {
+  "n": 27,
+  "q": "What is the percentage of students enrolled in Arts and Science faculties?",
+  "opts": [
+   "90",
+   "60",
+   "50",
+   "45"
+  ]
+ },
+ {
+  "n": 28,
+  "q": "What is the percentage of students enrolled in Arts and Engineering faculties ?",
+  "opts": [
+   "62.50",
+   "75.00",
+   "50.50",
+   "33.33"
+  ]
+ },
+ {
+  "n": 29,
+  "q": "Suppose that the number of students enrolled in Engineering is 320; what is the number of students enrolled in Arts faculty?",
+  "opts": [
+   "450",
+   "460",
+   "470",
+   "480"
+  ]
+ },
+ {
+  "n": 30,
+  "q": "Suppose, the number of students enrolled in Engineering is 320; what is the total number of students enrolled in Commerce, Arts and Medical faculties?",
+  "opts": [
+   "700",
+   "800",
+   "900",
+   "1000"
+  ]
+ },
+ {
+  "n": 31,
+  "q": "All streets are watches. All watches are eagles. Therefore : (I) All streets are eagles. (II) All watches are streets.",
+  "opts": [
+   "if only inference (I) follows",
+   "if only inference (II) follows",
+   "if both of them follow",
+   "if neither of them follows"
+  ]
+ },
+ {
+  "n": 32,
+  "q": "All boys are mothers. All mothers are father. Therefore : (I) All mothers are boys. (II) All boys are fathers.",
+  "opts": [
+   "if only inference (I) follows",
+   "if only inference (II) follows",
+   "if both of them follow",
+   "if neither of them follows"
+  ]
+ },
+ {
+  "n": 33,
+  "q": "Monkey is a bird. Some birds are clouds. Therefore : (I) Monkey is a cloud. (II) Some clouds are birds.",
+  "opts": [
+   "if only inference (I) follows",
+   "if only inference (II) follows",
+   "if both of them follow",
+   "if neither of them follows"
+  ]
+ },
+ {
+  "n": 34,
+  "q": "Which item indicates consistent decrease in the export during the four years ?",
+  "opts": [
+   "Electronic goods",
+   "Textile",
+   "Rice",
+   "Sugar"
+  ]
+ },
+ {
+  "n": 35,
+  "q": "During 1990 which one of the four items had the highest percentage of export (Actual/Expected) ?",
+  "opts": [
+   "Machinery",
+   "Textile",
+   "Wheat",
+   "Sugar"
+  ]
+ },
+ {
+  "n": 36,
+  "q": "During which year the percent export of wheat was the lowest ?",
+  "opts": [
+   "1990",
+   "1991",
+   "1992",
+   "1993"
+  ]
+ },
+ {
+  "n": 37,
+  "q": "In which year sugar export was the lowest ?",
+  "opts": [
+   "1990",
+   "1992",
+   "1993",
+   "None of these"
+  ]
+ },
+ {
+  "n": 38,
+  "q": "During 1993 which item has the lowest percentage of export ?",
+  "opts": [
+   "Rice",
+   "Sugar",
+   "Wheat",
+   "Machinery"
+  ]
+ },
+ {
+  "n": 39,
+  "q": "Which word does not belong to the other three ?",
+  "opts": [
+   "Think",
+   "See",
+   "Hear",
+   "Smell"
+  ]
+ },
+ {
+  "n": 40,
+  "q": "Find one group of letters which is different from the other three:",
+  "opts": [
+   "TRP",
+   "SQO",
+   "TVX",
+   "YWU"
+  ]
+ },
+ {
+  "n": 41,
+  "q": "Teaching refers to:",
+  "opts": [
+   "giving information related to the subject.",
+   "creating environment that is conducive for learning.",
+   "dictating notes in the classroom.",
+   "solving difficulties of students related to the subject."
+  ]
+ },
+ {
+  "n": 42,
+  "q": "Which one of the following statements in not true?",
+  "opts": [
+   "Majority of teachers use lecture method.",
+   "The lecture method is less structured.",
+   "Lecture method is the best for giving more information in less time.",
+   "There are well-defined steps of lecture method."
+  ]
+ },
+ {
+  "n": 43,
+  "q": "Good teaching is best reflected by:",
+  "opts": [
+   "meaningful questions asked by students.",
+   "attendance of students.",
+   "number of distinctions.",
+   "pin-drop silence in the class."
+  ]
+ },
+ {
+  "n": 44,
+  "q": "The main objective of teaching at higher education level is:",
+  "opts": [
+   "to give information.",
+   "to develop reasoning and thinking abilities.",
+   "to develop expression power.",
+   "to develop study habits."
+  ]
+ },
+ {
+  "n": 45,
+  "q": "Noise in the classroom is best indicative of:",
+  "opts": [
+   "Only interaction among students.",
+   "Only interaction among teacher and students.",
+   "Only interaction between teacher and student.",
+   "(A) and/or (B)."
+  ]
+ },
+ {
+  "n": 46,
+  "q": "A student is reading a book at home. In this situation :",
+  "opts": [
+   "There is no communication.",
+   "There is a communication.",
+   "There is a two-way communication.",
+   "There is only non-verbal communication."
+  ]
+ },
+ {
+  "n": 47,
+  "q": "The facial expressions of students relate to which element of the communication process?",
+  "opts": [
+   "Message",
+   "Receiver",
+   "Sender",
+   "Channel"
+  ]
+ },
+ {
+  "n": 48,
+  "q": "Communication refers to:",
+  "opts": [
+   "exchange of information only.",
+   "exchange of feelings only.",
+   "exchange of information, feelings, emotions and views.",
+   "exchange of emotions only."
+  ]
+ },
+ {
+  "n": 49,
+  "q": "The Indian classrooms are generally best characterised by:",
+  "opts": [
+   "One-way verbal communication",
+   "Two-way verbal communication",
+   "One-way communication",
+   "Verbal communication"
+  ]
+ },
+ {
+  "n": 50,
+  "q": "Two persons sitting facing each other are engrossed in thinking. In this situation:",
+  "opts": [
+   "There is non-verbal communication.",
+   "There is no communication.",
+   "There is two-way non-verbal communication.",
+   "There is less verbal communication."
+  ]
+ }
+]

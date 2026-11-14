@@ -1,0 +1,502 @@
+[
+ {
+  "n": 1,
+  "q": "Read the para: Some matters do not decompose. Some matters take longer time to decompose. All plants decompose. All creepers are plants. Plastics decompose in longer time. Animals decompose in longer time. Which of the following statement(s) strictly do not flow from above given statements?",
+  "opts": [
+   "Plants are matter",
+   "Everything decomposable is matter",
+   "Animals are matters",
+   "All of the above"
+  ]
+ },
+ {
+  "n": 2,
+  "q": "Which of the following statement(s) strictly do not flow from above given statements?",
+  "opts": [
+   "Creepers decompose",
+   "Creepers are matters",
+   "Some creepers are not animals",
+   "None of the above"
+  ]
+ },
+ {
+  "n": 3,
+  "q": "Which of the following statement(s) strictly do not flow from above given statements?",
+  "opts": [
+   "Plastics are matters",
+   "What takes longer time to decompose is matter",
+   "Creepers decompose",
+   "All of the above"
+  ]
+ },
+ {
+  "n": 4,
+  "q": "Which of the following statement(s) strictly do not flow from above given statements?",
+  "opts": [
+   "What decomposes in longer time is matter",
+   "Matters are creepers",
+   "Animals are matters",
+   "All of the above"
+  ]
+ },
+ {
+  "n": 5,
+  "q": "Which of the following statement(s) strictly do not flow from above given statements?",
+  "opts": [
+   "Some matters are plants",
+   "Plastics take time to decompose",
+   "Some matters decompose, others do not",
+   "None of the above"
+  ]
+ },
+ {
+  "n": 6,
+  "q": "The following is the data (in crores) for educational expenditure (Ed. Ex.) for the various plan period, population (Pop) and Price Index (PI). [Base-1973-100]. This is purely hypothetical.\nPlan VI: Ed. Ex.=17.3, Pop.=50, PI=123\nPlan VII: Ed. Ex.=28.5, Pop.=55, PI=144\nPlan VIII: Ed. Ex.=37.6, Pop.=61, PI=189\nPlan IX: Ed. Ex.=38.5, Pop.=70, PI=210\n\nIn which plan period the total increase(%) in Educational expenditure was maximum ?",
+  "opts": [
+   "VI",
+   "VII",
+   "VIII",
+   "IX"
+  ]
+ },
+ {
+  "n": 7,
+  "q": "In which plan the per capita expenditure (without correction for Pop & PI) was the maximum?",
+  "opts": [
+   "VI",
+   "VII",
+   "VIII",
+   "IX"
+  ]
+ },
+ {
+  "n": 8,
+  "q": "In which plan the population increase with respect to the preceding plan period was minimum?",
+  "opts": [
+   "VI",
+   "VII",
+   "VIII",
+   "IX"
+  ]
+ },
+ {
+  "n": 9,
+  "q": "In which plan the per capita expenditure with PI-100 on education was maximum ?",
+  "opts": [
+   "VI",
+   "VII",
+   "VIII",
+   "IX"
+  ]
+ },
+ {
+  "n": 10,
+  "q": "In which plan educational expenditure as percent of total allocation was maximum ?",
+  "opts": [
+   "VI",
+   "VII",
+   "VIII",
+   "IX"
+  ]
+ },
+ {
+  "n": 11,
+  "q": "Which one of the following would be your reaction to the statement \"Research leads to wasteful expenditure\"?",
+  "opts": [
+   "I agree with the statement",
+   "I am not sure",
+   "I disagree with the statement",
+   "It is true in most of the cases"
+  ]
+ },
+ {
+  "n": 12,
+  "q": "Which one of the following is most essential for a researcher ?",
+  "opts": [
+   "Genuine interest in Research",
+   "Good understanding of Research Process",
+   "Adequate interest in and aptitude for Research",
+   "Patience and Perseverance"
+  ]
+ },
+ {
+  "n": 13,
+  "q": "A mature researcher is one",
+  "opts": [
+   "Whose hypothesis and thesis are identical",
+   "Who maintains critical gap between hypothesis and thesis",
+   "Who has an open mind about the results",
+   "Whose hypothesis is very often rejected"
+  ]
+ },
+ {
+  "n": 14,
+  "q": "Which one of the following is the purpose of research?",
+  "opts": [
+   "to create knowledge",
+   "to construct reality",
+   "to solve problems",
+   "All of the above"
+  ]
+ },
+ {
+  "n": 15,
+  "q": "Which one of the following tools would yield relatively most valid data ?",
+  "opts": [
+   "Attitude Scale",
+   "Rating Scale",
+   "Opinionnaire",
+   "Observation Schedules"
+  ]
+ },
+ {
+  "n": 16,
+  "q": "A person who harbours no absolutes and appreciates logical alternatives adheres to:",
+  "opts": [
+   "Scientific Realism",
+   "Positive Relativism",
+   "Logical Empiricism",
+   "Logical Positivism"
+  ]
+ },
+ {
+  "n": 17,
+  "q": "'X' includes Y. Y is included in 'Z'. Therefore :",
+  "opts": [
+   "X is included in Y",
+   "Y is included in X",
+   "Both are same",
+   "All the above are possible"
+  ]
+ },
+ {
+  "n": 18,
+  "q": "You are working on an urgent assignment at night in your study. The assignment has to be submitted the next morning. Suddenly, it is pitch dark in your house. Tick the option that would be your first response to this situation.",
+  "opts": [
+   "Ring up the night duty staff of the electricity office",
+   "Check the main fuse",
+   "Curse the electricity board and their supply",
+   "Check up if there is light in the adjacent houses"
+  ]
+ },
+ {
+  "n": 19,
+  "q": "The most effective way for a teacher to make his students punctual would be to",
+  "opts": [
+   "lecture on it every second day",
+   "be punctual himself",
+   "use teaching aids to make students understand its importance",
+   "narrate stories on benefits of punctuality"
+  ]
+ },
+ {
+  "n": 20,
+  "q": "Why are many people eager to join teaching profession ?",
+  "opts": [
+   "Teachers serve the entire society",
+   "More job opportunities are available in teaching profession",
+   "Adequate salary is paid in this profession",
+   "Teaching is considered an easy job"
+  ]
+ },
+ {
+  "n": 21,
+  "q": "The most desirable quality in a teacher is",
+  "opts": [
+   "Mastery of the subject",
+   "Mastery of teaching competency",
+   "Clarity of thought and expression",
+   "All of the above"
+  ]
+ },
+ {
+  "n": 22,
+  "q": "Which one of the following can be the most effective method for building student's character?",
+  "opts": [
+   "Lecturing on moral values",
+   "Teaching about the lives of great men",
+   "Living example of a good teacher",
+   "Praising good character"
+  ]
+ },
+ {
+  "n": 23,
+  "q": "A student comes late to the class daily. You as a teacher would",
+  "opts": [
+   "pull up the student with sarcastic remarks",
+   "not allow the student to enter your class",
+   "tell the student to be in time",
+   "allow the student to come in quietly"
+  ]
+ },
+ {
+  "n": 24,
+  "q": "Which of the following is the most undesirable for a teacher ?",
+  "opts": [
+   "To be authoritative in the class",
+   "To humiliate the students",
+   "To keep the students at a distance",
+   "To treat the students as friends"
+  ]
+ },
+ {
+  "n": 25,
+  "q": "When answering a question in class if a student gives wrong response, the teacher should:",
+  "opts": [
+   "correct the student immediately",
+   "not put any question to the student",
+   "give the correct answer himself",
+   "re-direct the same question to another student"
+  ]
+ },
+ {
+  "n": 26,
+  "q": "During the Vietnam war, the military started doubting the press because of;",
+  "opts": [
+   "the availability of TV for covering war",
+   "the video-cassettes on the war",
+   "the war images telecast by American television companies",
+   "the television images being black and white"
+  ]
+ },
+ {
+  "n": 27,
+  "q": "What was the major difference between war reporters of World War II and those of the Vietnam war? The Vietnam war reporters:",
+  "opts": [
+   "could go to all war fronts",
+   "had a higher rank and more facilities",
+   "respected their promise",
+   "had more disagreements with military authorities"
+  ]
+ },
+ {
+  "n": 28,
+  "q": "The press battles were the result of:",
+  "opts": [
+   "the difference between the versions of military authority and the war reporters",
+   "the different thinking and reporting of different reporters",
+   "the press reporters' different views on troop movement",
+   "the different press reports of various newspapers"
+  ]
+ },
+ {
+  "n": 29,
+  "q": "Some military men still believe that America lost the Vietnam war because:",
+  "opts": [
+   "the press reporters betrayed the cause",
+   "the mass media made people cry against the war",
+   "the television images on war were improper",
+   "the army became demoralised"
+  ]
+ },
+ {
+  "n": 30,
+  "q": "The tension between the military and the press will continue because :",
+  "opts": [
+   "both of them want to emerge superior",
+   "the press opposes the military",
+   "the press serves the people and the military is faithful to the state",
+   "the press pursues truth in all situations"
+  ]
+ },
+ {
+  "n": 31,
+  "q": "Mark the word that does not belong to the group :",
+  "opts": [
+   "Smile",
+   "Anger",
+   "Annoyance",
+   "Irritation"
+  ]
+ },
+ {
+  "n": 32,
+  "q": "Spot the expression that does not belong to the group:",
+  "opts": [
+   "Gnashing teeth",
+   "Knitting brows",
+   "Creased foreheads",
+   "Smiling eyes"
+  ]
+ },
+ {
+  "n": 33,
+  "q": "Bird: Feather: Cat:?",
+  "opts": [
+   "Claw",
+   "Fur",
+   "Ears",
+   "Skin"
+  ]
+ },
+ {
+  "n": 34,
+  "q": "Heavy: Lead:: Cool:?",
+  "opts": [
+   "Winter",
+   "Water",
+   "Ice",
+   "Breeze"
+  ]
+ },
+ {
+  "n": 35,
+  "q": "Air: Animates:: Vitamins: ?",
+  "opts": [
+   "Amino Acids",
+   "Mineral",
+   "Food",
+   "Health"
+  ]
+ },
+ {
+  "n": 36,
+  "q": "The average age of 32 students is 10 years. If the teacher's age is also included, then their average age increases by one year. What is the teacher's age in years ?",
+  "opts": [
+   "33",
+   "21",
+   "43",
+   "45"
+  ]
+ },
+ {
+  "n": 37,
+  "q": "The average weight of a ring is 10 gm which contains gold and copper in the ratio of 9.5 : 0.5. What would be the weight of copper in the ring weighing 8 gms if the same ratio is to be maintained ?",
+  "opts": [
+   "0.5 gm",
+   "0.4 gm",
+   "0.3 gm",
+   "3.5 gm"
+  ]
+ },
+ {
+  "n": 38,
+  "q": "In a garden, there are peacocks and four-footed animals. All these have 98 feet and 35 heads. How many peacocks are there?",
+  "opts": [
+   "23",
+   "25",
+   "21",
+   "19"
+  ]
+ },
+ {
+  "n": 39,
+  "q": "Grass looks green because :",
+  "opts": [
+   "The eye responds to the green colour.",
+   "The grass reflects only green colour.",
+   "Green is one of the primary colours.",
+   "Green is not a warm colour."
+  ]
+ },
+ {
+  "n": 40,
+  "q": "In a coded message FRIEND is written as IOKCQA. Using the same code SPIKER will be written as:",
+  "opts": [
+   "VMLIGT",
+   "VNHHIV",
+   "VMKIHO",
+   "VNFMHP"
+  ]
+ },
+ {
+  "n": 41,
+  "q": "Identify the statement 'Quality of research is dependent on researcher's knowledge of research methodology' as:",
+  "opts": [
+   "Assumption",
+   "Fact",
+   "Hypothesis",
+   "Opinion"
+  ]
+ },
+ {
+  "n": 42,
+  "q": "Identify the statement 'Teaching is an art' as:",
+  "opts": [
+   "Assumption",
+   "Fact",
+   "Hypothesis",
+   "Opinion"
+  ]
+ },
+ {
+  "n": 43,
+  "q": "Identify the statement 'Physical growth of a learner is age related' as:",
+  "opts": [
+   "Assumption",
+   "Fact",
+   "Hypothesis",
+   "Opinion"
+  ]
+ },
+ {
+  "n": 44,
+  "q": "Identify the statement 'Manipulation of independent variable/variables is required in experimentation' as:",
+  "opts": [
+   "Assumption",
+   "Fact",
+   "Hypothesis",
+   "Opinion"
+  ]
+ },
+ {
+  "n": 45,
+  "q": "Identify the statement 'Protein is essential for reconstruction of cells' as:",
+  "opts": [
+   "Assumption",
+   "Fact",
+   "Hypothesis",
+   "Opinion"
+  ]
+ },
+ {
+  "n": 46,
+  "q": "1, 3, 5, 7, 11, 13, ....?.....",
+  "opts": [
+   "15",
+   "17",
+   "19",
+   "21"
+  ]
+ },
+ {
+  "n": 47,
+  "q": "3, 15, 35, 77, ....?...",
+  "opts": [
+   "142",
+   "156",
+   "141",
+   "172"
+  ]
+ },
+ {
+  "n": 48,
+  "q": "3, 5, 9, 15, 23, 33, 45, .........",
+  "opts": [
+   "59",
+   "61",
+   "68",
+   "69"
+  ]
+ },
+ {
+  "n": 49,
+  "q": "4, 2, 5, 1, 6, ....?.....",
+  "opts": [
+   "8",
+   "7",
+   "9",
+   "0"
+  ]
+ },
+ {
+  "n": 50,
+  "q": "1221, 2442, 3663, 4884, ....?....",
+  "opts": [
+   "6084",
+   "6006",
+   "6000",
+   "5665"
+  ]
+ }
+]

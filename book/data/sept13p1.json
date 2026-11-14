@@ -1,0 +1,602 @@
+[
+ {
+  "n": 1,
+  "q": "Teaching means to help students",
+  "opts": [
+   "how to think",
+   "what to think",
+   "why to think",
+   "when to think"
+  ]
+ },
+ {
+  "n": 2,
+  "q": "Which of the following is not true when we say that `An educational institution is a laboratory that provides experiences'?",
+  "opts": [
+   "in absorbing and producing knowledge",
+   "in getting life's adventure",
+   "for practical economics and self-development",
+   "for actually completing the course"
+  ]
+ },
+ {
+  "n": 3,
+  "q": "Regularity in class attendance can be ensured by",
+  "opts": [
+   "organising cultural programmes in the college",
+   "imposing fine from students",
+   "having frequent interaction with parents and students",
+   "having strict discipline code in the college"
+  ]
+ },
+ {
+  "n": 4,
+  "q": "The purpose of using teaching aids in the classroom is to",
+  "opts": [
+   "motivate students for learning",
+   "concretise abstract concepts",
+   "simplify teaching",
+   "use imagination of students"
+  ]
+ },
+ {
+  "n": 5,
+  "q": "A college teacher will really help students if she",
+  "opts": [
+   "explains at length",
+   "is objective in her evaluation",
+   "encourages students to learn on their own",
+   "covers syllabus completely in the class"
+  ]
+ },
+ {
+  "n": 6,
+  "q": "Which of the following is a more desirable outcome of teaching in higher education?",
+  "opts": [
+   "Increase in student scores",
+   "Enhanced independent thinking of students",
+   "Higher pass percentage",
+   "Increase in number of students who opt for the subject"
+  ]
+ },
+ {
+  "n": 7,
+  "q": "Which of the following kinds of research studies does not require sampling?",
+  "opts": [
+   "Ex-post Facto",
+   "Experimental",
+   "Survey",
+   "Case study"
+  ]
+ },
+ {
+  "n": 8,
+  "q": "Which of the following pertains to scientific method ?",
+  "opts": [
+   "experiential evidences",
+   "hypothetico deduction",
+   "a priori exploration",
+   "belief in subjectivity of evidence"
+  ]
+ },
+ {
+  "n": 9,
+  "q": "Opinion of 'facebook users' on reservation policy in education is to be studied. The most appropriate sampling technique for the purpose is:",
+  "opts": [
+   "Stratified Random Sampling",
+   "Snowball Sampling",
+   "Cluster Sampling",
+   "Quota Sampling"
+  ]
+ },
+ {
+  "n": 10,
+  "q": "One's attitude towards knowledge should be:",
+  "opts": [
+   "to accept what is proved by empirical evidence",
+   "to accept believing that knowledge leads to improvement",
+   "to accept the final truth",
+   "not to accept anything that is not personally verified"
+  ]
+ },
+ {
+  "n": 11,
+  "q": "Objectivity in research implies:",
+  "opts": [
+   "Correct judgement of truth",
+   "Findings consistent with reality",
+   "Agreement in results",
+   "Methodological sophistication"
+  ]
+ },
+ {
+  "n": 12,
+  "q": "The research that aims at immediate application is",
+  "opts": [
+   "Action Research",
+   "Empirical Research",
+   "Conceptual Research",
+   "Fundamental Research"
+  ]
+ },
+ {
+  "n": 13,
+  "q": "Find the odd one out",
+  "opts": [
+   "CD ROM",
+   "Hard Disk",
+   "Pen Drive",
+   "RAM"
+  ]
+ },
+ {
+  "n": 14,
+  "q": "Radio and TV are more powerful and successful than the newspaper in communicating socially relevant messages because:",
+  "opts": [
+   "they are designed for such purposes",
+   "they are capable of catching the attention of people",
+   "they present a variety of programmes",
+   "they can reach even the illiterate masses"
+  ]
+ },
+ {
+  "n": 15,
+  "q": "One significant feature that enhances quality of teacher's communication in classroom is:",
+  "opts": [
+   "low noise level inside and outside classroom",
+   "students' level of understanding",
+   "teacher's ability to empathise with students",
+   "accuracy in the content being communicated"
+  ]
+ },
+ {
+  "n": 16,
+  "q": "Full form of PDF is:",
+  "opts": [
+   "Portable Document Format",
+   "Portable Document File",
+   "Permanent Document Format",
+   "Permanent Document File"
+  ]
+ },
+ {
+  "n": 17,
+  "q": "The relation of data to information is that of",
+  "opts": [
+   "raw material to its processing",
+   "raw material to its quality",
+   "raw material to a finished product",
+   "both (A) and (B) above"
+  ]
+ },
+ {
+  "n": 18,
+  "q": "The set of procedures for handling the information transaction processing systems excludes",
+  "opts": [
+   "calculation",
+   "classification",
+   "sorting",
+   "conclusion"
+  ]
+ },
+ {
+  "n": 19,
+  "q": "To disrupt cellphone reception in a specific region jammers are used. This is a tool to obstruct communication at",
+  "opts": [
+   "Receiver level",
+   "Sender level",
+   "Feedback level",
+   "Media level"
+  ]
+ },
+ {
+  "n": 20,
+  "q": "The potential of ICT is better utilized when used as a",
+  "opts": [
+   "Teaching Supplement",
+   "Teaching Support",
+   "Learning Resource",
+   "Learning Reinforcement"
+  ]
+ },
+ {
+  "n": 21,
+  "q": "Which TV channel is launched to provide technology based real classroom experiences through virtual mode to the distance education learners ?",
+  "opts": [
+   "Gyan Darshan",
+   "Eklavya",
+   "Vyas",
+   "Kisan"
+  ]
+ },
+ {
+  "n": 22,
+  "q": "A computer operating system that permits large number of students and teachers to run programs at the same time is known as",
+  "opts": [
+   "Multiprogramming System",
+   "Real Time System",
+   "Multitasking System",
+   "Time Sharing System"
+  ]
+ },
+ {
+  "n": 23,
+  "q": "What is the advantage of using database indexes over browsing the internet during research?",
+  "opts": [
+   "Information on database has been checked by the sources that publish it",
+   "Database have wide variety of sources",
+   "Access to relevant information is faster than the web browsing",
+   "Databases are huge"
+  ]
+ },
+ {
+  "n": 24,
+  "q": "Which of the following acronyms would normally be used to describe unsolicited junk e-mails?",
+  "opts": [
+   "WHAM",
+   "DRAM",
+   "CRAM",
+   "SPAM"
+  ]
+ },
+ {
+  "n": 25,
+  "q": "Insert the missing number in the following sequence 240, .........., 120, 40, 10, 2",
+  "opts": [
+   "120",
+   "80",
+   "240",
+   "60"
+  ]
+ },
+ {
+  "n": 26,
+  "q": "If BUT = 101 and NUT = 1301, then HUT = ?",
+  "opts": [
+   "501",
+   "701",
+   "901",
+   "1001"
+  ]
+ },
+ {
+  "n": 27,
+  "q": "Complete the sequence B, D, G, I, L, N, ......",
+  "opts": [
+   "O",
+   "P",
+   "Q",
+   "R"
+  ]
+ },
+ {
+  "n": 28,
+  "q": "What will be the next letters in the following sequence ? CDBA, GHFE, KLJI, ......",
+  "opts": [
+   "OPMN",
+   "OPNM",
+   "MNLK",
+   "PQON"
+  ]
+ },
+ {
+  "n": 29,
+  "q": "What will be the next letters in the following sequence ? FEXW, GHVU, JITS, ......",
+  "opts": [
+   "KLRQ",
+   "LMRQ",
+   "MLQR",
+   "KLSR"
+  ]
+ },
+ {
+  "n": 30,
+  "q": "Q is shorter than P but taller than R. R is shorter than P but taller than A. W is shorter than A. If they stand in ascending order of their height, the order in which they are standing would be :",
+  "opts": [
+   "ARWQP",
+   "WAQRP",
+   "WARQP",
+   "WARPQ"
+  ]
+ },
+ {
+  "n": 31,
+  "q": "Exposure to new ideas will empower masses as it enables them to understand",
+  "opts": [
+   "happenings in the world around",
+   "that they need to open their eyes",
+   "helps them to demand what is due to them",
+   "that they can also learn"
+  ]
+ },
+ {
+  "n": 32,
+  "q": "Enhancing the proportion of education and intelligence among the masses can also be called",
+  "opts": [
+   "National programme",
+   "Mass education",
+   "Development programme",
+   "Educational programme"
+  ]
+ },
+ {
+  "n": 33,
+  "q": "One major drawback faced by India post-independence was",
+  "opts": [
+   "unwillingness of masses to get educated",
+   "concentration of education among smaller sections of population",
+   "economic downfall of masses",
+   "lack of ideas among the citizens"
+  ]
+ },
+ {
+  "n": 34,
+  "q": "Upliftment of masses involves one of the following",
+  "opts": [
+   "everyone works out one's own salvation",
+   "introduction of programmes for people's salvation by the Government",
+   "freedom given to people to work independently",
+   "everyone's eyes open while learning"
+  ]
+ },
+ {
+  "n": 35,
+  "q": "Only education can help masses develop as",
+  "opts": [
+   "it makes them learn",
+   "it enhances their individuality",
+   "it is like putting several chemicals together",
+   "it helps them crystallize their efforts"
+  ]
+ },
+ {
+  "n": 36,
+  "q": "The passage is in line with the present day view of education as a process of",
+  "opts": [
+   "self help",
+   "idea generation",
+   "facilitation of learning",
+   "crystallisation of ideas"
+  ]
+ },
+ {
+  "n": 37,
+  "q": "Which of the following is not a method of water conservation?",
+  "opts": [
+   "Dual flush in toilets",
+   "Groundwater recharging",
+   "RO and UV treatment of water",
+   "Rain water harvesting"
+  ]
+ },
+ {
+  "n": 38,
+  "q": "Ozone hole is considered harmful to us because",
+  "opts": [
+   "it can increase global warming",
+   "it allows UV radiations to reach earth which may cause skin cancer",
+   "it may allow entry of toxic gases from other planets",
+   "all the gases will escape from this hole and we will be without oxygen"
+  ]
+ },
+ {
+  "n": 39,
+  "q": "Which of the following is not a major source of energy?",
+  "opts": [
+   "fossil fuel",
+   "biomass",
+   "rains",
+   "nuclear energy"
+  ]
+ },
+ {
+  "n": 40,
+  "q": "Which of the following is an environmental problem associated with abandoned coal mines ?",
+  "opts": [
+   "thermal pollution of streams in the area",
+   "acid drainage due to leaching of soil heaps by rain water",
+   "air pollution caused by smog from ozone formation",
+   "alkaline solutions that pollute streams"
+  ]
+ },
+ {
+  "n": 41,
+  "q": "Climate change may pose health related problems because of",
+  "opts": [
+   "malnutrition due to lack of food",
+   "diseases due to increased pests",
+   "diseases due to increased population of insect carriers",
+   "failure of existing medical facility to control any epidemic"
+  ]
+ },
+ {
+  "n": 42,
+  "q": "Which of the following is least likely to be an effect of global warming?",
+  "opts": [
+   "Extinction of some species",
+   "Increase in sea water level",
+   "Decreased hydrocarbon in plants",
+   "Loss of fertile delta regions for agriculture"
+  ]
+ },
+ {
+  "n": 43,
+  "q": "To ensure quality in higher education, the NAAC provides",
+  "opts": [
+   "Norms and Regulations",
+   "Rules and Procedures",
+   "Indicators of quality",
+   "Case studies of good institutions"
+  ]
+ },
+ {
+  "n": 44,
+  "q": "Which of the following is a regulatory body of technical education in India?",
+  "opts": [
+   "NCTE",
+   "MCI",
+   "AIU",
+   "AICTE"
+  ]
+ },
+ {
+  "n": 45,
+  "q": "Distance learning system involves studying courses through",
+  "opts": [
+   "printed learning material in the college library",
+   "printed as well as other media at one's place of living",
+   "various methods of learning in college",
+   "one's own efforts in the college without attending classes"
+  ]
+ },
+ {
+  "n": 46,
+  "q": "Universities or Higher Education Institutions like to get accredited by NAAC because",
+  "opts": [
+   "degrees get accepted in the academic world",
+   "status of the institution is established",
+   "get relative placement in academic world",
+   "strengths of university get streamlined"
+  ]
+ },
+ {
+  "n": 47,
+  "q": "Continuous and comprehensive evaluation is better than summative evaluation because it",
+  "opts": [
+   "keeps students busy all through the year",
+   "gives a progressive picture of students' achievement",
+   "helps in improving students' competencies in different areas",
+   "would improve the annual result of the class"
+  ]
+ },
+ {
+  "n": 48,
+  "q": "Several experts criticise semester system in universities. Which of the following statements best endorses their view?",
+  "opts": [
+   "It does not provide sufficient time for deeper knowledge",
+   "It increases the burden of students and teachers",
+   "It controls free thinking of students.",
+   "The focus is more on earning grades and marks than learning"
+  ]
+ },
+ {
+  "n": 49,
+  "q": "What is the average percentage of students per year employed through campus interviews?",
+  "opts": [
+   "36 17/33",
+   "37",
+   "38",
+   "35"
+  ]
+ },
+ {
+  "n": 50,
+  "q": "How many students choose other activities in 2012?",
+  "opts": [
+   "216",
+   "210",
+   "250",
+   "180"
+  ]
+ },
+ {
+  "n": 51,
+  "q": "What is the increase in the number of students going for further studies during 2010-2012?",
+  "opts": [
+   "300",
+   "30",
+   "112",
+   "110"
+  ]
+ },
+ {
+  "n": 52,
+  "q": "The 20% of the total bungalows are white in colour. How many are there?",
+  "opts": [
+   "10",
+   "8",
+   "6",
+   "12"
+  ]
+ },
+ {
+  "n": 53,
+  "q": "How many residences are flat type ?",
+  "opts": [
+   "20",
+   "30",
+   "35",
+   "45"
+  ]
+ },
+ {
+  "n": 54,
+  "q": "From among the 12% independent houses, 50% are facing east direction. How many are they?",
+  "opts": [
+   "12",
+   "9",
+   "6",
+   "10"
+  ]
+ },
+ {
+  "n": 55,
+  "q": "In the following if the smallest circle represents candidates clearing GSET exam, bigger circle represents candidates clearing only Paper-I of the GSET exam and the biggest circle represents the candidates who failed in the GSET exam, then choose the diagram which correctly represents this relationships.",
+  "opts": [
+   "[Diagram A]",
+   "[Diagram B]",
+   "[Diagram C]",
+   "[Diagram D]"
+  ]
+ },
+ {
+  "n": 56,
+  "q": "Consider the following statement followed by two assumptions (i) and (ii). Choose the correct answer. Statement : \"You are hereby appointed as a programmer with a probation period of one year and your performance will be reviewed at the end of the period for confirmation.\" A line in an appointment letter. Assumptions : (i) The performance of an individual is generally not known at the time of appointment offer. (ii) Generally an individual tries to prove his/her worth in the probation period.",
+  "opts": [
+   "Only Assumption (i) is implicit.",
+   "Only Assumption (ii) is implicit.",
+   "None of the assumptions (i) and (ii) are implicit.",
+   "Both the Assumptions (i) and (ii) are implicit."
+  ]
+ },
+ {
+  "n": 57,
+  "q": "Of the following statements, there are two statements both of which cannot be false but both can be true. Which are these two statements? (i) All the students wish to complete their study. (ii) Some students do not like Mathematics. (iii) No student wishes to complete the study. (iv) No student likes Mathematics.",
+  "opts": [
+   "(i) and (ii)",
+   "(iii) and (iv)",
+   "(i) and (iii)",
+   "(ii) and (iv)"
+  ]
+ },
+ {
+  "n": 58,
+  "q": "Evaluate the following statements in terms of whether each is a Fact, Opinion, Prejudice or Advice by choosing correct alternative. (i) Women are not suitable for police service. (ii) In democracy no party should be in power for too long (iii) Have proper rest even during examination time. (iv) Obesity is a risk factor for coronary heart diseases.",
+  "opts": [
+   "(ii) (iii) (iv) (i)",
+   "(ii) (i) (iv) (iii)",
+   "(iii) (i) (iv) (ii)",
+   "(ii) (iv) (iii) (i)"
+  ]
+ },
+ {
+  "n": 59,
+  "q": "The question below is followed by two arguments numbered (i) and (ii). Decide which argument is strong. Question: Should India encourage exports when most things are insufficient for internal use itself? Arguments: (i) Yes. We have to earn foreign exchange to pay at least for our defence and other necessary exports. (ii) No. Even selective encouragement will lead to shortages.",
+  "opts": [
+   "Only Argument (i) is strong.",
+   "Only Argument (ii) is strong.",
+   "Both the Arguments (i) and (ii) are strong.",
+   "None of the arguments (i) and (ii) are strong."
+  ]
+ },
+ {
+  "n": 60,
+  "q": "Consider the following two statements and choose the correct answer. Statement (i): There has been a high increase in the incidents of atrocities against women in the country during past few years. Statement (ii) : The police authority has been unable to nab the culprits committing crime against women.",
+  "opts": [
+   "Statement (i) is cause and Statement (ii) is effect.",
+   "Statement (ii) is cause and Statement (i) is effect.",
+   "Statements (i) and (ii) are both independent of causes.",
+   "Statements (i) and (ii) are both effects of some independent causes."
+  ]
+ }
+]
